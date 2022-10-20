@@ -1,0 +1,4191 @@
+A0007_03_01.bmp and A0007_04_01.bmp: 
+ MOS: 1.56e+03 v.s. 1.42e+03 
+ MAD: 92 v.s. 92 
+ DeepJSD: 0.565 v.s. 0.555
+ 
+A0016_00_02.bmp and A0016_00_05.bmp: 
+ MOS: 1.51e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.304
+ 
+A0016_00_02.bmp and A0016_00_08.bmp: 
+ MOS: 1.51e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.298
+ 
+A0016_00_02.bmp and A0016_01_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.279
+ 
+A0016_00_02.bmp and A0016_01_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.271
+ 
+A0016_00_02.bmp and A0016_01_06.bmp: 
+ MOS: 1.51e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.271
+ 
+A0016_00_02.bmp and A0016_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.232
+ 
+A0016_00_02.bmp and A0016_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.226
+ 
+A0016_00_02.bmp and A0016_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.27
+ 
+A0016_00_02.bmp and A0016_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.27
+ 
+A0016_00_02.bmp and A0016_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.267
+ 
+A0016_00_05.bmp and A0016_00_08.bmp: 
+ MOS: 1.62e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.298
+ 
+A0016_00_05.bmp and A0016_00_11.bmp: 
+ MOS: 1.62e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.287
+ 
+A0016_00_05.bmp and A0016_01_00.bmp: 
+ MOS: 1.62e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.279
+ 
+A0016_00_05.bmp and A0016_01_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.271
+ 
+A0016_00_05.bmp and A0016_01_06.bmp: 
+ MOS: 1.62e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.271
+ 
+A0016_00_05.bmp and A0016_01_12.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.226
+ 
+A0016_00_05.bmp and A0016_02_02.bmp: 
+ MOS: 1.62e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.27
+ 
+A0016_00_05.bmp and A0016_02_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.27
+ 
+A0016_00_05.bmp and A0016_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.304 v.s. 0.267
+ 
+A0016_00_08.bmp and A0016_00_11.bmp: 
+ MOS: 1.67e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.287
+ 
+A0016_00_08.bmp and A0016_01_00.bmp: 
+ MOS: 1.67e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.279
+ 
+A0016_00_08.bmp and A0016_01_03.bmp: 
+ MOS: 1.67e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.271
+ 
+A0016_00_08.bmp and A0016_01_06.bmp: 
+ MOS: 1.67e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.271
+ 
+A0016_00_08.bmp and A0016_01_09.bmp: 
+ MOS: 1.67e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.232
+ 
+A0016_00_08.bmp and A0016_01_12.bmp: 
+ MOS: 1.67e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.226
+ 
+A0016_00_08.bmp and A0016_02_02.bmp: 
+ MOS: 1.67e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.27
+ 
+A0016_00_08.bmp and A0016_02_03.bmp: 
+ MOS: 1.67e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.27
+ 
+A0016_00_08.bmp and A0016_06_23.bmp: 
+ MOS: 1.67e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.298 v.s. 0.267
+ 
+A0016_00_11.bmp and A0016_01_00.bmp: 
+ MOS: 1.56e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.279
+ 
+A0016_00_11.bmp and A0016_01_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.271
+ 
+A0016_00_11.bmp and A0016_01_06.bmp: 
+ MOS: 1.56e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.271
+ 
+A0016_00_11.bmp and A0016_01_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.232
+ 
+A0016_00_11.bmp and A0016_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.226
+ 
+A0016_00_11.bmp and A0016_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.27
+ 
+A0016_00_11.bmp and A0016_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.27
+ 
+A0016_01_00.bmp and A0016_01_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.271
+ 
+A0016_01_00.bmp and A0016_01_06.bmp: 
+ MOS: 1.58e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.271
+ 
+A0016_01_00.bmp and A0016_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.232
+ 
+A0016_01_00.bmp and A0016_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.226
+ 
+A0016_01_00.bmp and A0016_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.27
+ 
+A0016_01_00.bmp and A0016_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.27
+ 
+A0016_01_00.bmp and A0016_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.267
+ 
+A0016_01_03.bmp and A0016_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.232
+ 
+A0016_01_03.bmp and A0016_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.226
+ 
+A0016_01_03.bmp and A0016_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.27
+ 
+A0016_01_03.bmp and A0016_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.27
+ 
+A0016_01_03.bmp and A0016_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.267
+ 
+A0016_01_06.bmp and A0016_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.232
+ 
+A0016_01_06.bmp and A0016_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.226
+ 
+A0016_01_06.bmp and A0016_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.267
+ 
+A0016_01_09.bmp and A0016_01_12.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.226
+ 
+A0016_01_09.bmp and A0016_02_02.bmp: 
+ MOS: 1.62e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.27
+ 
+A0016_01_09.bmp and A0016_02_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.27
+ 
+A0016_01_09.bmp and A0016_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.267
+ 
+A0016_01_12.bmp and A0016_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.27
+ 
+A0016_01_12.bmp and A0016_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.27
+ 
+A0016_01_12.bmp and A0016_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.267
+ 
+A0016_02_02.bmp and A0016_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.27 v.s. 0.267
+ 
+A0016_02_03.bmp and A0016_06_23.bmp: 
+ MOS: 1.49e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.27 v.s. 0.267
+ 
+A0023_00_02.bmp and A0023_00_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.316
+ 
+A0023_00_02.bmp and A0023_01_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.283
+ 
+A0023_00_02.bmp and A0023_01_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.284
+ 
+A0023_00_02.bmp and A0023_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.279
+ 
+A0023_00_02.bmp and A0023_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.277
+ 
+A0023_00_02.bmp and A0023_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.299
+ 
+A0023_00_02.bmp and A0023_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.291
+ 
+A0023_00_02.bmp and A0023_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.296 v.s. 0.236
+ 
+A0023_00_08.bmp and A0023_00_11.bmp: 
+ MOS: 1.62e+03 v.s. 1.45e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.295
+ 
+A0023_00_08.bmp and A0023_01_00.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.295
+ 
+A0023_00_08.bmp and A0023_01_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.283
+ 
+A0023_00_08.bmp and A0023_01_06.bmp: 
+ MOS: 1.62e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.284
+ 
+A0023_00_08.bmp and A0023_01_09.bmp: 
+ MOS: 1.62e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.279
+ 
+A0023_00_08.bmp and A0023_01_12.bmp: 
+ MOS: 1.62e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.277
+ 
+A0023_00_08.bmp and A0023_02_02.bmp: 
+ MOS: 1.62e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.299
+ 
+A0023_00_08.bmp and A0023_02_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.291
+ 
+A0023_00_08.bmp and A0023_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.316 v.s. 0.236
+ 
+A0023_00_11.bmp and A0023_01_03.bmp: 
+ MOS: 1.45e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.283
+ 
+A0023_00_11.bmp and A0023_01_06.bmp: 
+ MOS: 1.45e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.284
+ 
+A0023_00_11.bmp and A0023_01_09.bmp: 
+ MOS: 1.45e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.279
+ 
+A0023_00_11.bmp and A0023_01_12.bmp: 
+ MOS: 1.45e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.277
+ 
+A0023_00_11.bmp and A0023_02_02.bmp: 
+ MOS: 1.45e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.299
+ 
+A0023_00_11.bmp and A0023_02_03.bmp: 
+ MOS: 1.45e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.291
+ 
+A0023_00_11.bmp and A0023_06_23.bmp: 
+ MOS: 1.45e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.236
+ 
+A0023_01_00.bmp and A0023_01_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.283
+ 
+A0023_01_00.bmp and A0023_01_06.bmp: 
+ MOS: 1.54e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.284
+ 
+A0023_01_00.bmp and A0023_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.279
+ 
+A0023_01_00.bmp and A0023_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.277
+ 
+A0023_01_00.bmp and A0023_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.299
+ 
+A0023_01_00.bmp and A0023_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.291
+ 
+A0023_01_00.bmp and A0023_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.295 v.s. 0.236
+ 
+A0023_01_03.bmp and A0023_01_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.283 v.s. 0.279
+ 
+A0023_01_03.bmp and A0023_01_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.283 v.s. 0.277
+ 
+A0023_01_03.bmp and A0023_02_02.bmp: 
+ MOS: 1.49e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.283 v.s. 0.299
+ 
+A0023_01_03.bmp and A0023_02_03.bmp: 
+ MOS: 1.49e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.283 v.s. 0.291
+ 
+A0023_01_03.bmp and A0023_06_23.bmp: 
+ MOS: 1.49e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.283 v.s. 0.236
+ 
+A0023_01_06.bmp and A0023_01_09.bmp: 
+ MOS: 1.59e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.279
+ 
+A0023_01_06.bmp and A0023_01_12.bmp: 
+ MOS: 1.59e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.277
+ 
+A0023_01_06.bmp and A0023_02_02.bmp: 
+ MOS: 1.59e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.299
+ 
+A0023_01_06.bmp and A0023_02_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.291
+ 
+A0023_01_06.bmp and A0023_06_23.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.236
+ 
+A0023_01_09.bmp and A0023_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.277
+ 
+A0023_01_09.bmp and A0023_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.299
+ 
+A0023_01_09.bmp and A0023_02_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.291
+ 
+A0023_01_09.bmp and A0023_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.279 v.s. 0.236
+ 
+A0023_01_12.bmp and A0023_02_02.bmp: 
+ MOS: 1.62e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.277 v.s. 0.299
+ 
+A0023_01_12.bmp and A0023_02_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.277 v.s. 0.291
+ 
+A0023_01_12.bmp and A0023_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.277 v.s. 0.236
+ 
+A0023_02_02.bmp and A0023_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.299 v.s. 0.291
+ 
+A0023_02_02.bmp and A0023_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.299 v.s. 0.236
+ 
+A0023_02_03.bmp and A0023_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.291 v.s. 0.236
+ 
+A0024_00_02.bmp and A0024_00_11.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.189
+ 
+A0024_00_02.bmp and A0024_01_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.192
+ 
+A0024_00_02.bmp and A0024_01_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.198
+ 
+A0024_00_02.bmp and A0024_01_06.bmp: 
+ MOS: 1.55e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.203
+ 
+A0024_00_02.bmp and A0024_01_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.176
+ 
+A0024_00_02.bmp and A0024_01_12.bmp: 
+ MOS: 1.55e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.174
+ 
+A0024_00_02.bmp and A0024_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.2
+ 
+A0024_00_02.bmp and A0024_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.212
+ 
+A0024_00_02.bmp and A0024_06_16.bmp: 
+ MOS: 1.55e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.217
+ 
+A0024_00_02.bmp and A0024_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.182
+ 
+A0024_00_02.bmp and A0024_06_24.bmp: 
+ MOS: 1.55e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.249
+ 
+A0024_00_08.bmp and A0024_00_11.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.189
+ 
+A0024_00_08.bmp and A0024_01_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.192
+ 
+A0024_00_08.bmp and A0024_01_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.198
+ 
+A0024_00_08.bmp and A0024_01_06.bmp: 
+ MOS: 1.51e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.203
+ 
+A0024_00_08.bmp and A0024_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.176
+ 
+A0024_00_08.bmp and A0024_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.174
+ 
+A0024_00_08.bmp and A0024_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.2
+ 
+A0024_00_08.bmp and A0024_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.212
+ 
+A0024_00_08.bmp and A0024_06_16.bmp: 
+ MOS: 1.51e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.217
+ 
+A0024_00_08.bmp and A0024_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.182
+ 
+A0024_00_08.bmp and A0024_06_24.bmp: 
+ MOS: 1.51e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.194 v.s. 0.249
+ 
+A0024_00_11.bmp and A0024_01_00.bmp: 
+ MOS: 1.5e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.192
+ 
+A0024_00_11.bmp and A0024_01_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.198
+ 
+A0024_00_11.bmp and A0024_01_06.bmp: 
+ MOS: 1.5e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.203
+ 
+A0024_00_11.bmp and A0024_01_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.176
+ 
+A0024_00_11.bmp and A0024_01_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.174
+ 
+A0024_00_11.bmp and A0024_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.2
+ 
+A0024_00_11.bmp and A0024_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.212
+ 
+A0024_00_11.bmp and A0024_06_16.bmp: 
+ MOS: 1.5e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.217
+ 
+A0024_00_11.bmp and A0024_06_24.bmp: 
+ MOS: 1.5e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.189 v.s. 0.249
+ 
+A0024_01_00.bmp and A0024_01_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.198
+ 
+A0024_01_00.bmp and A0024_01_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.203
+ 
+A0024_01_00.bmp and A0024_01_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.176
+ 
+A0024_01_00.bmp and A0024_01_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.174
+ 
+A0024_01_00.bmp and A0024_02_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.2
+ 
+A0024_01_00.bmp and A0024_02_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.212
+ 
+A0024_01_00.bmp and A0024_06_16.bmp: 
+ MOS: 1.44e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.217
+ 
+A0024_01_00.bmp and A0024_06_23.bmp: 
+ MOS: 1.44e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.182
+ 
+A0024_01_00.bmp and A0024_06_24.bmp: 
+ MOS: 1.44e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.192 v.s. 0.249
+ 
+A0024_01_03.bmp and A0024_01_06.bmp: 
+ MOS: 1.46e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.203
+ 
+A0024_01_03.bmp and A0024_01_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.176
+ 
+A0024_01_03.bmp and A0024_01_12.bmp: 
+ MOS: 1.46e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.174
+ 
+A0024_01_03.bmp and A0024_02_02.bmp: 
+ MOS: 1.46e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.2
+ 
+A0024_01_03.bmp and A0024_02_03.bmp: 
+ MOS: 1.46e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.212
+ 
+A0024_01_03.bmp and A0024_06_16.bmp: 
+ MOS: 1.46e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.217
+ 
+A0024_01_03.bmp and A0024_06_23.bmp: 
+ MOS: 1.46e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.182
+ 
+A0024_01_03.bmp and A0024_06_24.bmp: 
+ MOS: 1.46e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.198 v.s. 0.249
+ 
+A0024_01_06.bmp and A0024_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.176
+ 
+A0024_01_06.bmp and A0024_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.174
+ 
+A0024_01_06.bmp and A0024_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.2
+ 
+A0024_01_06.bmp and A0024_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.212
+ 
+A0024_01_06.bmp and A0024_06_16.bmp: 
+ MOS: 1.52e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.217
+ 
+A0024_01_06.bmp and A0024_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.182
+ 
+A0024_01_06.bmp and A0024_06_24.bmp: 
+ MOS: 1.52e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.203 v.s. 0.249
+ 
+A0024_01_09.bmp and A0024_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.174
+ 
+A0024_01_09.bmp and A0024_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.2
+ 
+A0024_01_09.bmp and A0024_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.212
+ 
+A0024_01_09.bmp and A0024_06_16.bmp: 
+ MOS: 1.53e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.217
+ 
+A0024_01_09.bmp and A0024_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.182
+ 
+A0024_01_09.bmp and A0024_06_24.bmp: 
+ MOS: 1.53e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.176 v.s. 0.249
+ 
+A0024_01_12.bmp and A0024_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.2
+ 
+A0024_01_12.bmp and A0024_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.212
+ 
+A0024_01_12.bmp and A0024_06_16.bmp: 
+ MOS: 1.54e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.217
+ 
+A0024_01_12.bmp and A0024_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.182
+ 
+A0024_01_12.bmp and A0024_06_24.bmp: 
+ MOS: 1.54e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.249
+ 
+A0024_02_02.bmp and A0024_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.42e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.2 v.s. 0.212
+ 
+A0024_02_02.bmp and A0024_06_16.bmp: 
+ MOS: 1.57e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.2 v.s. 0.217
+ 
+A0024_02_02.bmp and A0024_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.2 v.s. 0.182
+ 
+A0024_02_02.bmp and A0024_06_24.bmp: 
+ MOS: 1.57e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.2 v.s. 0.249
+ 
+A0024_02_03.bmp and A0024_06_16.bmp: 
+ MOS: 1.42e+03 v.s. 1.41e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.212 v.s. 0.217
+ 
+A0024_02_03.bmp and A0024_06_23.bmp: 
+ MOS: 1.42e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.212 v.s. 0.182
+ 
+A0024_02_03.bmp and A0024_06_24.bmp: 
+ MOS: 1.42e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.212 v.s. 0.249
+ 
+A0024_06_16.bmp and A0024_06_23.bmp: 
+ MOS: 1.41e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.217 v.s. 0.182
+ 
+A0024_06_16.bmp and A0024_06_24.bmp: 
+ MOS: 1.41e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.217 v.s. 0.249
+ 
+A0024_06_23.bmp and A0024_06_24.bmp: 
+ MOS: 1.5e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.182 v.s. 0.249
+ 
+A0042_00_02.bmp and A0042_00_05.bmp: 
+ MOS: 1.59e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.488
+ 
+A0042_00_02.bmp and A0042_00_08.bmp: 
+ MOS: 1.59e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.49
+ 
+A0042_00_02.bmp and A0042_00_11.bmp: 
+ MOS: 1.59e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.471
+ 
+A0042_00_02.bmp and A0042_01_00.bmp: 
+ MOS: 1.59e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.448
+ 
+A0042_00_02.bmp and A0042_01_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.442
+ 
+A0042_00_02.bmp and A0042_01_06.bmp: 
+ MOS: 1.59e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.434
+ 
+A0042_00_02.bmp and A0042_01_09.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.411
+ 
+A0042_00_02.bmp and A0042_01_12.bmp: 
+ MOS: 1.59e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.407
+ 
+A0042_00_02.bmp and A0042_02_02.bmp: 
+ MOS: 1.59e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.411
+ 
+A0042_00_02.bmp and A0042_02_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.439
+ 
+A0042_00_02.bmp and A0042_06_08.bmp: 
+ MOS: 1.59e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.344
+ 
+A0042_00_02.bmp and A0042_06_09.bmp: 
+ MOS: 1.59e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.421
+ 
+A0042_00_02.bmp and A0042_06_23.bmp: 
+ MOS: 1.59e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.472 v.s. 0.435
+ 
+A0042_00_05.bmp and A0042_00_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.49
+ 
+A0042_00_05.bmp and A0042_00_11.bmp: 
+ MOS: 1.63e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.471
+ 
+A0042_00_05.bmp and A0042_01_00.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.448
+ 
+A0042_00_05.bmp and A0042_01_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.442
+ 
+A0042_00_05.bmp and A0042_01_06.bmp: 
+ MOS: 1.63e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.434
+ 
+A0042_00_05.bmp and A0042_01_09.bmp: 
+ MOS: 1.63e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.411
+ 
+A0042_00_05.bmp and A0042_01_12.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.407
+ 
+A0042_00_05.bmp and A0042_02_02.bmp: 
+ MOS: 1.63e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.411
+ 
+A0042_00_05.bmp and A0042_02_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.439
+ 
+A0042_00_05.bmp and A0042_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.344
+ 
+A0042_00_05.bmp and A0042_06_09.bmp: 
+ MOS: 1.63e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.421
+ 
+A0042_00_05.bmp and A0042_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.488 v.s. 0.435
+ 
+A0042_00_08.bmp and A0042_00_11.bmp: 
+ MOS: 1.55e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.471
+ 
+A0042_00_08.bmp and A0042_01_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.448
+ 
+A0042_00_08.bmp and A0042_01_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.442
+ 
+A0042_00_08.bmp and A0042_01_06.bmp: 
+ MOS: 1.55e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.434
+ 
+A0042_00_08.bmp and A0042_01_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.411
+ 
+A0042_00_08.bmp and A0042_01_12.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.407
+ 
+A0042_00_08.bmp and A0042_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.411
+ 
+A0042_00_08.bmp and A0042_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.439
+ 
+A0042_00_08.bmp and A0042_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.344
+ 
+A0042_00_08.bmp and A0042_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.421
+ 
+A0042_00_08.bmp and A0042_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.49 v.s. 0.435
+ 
+A0042_00_11.bmp and A0042_01_00.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.448
+ 
+A0042_00_11.bmp and A0042_01_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.442
+ 
+A0042_00_11.bmp and A0042_01_06.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.434
+ 
+A0042_00_11.bmp and A0042_01_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.411
+ 
+A0042_00_11.bmp and A0042_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.407
+ 
+A0042_00_11.bmp and A0042_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.411
+ 
+A0042_00_11.bmp and A0042_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.439
+ 
+A0042_00_11.bmp and A0042_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.344
+ 
+A0042_00_11.bmp and A0042_06_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.421
+ 
+A0042_00_11.bmp and A0042_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.471 v.s. 0.435
+ 
+A0042_01_00.bmp and A0042_01_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.442
+ 
+A0042_01_00.bmp and A0042_01_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.434
+ 
+A0042_01_00.bmp and A0042_01_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.411
+ 
+A0042_01_00.bmp and A0042_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.407
+ 
+A0042_01_00.bmp and A0042_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.411
+ 
+A0042_01_00.bmp and A0042_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.439
+ 
+A0042_01_00.bmp and A0042_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.344
+ 
+A0042_01_00.bmp and A0042_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.421
+ 
+A0042_01_00.bmp and A0042_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.448 v.s. 0.435
+ 
+A0042_01_03.bmp and A0042_01_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.434
+ 
+A0042_01_03.bmp and A0042_01_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.411
+ 
+A0042_01_03.bmp and A0042_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.411
+ 
+A0042_01_03.bmp and A0042_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.439
+ 
+A0042_01_03.bmp and A0042_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.344
+ 
+A0042_01_03.bmp and A0042_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.421
+ 
+A0042_01_03.bmp and A0042_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.442 v.s. 0.435
+ 
+A0042_01_06.bmp and A0042_01_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.411
+ 
+A0042_01_06.bmp and A0042_01_12.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.407
+ 
+A0042_01_06.bmp and A0042_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.411
+ 
+A0042_01_06.bmp and A0042_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.439
+ 
+A0042_01_06.bmp and A0042_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.344
+ 
+A0042_01_06.bmp and A0042_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.434 v.s. 0.421
+ 
+A0042_01_09.bmp and A0042_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.407
+ 
+A0042_01_09.bmp and A0042_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.439
+ 
+A0042_01_09.bmp and A0042_06_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.344
+ 
+A0042_01_09.bmp and A0042_06_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.421
+ 
+A0042_01_09.bmp and A0042_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.435
+ 
+A0042_01_12.bmp and A0042_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.411
+ 
+A0042_01_12.bmp and A0042_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.439
+ 
+A0042_01_12.bmp and A0042_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.344
+ 
+A0042_01_12.bmp and A0042_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.421
+ 
+A0042_01_12.bmp and A0042_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.435
+ 
+A0042_02_02.bmp and A0042_02_03.bmp: 
+ MOS: 1.65e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.439
+ 
+A0042_02_02.bmp and A0042_06_08.bmp: 
+ MOS: 1.65e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.344
+ 
+A0042_02_02.bmp and A0042_06_09.bmp: 
+ MOS: 1.65e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.421
+ 
+A0042_02_02.bmp and A0042_06_23.bmp: 
+ MOS: 1.65e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.435
+ 
+A0042_02_03.bmp and A0042_06_08.bmp: 
+ MOS: 1.64e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.344
+ 
+A0042_02_03.bmp and A0042_06_09.bmp: 
+ MOS: 1.64e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.421
+ 
+A0042_02_03.bmp and A0042_06_23.bmp: 
+ MOS: 1.64e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.435
+ 
+A0042_06_08.bmp and A0042_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.344 v.s. 0.421
+ 
+A0042_06_08.bmp and A0042_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.344 v.s. 0.435
+ 
+A0042_06_09.bmp and A0042_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.421 v.s. 0.435
+ 
+A0043_01_00.bmp and A0043_01_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.302
+ 
+A0043_01_00.bmp and A0043_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.285
+ 
+A0043_01_00.bmp and A0043_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.284
+ 
+A0043_01_00.bmp and A0043_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.27
+ 
+A0043_01_03.bmp and A0043_01_09.bmp: 
+ MOS: 1.59e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.302 v.s. 0.285
+ 
+A0043_01_03.bmp and A0043_01_12.bmp: 
+ MOS: 1.59e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.302 v.s. 0.284
+ 
+A0043_01_03.bmp and A0043_06_23.bmp: 
+ MOS: 1.59e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.302 v.s. 0.27
+ 
+A0043_01_09.bmp and A0043_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.285 v.s. 0.284
+ 
+A0043_01_09.bmp and A0043_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.285 v.s. 0.307
+ 
+A0043_01_09.bmp and A0043_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.285 v.s. 0.27
+ 
+A0043_01_12.bmp and A0043_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.307
+ 
+A0043_01_12.bmp and A0043_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.284 v.s. 0.27
+ 
+A0043_02_02.bmp and A0043_06_23.bmp: 
+ MOS: 1.59e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.27
+ 
+A0044_01_09.bmp and A0044_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.205 v.s. 0.267
+ 
+A0044_01_12.bmp and A0044_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.205 v.s. 0.267
+ 
+A0045_03_03.bmp and A0045_03_19.bmp: 
+ MOS: 1.4e+03 v.s. 1.55e+03 
+ MAD: 99 v.s. 99 
+ DeepJSD: 0.583 v.s. 0.559
+ 
+A0045_03_04.bmp and A0045_03_19.bmp: 
+ MOS: 1.38e+03 v.s. 1.55e+03 
+ MAD: 99 v.s. 99 
+ DeepJSD: 0.583 v.s. 0.559
+ 
+A0045_03_05.bmp and A0045_03_19.bmp: 
+ MOS: 1.44e+03 v.s. 1.55e+03 
+ MAD: 99 v.s. 99 
+ DeepJSD: 0.583 v.s. 0.559
+ 
+A0052_00_02.bmp and A0052_00_08.bmp: 
+ MOS: 1.6e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.281
+ 
+A0052_00_02.bmp and A0052_00_11.bmp: 
+ MOS: 1.6e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.267
+ 
+A0052_00_02.bmp and A0052_01_00.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.257
+ 
+A0052_00_02.bmp and A0052_01_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.253
+ 
+A0052_00_02.bmp and A0052_01_06.bmp: 
+ MOS: 1.6e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.256
+ 
+A0052_00_02.bmp and A0052_01_09.bmp: 
+ MOS: 1.6e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.229
+ 
+A0052_00_02.bmp and A0052_01_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.226
+ 
+A0052_00_02.bmp and A0052_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.26
+ 
+A0052_00_02.bmp and A0052_02_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.255
+ 
+A0052_00_02.bmp and A0052_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.271 v.s. 0.236
+ 
+A0052_00_08.bmp and A0052_00_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.267
+ 
+A0052_00_08.bmp and A0052_01_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.257
+ 
+A0052_00_08.bmp and A0052_01_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.253
+ 
+A0052_00_08.bmp and A0052_01_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.256
+ 
+A0052_00_08.bmp and A0052_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.229
+ 
+A0052_00_08.bmp and A0052_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.226
+ 
+A0052_00_08.bmp and A0052_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.26
+ 
+A0052_00_08.bmp and A0052_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.255
+ 
+A0052_00_08.bmp and A0052_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.281 v.s. 0.236
+ 
+A0052_00_11.bmp and A0052_01_00.bmp: 
+ MOS: 1.57e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.257
+ 
+A0052_00_11.bmp and A0052_01_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.253
+ 
+A0052_00_11.bmp and A0052_01_06.bmp: 
+ MOS: 1.57e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.256
+ 
+A0052_00_11.bmp and A0052_01_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.229
+ 
+A0052_00_11.bmp and A0052_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.226
+ 
+A0052_00_11.bmp and A0052_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.26
+ 
+A0052_00_11.bmp and A0052_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.255
+ 
+A0052_00_11.bmp and A0052_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.236
+ 
+A0052_01_00.bmp and A0052_01_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.253
+ 
+A0052_01_00.bmp and A0052_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.229
+ 
+A0052_01_00.bmp and A0052_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.226
+ 
+A0052_01_00.bmp and A0052_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.26
+ 
+A0052_01_00.bmp and A0052_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.255
+ 
+A0052_01_00.bmp and A0052_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.257 v.s. 0.236
+ 
+A0052_01_03.bmp and A0052_01_06.bmp: 
+ MOS: 1.6e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.256
+ 
+A0052_01_03.bmp and A0052_01_09.bmp: 
+ MOS: 1.6e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.229
+ 
+A0052_01_03.bmp and A0052_01_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.226
+ 
+A0052_01_03.bmp and A0052_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.26
+ 
+A0052_01_03.bmp and A0052_02_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.255
+ 
+A0052_01_03.bmp and A0052_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.253 v.s. 0.236
+ 
+A0052_01_06.bmp and A0052_01_09.bmp: 
+ MOS: 1.47e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.256 v.s. 0.229
+ 
+A0052_01_06.bmp and A0052_01_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.256 v.s. 0.226
+ 
+A0052_01_06.bmp and A0052_02_02.bmp: 
+ MOS: 1.47e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.256 v.s. 0.26
+ 
+A0052_01_06.bmp and A0052_02_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.256 v.s. 0.255
+ 
+A0052_01_06.bmp and A0052_06_23.bmp: 
+ MOS: 1.47e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.256 v.s. 0.236
+ 
+A0052_01_09.bmp and A0052_01_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.226
+ 
+A0052_01_09.bmp and A0052_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.26
+ 
+A0052_01_09.bmp and A0052_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.255
+ 
+A0052_01_09.bmp and A0052_06_23.bmp: 
+ MOS: 1.5e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.236
+ 
+A0052_01_12.bmp and A0052_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.26
+ 
+A0052_01_12.bmp and A0052_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.255
+ 
+A0052_01_12.bmp and A0052_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.226 v.s. 0.236
+ 
+A0052_02_02.bmp and A0052_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.26 v.s. 0.255
+ 
+A0052_02_02.bmp and A0052_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.26 v.s. 0.236
+ 
+A0052_02_03.bmp and A0052_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.255 v.s. 0.236
+ 
+A0067_01_06.bmp and A0067_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.364
+ 
+A0067_01_06.bmp and A0067_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.358
+ 
+A0067_01_06.bmp and A0067_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.419
+ 
+A0067_01_06.bmp and A0067_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.429
+ 
+A0067_01_06.bmp and A0067_04_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.396
+ 
+A0067_01_06.bmp and A0067_04_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.409
+ 
+A0067_01_06.bmp and A0067_06_16.bmp: 
+ MOS: 1.58e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.466 v.s. 0.351
+ 
+A0067_01_09.bmp and A0067_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.358
+ 
+A0067_01_09.bmp and A0067_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.419
+ 
+A0067_01_09.bmp and A0067_02_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.429
+ 
+A0067_01_09.bmp and A0067_04_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.396
+ 
+A0067_01_09.bmp and A0067_04_08.bmp: 
+ MOS: 1.61e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.409
+ 
+A0067_01_09.bmp and A0067_06_16.bmp: 
+ MOS: 1.61e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.364 v.s. 0.351
+ 
+A0067_01_12.bmp and A0067_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.358 v.s. 0.419
+ 
+A0067_01_12.bmp and A0067_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.358 v.s. 0.429
+ 
+A0067_01_12.bmp and A0067_04_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.358 v.s. 0.396
+ 
+A0067_01_12.bmp and A0067_04_08.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.358 v.s. 0.409
+ 
+A0067_01_12.bmp and A0067_06_16.bmp: 
+ MOS: 1.56e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.358 v.s. 0.351
+ 
+A0067_02_02.bmp and A0067_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.67e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.429
+ 
+A0067_02_02.bmp and A0067_04_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.396
+ 
+A0067_02_02.bmp and A0067_04_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.409
+ 
+A0067_02_02.bmp and A0067_06_16.bmp: 
+ MOS: 1.57e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.351
+ 
+A0067_02_03.bmp and A0067_04_02.bmp: 
+ MOS: 1.67e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.396
+ 
+A0067_02_03.bmp and A0067_04_08.bmp: 
+ MOS: 1.67e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.409
+ 
+A0067_02_03.bmp and A0067_06_16.bmp: 
+ MOS: 1.67e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.351
+ 
+A0067_04_02.bmp and A0067_04_08.bmp: 
+ MOS: 1.59e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.409
+ 
+A0067_04_02.bmp and A0067_06_16.bmp: 
+ MOS: 1.59e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.351
+ 
+A0067_04_08.bmp and A0067_06_16.bmp: 
+ MOS: 1.46e+03 v.s. 1.48e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.351
+ 
+A0068_01_02.bmp and A0068_02_06.bmp: 
+ MOS: 1.38e+03 v.s. 1.27e+03 
+ MAD: 97.1 v.s. 97.1 
+ DeepJSD: 0.612 v.s. 0.606
+ 
+A0085_01_02.bmp and A0085_01_14.bmp: 
+ MOS: 1.31e+03 v.s. 1.44e+03 
+ MAD: 88.9 v.s. 88.9 
+ DeepJSD: 0.578 v.s. 0.553
+ 
+A0087_00_02.bmp and A0087_00_05.bmp: 
+ MOS: 1.54e+03 v.s. 1.69e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.439
+ 
+A0087_00_02.bmp and A0087_00_08.bmp: 
+ MOS: 1.54e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.444
+ 
+A0087_00_02.bmp and A0087_01_00.bmp: 
+ MOS: 1.54e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.429
+ 
+A0087_00_02.bmp and A0087_01_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.419
+ 
+A0087_00_02.bmp and A0087_01_06.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.417
+ 
+A0087_00_02.bmp and A0087_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.401
+ 
+A0087_00_02.bmp and A0087_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.4
+ 
+A0087_00_02.bmp and A0087_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.416
+ 
+A0087_00_02.bmp and A0087_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.423
+ 
+A0087_00_02.bmp and A0087_06_08.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.377
+ 
+A0087_00_02.bmp and A0087_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.436 v.s. 0.353
+ 
+A0087_00_05.bmp and A0087_00_08.bmp: 
+ MOS: 1.69e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.444
+ 
+A0087_00_05.bmp and A0087_00_11.bmp: 
+ MOS: 1.69e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.435
+ 
+A0087_00_05.bmp and A0087_01_00.bmp: 
+ MOS: 1.69e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.429
+ 
+A0087_00_05.bmp and A0087_01_03.bmp: 
+ MOS: 1.69e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.419
+ 
+A0087_00_05.bmp and A0087_01_06.bmp: 
+ MOS: 1.69e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.417
+ 
+A0087_00_05.bmp and A0087_01_09.bmp: 
+ MOS: 1.69e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.401
+ 
+A0087_00_05.bmp and A0087_01_12.bmp: 
+ MOS: 1.69e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.4
+ 
+A0087_00_05.bmp and A0087_02_02.bmp: 
+ MOS: 1.69e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.416
+ 
+A0087_00_05.bmp and A0087_02_03.bmp: 
+ MOS: 1.69e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.423
+ 
+A0087_00_05.bmp and A0087_06_08.bmp: 
+ MOS: 1.69e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.377
+ 
+A0087_00_05.bmp and A0087_06_23.bmp: 
+ MOS: 1.69e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.439 v.s. 0.353
+ 
+A0087_00_08.bmp and A0087_00_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.435
+ 
+A0087_00_08.bmp and A0087_01_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.429
+ 
+A0087_00_08.bmp and A0087_01_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.419
+ 
+A0087_00_08.bmp and A0087_01_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.417
+ 
+A0087_00_08.bmp and A0087_01_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.401
+ 
+A0087_00_08.bmp and A0087_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.4
+ 
+A0087_00_08.bmp and A0087_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.416
+ 
+A0087_00_08.bmp and A0087_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.423
+ 
+A0087_00_08.bmp and A0087_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.377
+ 
+A0087_00_08.bmp and A0087_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.444 v.s. 0.353
+ 
+A0087_00_11.bmp and A0087_01_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.429
+ 
+A0087_00_11.bmp and A0087_01_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.419
+ 
+A0087_00_11.bmp and A0087_01_06.bmp: 
+ MOS: 1.47e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.417
+ 
+A0087_00_11.bmp and A0087_01_09.bmp: 
+ MOS: 1.47e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.401
+ 
+A0087_00_11.bmp and A0087_01_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.4
+ 
+A0087_00_11.bmp and A0087_02_02.bmp: 
+ MOS: 1.47e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.416
+ 
+A0087_00_11.bmp and A0087_02_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.423
+ 
+A0087_00_11.bmp and A0087_06_08.bmp: 
+ MOS: 1.47e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.377
+ 
+A0087_00_11.bmp and A0087_06_23.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.435 v.s. 0.353
+ 
+A0087_01_00.bmp and A0087_01_03.bmp: 
+ MOS: 1.64e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.419
+ 
+A0087_01_00.bmp and A0087_01_06.bmp: 
+ MOS: 1.64e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.417
+ 
+A0087_01_00.bmp and A0087_01_09.bmp: 
+ MOS: 1.64e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.401
+ 
+A0087_01_00.bmp and A0087_01_12.bmp: 
+ MOS: 1.64e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.4
+ 
+A0087_01_00.bmp and A0087_02_02.bmp: 
+ MOS: 1.64e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.416
+ 
+A0087_01_00.bmp and A0087_02_03.bmp: 
+ MOS: 1.64e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.423
+ 
+A0087_01_00.bmp and A0087_06_08.bmp: 
+ MOS: 1.64e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.377
+ 
+A0087_01_00.bmp and A0087_06_23.bmp: 
+ MOS: 1.64e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.429 v.s. 0.353
+ 
+A0087_01_03.bmp and A0087_01_06.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.417
+ 
+A0087_01_03.bmp and A0087_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.401
+ 
+A0087_01_03.bmp and A0087_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.4
+ 
+A0087_01_03.bmp and A0087_02_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.423
+ 
+A0087_01_03.bmp and A0087_06_08.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.377
+ 
+A0087_01_03.bmp and A0087_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.419 v.s. 0.353
+ 
+A0087_01_06.bmp and A0087_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.417 v.s. 0.401
+ 
+A0087_01_06.bmp and A0087_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.417 v.s. 0.4
+ 
+A0087_01_06.bmp and A0087_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.417 v.s. 0.423
+ 
+A0087_01_06.bmp and A0087_06_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.417 v.s. 0.377
+ 
+A0087_01_06.bmp and A0087_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.417 v.s. 0.353
+ 
+A0087_01_09.bmp and A0087_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.401 v.s. 0.4
+ 
+A0087_01_09.bmp and A0087_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.401 v.s. 0.416
+ 
+A0087_01_09.bmp and A0087_02_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.401 v.s. 0.423
+ 
+A0087_01_09.bmp and A0087_06_08.bmp: 
+ MOS: 1.61e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.401 v.s. 0.377
+ 
+A0087_01_09.bmp and A0087_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.401 v.s. 0.353
+ 
+A0087_01_12.bmp and A0087_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.416
+ 
+A0087_01_12.bmp and A0087_02_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.423
+ 
+A0087_01_12.bmp and A0087_06_08.bmp: 
+ MOS: 1.61e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.377
+ 
+A0087_01_12.bmp and A0087_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.353
+ 
+A0087_02_02.bmp and A0087_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.416 v.s. 0.423
+ 
+A0087_02_02.bmp and A0087_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.416 v.s. 0.377
+ 
+A0087_02_02.bmp and A0087_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.416 v.s. 0.353
+ 
+A0087_02_03.bmp and A0087_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.423 v.s. 0.377
+ 
+A0087_02_03.bmp and A0087_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.423 v.s. 0.353
+ 
+A0087_06_08.bmp and A0087_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.353
+ 
+A0090_05_02.bmp and A0090_06_10.bmp: 
+ MOS: 1.33e+03 v.s. 1.25e+03 
+ MAD: 115 v.s. 115 
+ DeepJSD: 0.572 v.s. 0.555
+ 
+A0103_01_03.bmp and A0103_01_06.bmp: 
+ MOS: 1.48e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.249 v.s. 0.239
+ 
+A0103_01_03.bmp and A0103_01_09.bmp: 
+ MOS: 1.48e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.249 v.s. 0.214
+ 
+A0103_01_03.bmp and A0103_01_12.bmp: 
+ MOS: 1.48e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.249 v.s. 0.21
+ 
+A0103_01_03.bmp and A0103_06_23.bmp: 
+ MOS: 1.48e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.249 v.s. 0.252
+ 
+A0103_01_06.bmp and A0103_01_09.bmp: 
+ MOS: 1.64e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.239 v.s. 0.214
+ 
+A0103_01_06.bmp and A0103_01_12.bmp: 
+ MOS: 1.64e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.239 v.s. 0.21
+ 
+A0103_01_06.bmp and A0103_02_02.bmp: 
+ MOS: 1.64e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.239 v.s. 0.249
+ 
+A0103_01_09.bmp and A0103_01_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.214 v.s. 0.21
+ 
+A0103_01_09.bmp and A0103_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.214 v.s. 0.249
+ 
+A0103_01_09.bmp and A0103_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.214 v.s. 0.252
+ 
+A0103_01_12.bmp and A0103_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.21 v.s. 0.249
+ 
+A0103_01_12.bmp and A0103_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.21 v.s. 0.252
+ 
+A0103_02_02.bmp and A0103_06_23.bmp: 
+ MOS: 1.66e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.249 v.s. 0.252
+ 
+A0113_00_04.bmp and A0113_01_02.bmp: 
+ MOS: 1.38e+03 v.s. 1.46e+03 
+ MAD: 82.5 v.s. 82.5 
+ DeepJSD: 0.572 v.s. 0.564
+ 
+A0114_02_06.bmp and A0114_05_10.bmp: 
+ MOS: 1.37e+03 v.s. 1.5e+03 
+ MAD: 123 v.s. 123 
+ DeepJSD: 0.659 v.s. 0.65
+ 
+A0130_01_03.bmp and A0130_01_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.229
+ 
+A0130_01_03.bmp and A0130_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.224
+ 
+A0130_01_03.bmp and A0130_01_13.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.336
+ 
+A0130_01_03.bmp and A0130_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.303
+ 
+A0130_01_03.bmp and A0130_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.331
+ 
+A0130_01_03.bmp and A0130_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.407
+ 
+A0130_01_03.bmp and A0130_06_16.bmp: 
+ MOS: 1.57e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.343
+ 
+A0130_01_03.bmp and A0130_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.263
+ 
+A0130_01_09.bmp and A0130_01_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.224
+ 
+A0130_01_09.bmp and A0130_01_13.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.336
+ 
+A0130_01_09.bmp and A0130_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.303
+ 
+A0130_01_09.bmp and A0130_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.331
+ 
+A0130_01_09.bmp and A0130_06_08.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.407
+ 
+A0130_01_09.bmp and A0130_06_16.bmp: 
+ MOS: 1.5e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.343
+ 
+A0130_01_09.bmp and A0130_06_23.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.263
+ 
+A0130_01_12.bmp and A0130_01_13.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.224 v.s. 0.336
+ 
+A0130_01_12.bmp and A0130_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.224 v.s. 0.303
+ 
+A0130_01_12.bmp and A0130_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.224 v.s. 0.331
+ 
+A0130_01_12.bmp and A0130_06_16.bmp: 
+ MOS: 1.53e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.224 v.s. 0.343
+ 
+A0130_01_12.bmp and A0130_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.224 v.s. 0.263
+ 
+A0130_01_13.bmp and A0130_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.336 v.s. 0.303
+ 
+A0130_01_13.bmp and A0130_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.336 v.s. 0.331
+ 
+A0130_01_13.bmp and A0130_06_08.bmp: 
+ MOS: 1.56e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.336 v.s. 0.407
+ 
+A0130_01_13.bmp and A0130_06_16.bmp: 
+ MOS: 1.56e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.336 v.s. 0.343
+ 
+A0130_01_13.bmp and A0130_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.336 v.s. 0.263
+ 
+A0130_02_02.bmp and A0130_02_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.303 v.s. 0.331
+ 
+A0130_02_02.bmp and A0130_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.303 v.s. 0.407
+ 
+A0130_02_02.bmp and A0130_06_16.bmp: 
+ MOS: 1.63e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.303 v.s. 0.343
+ 
+A0130_02_02.bmp and A0130_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.303 v.s. 0.263
+ 
+A0130_02_03.bmp and A0130_06_08.bmp: 
+ MOS: 1.62e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.331 v.s. 0.407
+ 
+A0130_02_03.bmp and A0130_06_16.bmp: 
+ MOS: 1.62e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.331 v.s. 0.343
+ 
+A0130_02_03.bmp and A0130_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.331 v.s. 0.263
+ 
+A0130_06_08.bmp and A0130_06_16.bmp: 
+ MOS: 1.53e+03 v.s. 1.32e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.343
+ 
+A0130_06_08.bmp and A0130_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.407 v.s. 0.263
+ 
+A0130_06_16.bmp and A0130_06_23.bmp: 
+ MOS: 1.32e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.343 v.s. 0.263
+ 
+A0131_02_07.bmp and A0131_06_18.bmp: 
+ MOS: 1.45e+03 v.s. 1.42e+03 
+ MAD: 76.6 v.s. 76.6 
+ DeepJSD: 0.57 v.s. 0.598
+ 
+A0134_02_07.bmp and A0134_03_13.bmp: 
+ MOS: 1.41e+03 v.s. 1.55e+03 
+ MAD: 94.3 v.s. 94.3 
+ DeepJSD: 0.636 v.s. 0.618
+ 
+A0137_01_03.bmp and A0137_01_06.bmp: 
+ MOS: 1.58e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.422
+ 
+A0137_01_03.bmp and A0137_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.411
+ 
+A0137_01_03.bmp and A0137_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.408
+ 
+A0137_01_03.bmp and A0137_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.423
+ 
+A0137_01_03.bmp and A0137_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.428
+ 
+A0137_01_03.bmp and A0137_06_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.36
+ 
+A0137_01_03.bmp and A0137_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.424 v.s. 0.352
+ 
+A0137_01_06.bmp and A0137_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.422 v.s. 0.411
+ 
+A0137_01_06.bmp and A0137_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.422 v.s. 0.408
+ 
+A0137_01_06.bmp and A0137_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.422 v.s. 0.428
+ 
+A0137_01_06.bmp and A0137_06_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.422 v.s. 0.36
+ 
+A0137_01_06.bmp and A0137_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.422 v.s. 0.352
+ 
+A0137_01_09.bmp and A0137_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.408
+ 
+A0137_01_09.bmp and A0137_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.423
+ 
+A0137_01_09.bmp and A0137_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.428
+ 
+A0137_01_09.bmp and A0137_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.36
+ 
+A0137_01_09.bmp and A0137_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.411 v.s. 0.352
+ 
+A0137_01_12.bmp and A0137_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.408 v.s. 0.423
+ 
+A0137_01_12.bmp and A0137_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.408 v.s. 0.428
+ 
+A0137_01_12.bmp and A0137_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.408 v.s. 0.36
+ 
+A0137_01_12.bmp and A0137_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.408 v.s. 0.352
+ 
+A0137_02_02.bmp and A0137_02_03.bmp: 
+ MOS: 1.66e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.423 v.s. 0.428
+ 
+A0137_02_02.bmp and A0137_06_08.bmp: 
+ MOS: 1.66e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.423 v.s. 0.36
+ 
+A0137_02_02.bmp and A0137_06_23.bmp: 
+ MOS: 1.66e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.423 v.s. 0.352
+ 
+A0137_02_03.bmp and A0137_06_08.bmp: 
+ MOS: 1.6e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.428 v.s. 0.36
+ 
+A0137_02_03.bmp and A0137_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.428 v.s. 0.352
+ 
+A0137_03_15.bmp and A0137_04_06.bmp: 
+ MOS: 1.33e+03 v.s. 1.52e+03 
+ MAD: 92.7 v.s. 92.7 
+ DeepJSD: 0.642 v.s. 0.566
+ 
+A0137_06_08.bmp and A0137_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.36 v.s. 0.352
+ 
+A0146_03_07.bmp and A0146_03_15.bmp: 
+ MOS: 1.44e+03 v.s. 1.57e+03 
+ MAD: 109 v.s. 109 
+ DeepJSD: 0.587 v.s. 0.551
+ 
+A0157_02_04.bmp and A0157_04_00.bmp: 
+ MOS: 1.59e+03 v.s. 1.62e+03 
+ MAD: 67.1 v.s. 67.1 
+ DeepJSD: 0.442 v.s. 0.458
+ 
+A0157_03_11.bmp and A0157_03_14.bmp: 
+ MOS: 1.55e+03 v.s. 1.44e+03 
+ MAD: 74.6 v.s. 74.6 
+ DeepJSD: 0.49 v.s. 0.499
+ 
+A0166_00_00.bmp and A0166_01_13.bmp: 
+ MOS: 1.53e+03 v.s. 1.5e+03 
+ MAD: 22.9 v.s. 22.9 
+ DeepJSD: 0.479 v.s. 0.462
+ 
+A0170_00_02.bmp and A0170_00_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.315
+ 
+A0170_00_02.bmp and A0170_01_00.bmp: 
+ MOS: 1.63e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.297
+ 
+A0170_00_02.bmp and A0170_01_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.287
+ 
+A0170_00_02.bmp and A0170_01_06.bmp: 
+ MOS: 1.63e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.286
+ 
+A0170_00_02.bmp and A0170_01_09.bmp: 
+ MOS: 1.63e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.267
+ 
+A0170_00_02.bmp and A0170_01_12.bmp: 
+ MOS: 1.63e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.266
+ 
+A0170_00_02.bmp and A0170_02_02.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.286
+ 
+A0170_00_02.bmp and A0170_02_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.288
+ 
+A0170_00_02.bmp and A0170_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.301 v.s. 0.277
+ 
+A0170_00_08.bmp and A0170_00_11.bmp: 
+ MOS: 1.6e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.3
+ 
+A0170_00_08.bmp and A0170_01_00.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.297
+ 
+A0170_00_08.bmp and A0170_01_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.287
+ 
+A0170_00_08.bmp and A0170_01_06.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.286
+ 
+A0170_00_08.bmp and A0170_01_09.bmp: 
+ MOS: 1.6e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.267
+ 
+A0170_00_08.bmp and A0170_01_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.266
+ 
+A0170_00_08.bmp and A0170_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.286
+ 
+A0170_00_08.bmp and A0170_02_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.288
+ 
+A0170_00_08.bmp and A0170_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.315 v.s. 0.277
+ 
+A0170_00_11.bmp and A0170_01_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.297
+ 
+A0170_00_11.bmp and A0170_01_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.287
+ 
+A0170_00_11.bmp and A0170_01_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.286
+ 
+A0170_00_11.bmp and A0170_01_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.267
+ 
+A0170_00_11.bmp and A0170_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.266
+ 
+A0170_00_11.bmp and A0170_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.286
+ 
+A0170_00_11.bmp and A0170_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.288
+ 
+A0170_00_11.bmp and A0170_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.3 v.s. 0.277
+ 
+A0170_01_00.bmp and A0170_01_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.287
+ 
+A0170_01_00.bmp and A0170_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.267
+ 
+A0170_01_00.bmp and A0170_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.266
+ 
+A0170_01_00.bmp and A0170_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.286
+ 
+A0170_01_00.bmp and A0170_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.288
+ 
+A0170_01_00.bmp and A0170_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.297 v.s. 0.277
+ 
+A0170_01_03.bmp and A0170_01_06.bmp: 
+ MOS: 1.46e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.286
+ 
+A0170_01_03.bmp and A0170_01_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.267
+ 
+A0170_01_03.bmp and A0170_01_12.bmp: 
+ MOS: 1.46e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.266
+ 
+A0170_01_03.bmp and A0170_02_02.bmp: 
+ MOS: 1.46e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.286
+ 
+A0170_01_06.bmp and A0170_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.267
+ 
+A0170_01_06.bmp and A0170_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.266
+ 
+A0170_01_06.bmp and A0170_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.288
+ 
+A0170_01_06.bmp and A0170_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.277
+ 
+A0170_01_09.bmp and A0170_01_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.266
+ 
+A0170_01_09.bmp and A0170_02_02.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.286
+ 
+A0170_01_09.bmp and A0170_02_03.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.288
+ 
+A0170_01_09.bmp and A0170_06_23.bmp: 
+ MOS: 1.49e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.267 v.s. 0.277
+ 
+A0170_01_12.bmp and A0170_02_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.53e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.266 v.s. 0.286
+ 
+A0170_01_12.bmp and A0170_02_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.266 v.s. 0.288
+ 
+A0170_01_12.bmp and A0170_06_23.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.266 v.s. 0.277
+ 
+A0170_02_02.bmp and A0170_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.288
+ 
+A0170_02_02.bmp and A0170_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.286 v.s. 0.277
+ 
+A0170_02_03.bmp and A0170_06_23.bmp: 
+ MOS: 1.47e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.288 v.s. 0.277
+ 
+A0171_03_07.bmp and A0171_03_15.bmp: 
+ MOS: 1.41e+03 v.s. 1.5e+03 
+ MAD: 98.3 v.s. 98.3 
+ DeepJSD: 0.649 v.s. 0.634
+ 
+A0175_01_14.bmp and A0175_02_08.bmp: 
+ MOS: 1.45e+03 v.s. 1.46e+03 
+ MAD: 105 v.s. 105 
+ DeepJSD: 0.61 v.s. 0.619
+ 
+A0183_01_00.bmp and A0183_01_09.bmp: 
+ MOS: 1.61e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.399 v.s. 0.388
+ 
+A0183_01_00.bmp and A0183_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.399 v.s. 0.375
+ 
+A0183_01_00.bmp and A0183_06_08.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.399 v.s. 0.344
+ 
+A0183_01_09.bmp and A0183_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.388 v.s. 0.375
+ 
+A0183_01_09.bmp and A0183_06_08.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.388 v.s. 0.344
+ 
+A0183_01_12.bmp and A0183_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.375 v.s. 0.344
+ 
+A0197_01_00.bmp and A0197_01_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.34 v.s. 0.289
+ 
+A0197_01_00.bmp and A0197_01_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.34 v.s. 0.287
+ 
+A0197_01_00.bmp and A0197_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.34 v.s. 0.317
+ 
+A0197_01_09.bmp and A0197_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.289 v.s. 0.287
+ 
+A0197_01_09.bmp and A0197_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.289 v.s. 0.317
+ 
+A0197_01_12.bmp and A0197_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.287 v.s. 0.317
+ 
+A0201_01_03.bmp and A0201_01_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.264 v.s. 0.255
+ 
+A0201_01_03.bmp and A0201_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.264 v.s. 0.232
+ 
+A0201_01_03.bmp and A0201_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.264 v.s. 0.229
+ 
+A0201_01_03.bmp and A0201_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.264 v.s. 0.268
+ 
+A0201_01_03.bmp and A0201_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.264 v.s. 0.24
+ 
+A0201_01_06.bmp and A0201_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.255 v.s. 0.232
+ 
+A0201_01_06.bmp and A0201_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.255 v.s. 0.229
+ 
+A0201_01_06.bmp and A0201_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.255 v.s. 0.268
+ 
+A0201_01_06.bmp and A0201_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.255 v.s. 0.24
+ 
+A0201_01_09.bmp and A0201_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.229
+ 
+A0201_01_09.bmp and A0201_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.232 v.s. 0.24
+ 
+A0201_01_12.bmp and A0201_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.52e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.268
+ 
+A0201_01_12.bmp and A0201_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.229 v.s. 0.24
+ 
+A0201_02_02.bmp and A0201_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.268 v.s. 0.24
+ 
+A0208_01_03.bmp and A0208_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.175 v.s. 0.153
+ 
+A0208_01_03.bmp and A0208_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.175 v.s. 0.152
+ 
+A0214_03_01.bmp and A0214_03_19.bmp: 
+ MOS: 1.51e+03 v.s. 1.48e+03 
+ MAD: 116 v.s. 116 
+ DeepJSD: 0.587 v.s. 0.583
+ 
+A0218_01_03.bmp and A0218_01_06.bmp: 
+ MOS: 1.47e+03 v.s. 1.54e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.345 v.s. 0.335
+ 
+A0218_01_03.bmp and A0218_01_09.bmp: 
+ MOS: 1.47e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.345 v.s. 0.307
+ 
+A0218_01_03.bmp and A0218_01_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.345 v.s. 0.304
+ 
+A0218_01_06.bmp and A0218_01_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.335 v.s. 0.307
+ 
+A0218_01_06.bmp and A0218_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.335 v.s. 0.304
+ 
+A0218_01_09.bmp and A0218_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.307 v.s. 0.304
+ 
+A0220_00_02.bmp and A0220_00_05.bmp: 
+ MOS: 1.5e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.168
+ 
+A0220_00_02.bmp and A0220_00_08.bmp: 
+ MOS: 1.5e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.153
+ 
+A0220_00_02.bmp and A0220_00_11.bmp: 
+ MOS: 1.5e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.159
+ 
+A0220_00_02.bmp and A0220_01_00.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.146
+ 
+A0220_00_02.bmp and A0220_01_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.158
+ 
+A0220_00_02.bmp and A0220_01_06.bmp: 
+ MOS: 1.5e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.174
+ 
+A0220_00_02.bmp and A0220_01_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.132
+ 
+A0220_00_02.bmp and A0220_01_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.132
+ 
+A0220_00_02.bmp and A0220_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.172
+ 
+A0220_00_02.bmp and A0220_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.149 v.s. 0.157
+ 
+A0220_00_05.bmp and A0220_00_08.bmp: 
+ MOS: 1.44e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.153
+ 
+A0220_00_05.bmp and A0220_01_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.146
+ 
+A0220_00_05.bmp and A0220_01_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.158
+ 
+A0220_00_05.bmp and A0220_01_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.174
+ 
+A0220_00_05.bmp and A0220_01_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.132
+ 
+A0220_00_05.bmp and A0220_01_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.132
+ 
+A0220_00_05.bmp and A0220_02_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.172
+ 
+A0220_00_05.bmp and A0220_02_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.168 v.s. 0.157
+ 
+A0220_00_08.bmp and A0220_00_11.bmp: 
+ MOS: 1.61e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.159
+ 
+A0220_00_08.bmp and A0220_01_00.bmp: 
+ MOS: 1.61e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.146
+ 
+A0220_00_08.bmp and A0220_01_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.158
+ 
+A0220_00_08.bmp and A0220_01_06.bmp: 
+ MOS: 1.61e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.174
+ 
+A0220_00_08.bmp and A0220_01_09.bmp: 
+ MOS: 1.61e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.132
+ 
+A0220_00_08.bmp and A0220_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.132
+ 
+A0220_00_08.bmp and A0220_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.172
+ 
+A0220_00_08.bmp and A0220_02_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.153 v.s. 0.157
+ 
+A0220_00_11.bmp and A0220_01_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.146
+ 
+A0220_00_11.bmp and A0220_01_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.158
+ 
+A0220_00_11.bmp and A0220_01_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.174
+ 
+A0220_00_11.bmp and A0220_01_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.132
+ 
+A0220_00_11.bmp and A0220_01_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.132
+ 
+A0220_00_11.bmp and A0220_02_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.172
+ 
+A0220_00_11.bmp and A0220_02_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.159 v.s. 0.157
+ 
+A0220_01_00.bmp and A0220_01_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.158
+ 
+A0220_01_00.bmp and A0220_01_06.bmp: 
+ MOS: 1.56e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.174
+ 
+A0220_01_00.bmp and A0220_01_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.132
+ 
+A0220_01_00.bmp and A0220_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.132
+ 
+A0220_01_00.bmp and A0220_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.172
+ 
+A0220_01_00.bmp and A0220_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.146 v.s. 0.157
+ 
+A0220_01_03.bmp and A0220_01_06.bmp: 
+ MOS: 1.49e+03 v.s. 1.44e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.158 v.s. 0.174
+ 
+A0220_01_03.bmp and A0220_01_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.158 v.s. 0.132
+ 
+A0220_01_03.bmp and A0220_01_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.158 v.s. 0.132
+ 
+A0220_01_03.bmp and A0220_02_02.bmp: 
+ MOS: 1.49e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.158 v.s. 0.172
+ 
+A0220_01_06.bmp and A0220_01_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.132
+ 
+A0220_01_06.bmp and A0220_01_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.132
+ 
+A0220_01_06.bmp and A0220_02_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.172
+ 
+A0220_01_06.bmp and A0220_02_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.174 v.s. 0.157
+ 
+A0220_01_09.bmp and A0220_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.132 v.s. 0.172
+ 
+A0220_01_09.bmp and A0220_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.132 v.s. 0.157
+ 
+A0220_01_12.bmp and A0220_02_02.bmp: 
+ MOS: 1.46e+03 v.s. 1.36e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.132 v.s. 0.172
+ 
+A0220_01_12.bmp and A0220_02_03.bmp: 
+ MOS: 1.46e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.132 v.s. 0.157
+ 
+A0220_02_02.bmp and A0220_02_03.bmp: 
+ MOS: 1.36e+03 v.s. 1.49e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.172 v.s. 0.157
+ 
+A0223_03_03.bmp and A0223_06_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ MAD: 52.2 v.s. 52.2 
+ DeepJSD: 0.409 v.s. 0.374
+ 
+A0223_03_04.bmp and A0223_06_00.bmp: 
+ MOS: 1.58e+03 v.s. 1.47e+03 
+ MAD: 52.2 v.s. 52.2 
+ DeepJSD: 0.409 v.s. 0.374
+ 
+A0223_03_05.bmp and A0223_06_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.47e+03 
+ MAD: 52.2 v.s. 52.2 
+ DeepJSD: 0.409 v.s. 0.374
+ 
+A0227_01_09.bmp and A0227_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.179 v.s. 0.174
+ 
+A0232_00_02.bmp and A0232_00_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.396
+ 
+A0232_00_02.bmp and A0232_00_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.4e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.379
+ 
+A0232_00_02.bmp and A0232_01_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.37
+ 
+A0232_00_02.bmp and A0232_01_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.377
+ 
+A0232_00_02.bmp and A0232_01_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.379
+ 
+A0232_00_02.bmp and A0232_01_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.351
+ 
+A0232_00_02.bmp and A0232_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.347
+ 
+A0232_00_02.bmp and A0232_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.357
+ 
+A0232_00_02.bmp and A0232_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.379
+ 
+A0232_00_02.bmp and A0232_06_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.323
+ 
+A0232_00_02.bmp and A0232_06_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.389
+ 
+A0232_00_02.bmp and A0232_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.387 v.s. 0.33
+ 
+A0232_00_08.bmp and A0232_00_11.bmp: 
+ MOS: 1.7e+03 v.s. 1.4e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.379
+ 
+A0232_00_08.bmp and A0232_01_00.bmp: 
+ MOS: 1.7e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.37
+ 
+A0232_00_08.bmp and A0232_01_03.bmp: 
+ MOS: 1.7e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.377
+ 
+A0232_00_08.bmp and A0232_01_06.bmp: 
+ MOS: 1.7e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.379
+ 
+A0232_00_08.bmp and A0232_01_09.bmp: 
+ MOS: 1.7e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.351
+ 
+A0232_00_08.bmp and A0232_01_12.bmp: 
+ MOS: 1.7e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.347
+ 
+A0232_00_08.bmp and A0232_02_02.bmp: 
+ MOS: 1.7e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.357
+ 
+A0232_00_08.bmp and A0232_02_03.bmp: 
+ MOS: 1.7e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.379
+ 
+A0232_00_08.bmp and A0232_06_08.bmp: 
+ MOS: 1.7e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.323
+ 
+A0232_00_08.bmp and A0232_06_09.bmp: 
+ MOS: 1.7e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.389
+ 
+A0232_00_08.bmp and A0232_06_23.bmp: 
+ MOS: 1.7e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.33
+ 
+A0232_00_11.bmp and A0232_01_00.bmp: 
+ MOS: 1.4e+03 v.s. 1.56e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.37
+ 
+A0232_00_11.bmp and A0232_01_03.bmp: 
+ MOS: 1.4e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.377
+ 
+A0232_00_11.bmp and A0232_01_09.bmp: 
+ MOS: 1.4e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.351
+ 
+A0232_00_11.bmp and A0232_01_12.bmp: 
+ MOS: 1.4e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.347
+ 
+A0232_00_11.bmp and A0232_02_02.bmp: 
+ MOS: 1.4e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.357
+ 
+A0232_00_11.bmp and A0232_06_08.bmp: 
+ MOS: 1.4e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.323
+ 
+A0232_00_11.bmp and A0232_06_09.bmp: 
+ MOS: 1.4e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.389
+ 
+A0232_00_11.bmp and A0232_06_23.bmp: 
+ MOS: 1.4e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.33
+ 
+A0232_01_00.bmp and A0232_01_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.377
+ 
+A0232_01_00.bmp and A0232_01_06.bmp: 
+ MOS: 1.56e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.379
+ 
+A0232_01_00.bmp and A0232_01_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.351
+ 
+A0232_01_00.bmp and A0232_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.347
+ 
+A0232_01_00.bmp and A0232_02_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.357
+ 
+A0232_01_00.bmp and A0232_02_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.379
+ 
+A0232_01_00.bmp and A0232_06_08.bmp: 
+ MOS: 1.56e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.323
+ 
+A0232_01_00.bmp and A0232_06_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.389
+ 
+A0232_01_00.bmp and A0232_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.37 v.s. 0.33
+ 
+A0232_01_03.bmp and A0232_01_06.bmp: 
+ MOS: 1.57e+03 v.s. 1.61e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.379
+ 
+A0232_01_03.bmp and A0232_01_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.351
+ 
+A0232_01_03.bmp and A0232_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.347
+ 
+A0232_01_03.bmp and A0232_02_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.357
+ 
+A0232_01_03.bmp and A0232_02_03.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.379
+ 
+A0232_01_03.bmp and A0232_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.323
+ 
+A0232_01_03.bmp and A0232_06_09.bmp: 
+ MOS: 1.57e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.389
+ 
+A0232_01_03.bmp and A0232_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.377 v.s. 0.33
+ 
+A0232_01_06.bmp and A0232_01_09.bmp: 
+ MOS: 1.61e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.351
+ 
+A0232_01_06.bmp and A0232_01_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.347
+ 
+A0232_01_06.bmp and A0232_02_02.bmp: 
+ MOS: 1.61e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.357
+ 
+A0232_01_06.bmp and A0232_06_08.bmp: 
+ MOS: 1.61e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.323
+ 
+A0232_01_06.bmp and A0232_06_09.bmp: 
+ MOS: 1.61e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.389
+ 
+A0232_01_06.bmp and A0232_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.33
+ 
+A0232_01_09.bmp and A0232_01_12.bmp: 
+ MOS: 1.55e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.347
+ 
+A0232_01_09.bmp and A0232_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.357
+ 
+A0232_01_09.bmp and A0232_02_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.379
+ 
+A0232_01_09.bmp and A0232_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.323
+ 
+A0232_01_09.bmp and A0232_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.389
+ 
+A0232_01_09.bmp and A0232_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.351 v.s. 0.33
+ 
+A0232_01_12.bmp and A0232_02_02.bmp: 
+ MOS: 1.63e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.357
+ 
+A0232_01_12.bmp and A0232_02_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.379
+ 
+A0232_01_12.bmp and A0232_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.323
+ 
+A0232_01_12.bmp and A0232_06_09.bmp: 
+ MOS: 1.63e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.389
+ 
+A0232_01_12.bmp and A0232_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.347 v.s. 0.33
+ 
+A0232_02_02.bmp and A0232_02_03.bmp: 
+ MOS: 1.62e+03 v.s. 1.55e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.357 v.s. 0.379
+ 
+A0232_02_02.bmp and A0232_06_08.bmp: 
+ MOS: 1.62e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.357 v.s. 0.323
+ 
+A0232_02_02.bmp and A0232_06_09.bmp: 
+ MOS: 1.62e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.357 v.s. 0.389
+ 
+A0232_02_02.bmp and A0232_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.357 v.s. 0.33
+ 
+A0232_02_03.bmp and A0232_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.323
+ 
+A0232_02_03.bmp and A0232_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.389
+ 
+A0232_02_03.bmp and A0232_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.379 v.s. 0.33
+ 
+A0232_06_08.bmp and A0232_06_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.57e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.323 v.s. 0.389
+ 
+A0232_06_08.bmp and A0232_06_23.bmp: 
+ MOS: 1.5e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.323 v.s. 0.33
+ 
+A0232_06_09.bmp and A0232_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.389 v.s. 0.33
+ 
+A0239_03_02.bmp and A0239_03_12.bmp: 
+ MOS: 1.46e+03 v.s. 1.53e+03 
+ MAD: 90.3 v.s. 90.3 
+ DeepJSD: 0.549 v.s. 0.54
+ 
+A0244_00_02.bmp and A0244_00_05.bmp: 
+ MOS: 1.53e+03 v.s. 1.65e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.412
+ 
+A0244_00_02.bmp and A0244_00_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.425
+ 
+A0244_00_02.bmp and A0244_00_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.409
+ 
+A0244_00_02.bmp and A0244_01_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.409
+ 
+A0244_00_02.bmp and A0244_01_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.4
+ 
+A0244_00_02.bmp and A0244_01_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.397
+ 
+A0244_00_02.bmp and A0244_01_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.373
+ 
+A0244_00_02.bmp and A0244_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.371
+ 
+A0244_00_02.bmp and A0244_02_02.bmp: 
+ MOS: 1.53e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.396
+ 
+A0244_00_02.bmp and A0244_02_03.bmp: 
+ MOS: 1.53e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.395
+ 
+A0244_00_02.bmp and A0244_06_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.359
+ 
+A0244_00_02.bmp and A0244_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.415 v.s. 0.347
+ 
+A0244_00_05.bmp and A0244_00_08.bmp: 
+ MOS: 1.65e+03 v.s. 1.59e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.425
+ 
+A0244_00_05.bmp and A0244_00_11.bmp: 
+ MOS: 1.65e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.409
+ 
+A0244_00_05.bmp and A0244_01_00.bmp: 
+ MOS: 1.65e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.409
+ 
+A0244_00_05.bmp and A0244_01_03.bmp: 
+ MOS: 1.65e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.4
+ 
+A0244_00_05.bmp and A0244_01_06.bmp: 
+ MOS: 1.65e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.397
+ 
+A0244_00_05.bmp and A0244_01_09.bmp: 
+ MOS: 1.65e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.373
+ 
+A0244_00_05.bmp and A0244_01_12.bmp: 
+ MOS: 1.65e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.371
+ 
+A0244_00_05.bmp and A0244_02_02.bmp: 
+ MOS: 1.65e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.396
+ 
+A0244_00_05.bmp and A0244_02_03.bmp: 
+ MOS: 1.65e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.395
+ 
+A0244_00_05.bmp and A0244_06_08.bmp: 
+ MOS: 1.65e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.359
+ 
+A0244_00_05.bmp and A0244_06_23.bmp: 
+ MOS: 1.65e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.412 v.s. 0.347
+ 
+A0244_00_08.bmp and A0244_00_11.bmp: 
+ MOS: 1.59e+03 v.s. 1.51e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.409
+ 
+A0244_00_08.bmp and A0244_01_00.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.409
+ 
+A0244_00_08.bmp and A0244_01_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.4
+ 
+A0244_00_08.bmp and A0244_01_06.bmp: 
+ MOS: 1.59e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.397
+ 
+A0244_00_08.bmp and A0244_01_09.bmp: 
+ MOS: 1.59e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.373
+ 
+A0244_00_08.bmp and A0244_01_12.bmp: 
+ MOS: 1.59e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.371
+ 
+A0244_00_08.bmp and A0244_02_02.bmp: 
+ MOS: 1.59e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.396
+ 
+A0244_00_08.bmp and A0244_02_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.395
+ 
+A0244_00_08.bmp and A0244_06_08.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.359
+ 
+A0244_00_08.bmp and A0244_06_23.bmp: 
+ MOS: 1.59e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.425 v.s. 0.347
+ 
+A0244_00_11.bmp and A0244_01_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.4
+ 
+A0244_00_11.bmp and A0244_01_06.bmp: 
+ MOS: 1.51e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.397
+ 
+A0244_00_11.bmp and A0244_01_09.bmp: 
+ MOS: 1.51e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.373
+ 
+A0244_00_11.bmp and A0244_01_12.bmp: 
+ MOS: 1.51e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.371
+ 
+A0244_00_11.bmp and A0244_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.396
+ 
+A0244_00_11.bmp and A0244_02_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.395
+ 
+A0244_00_11.bmp and A0244_06_08.bmp: 
+ MOS: 1.51e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.359
+ 
+A0244_00_11.bmp and A0244_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.347
+ 
+A0244_01_00.bmp and A0244_01_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.64e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.4
+ 
+A0244_01_00.bmp and A0244_01_06.bmp: 
+ MOS: 1.58e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.397
+ 
+A0244_01_00.bmp and A0244_01_09.bmp: 
+ MOS: 1.58e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.373
+ 
+A0244_01_00.bmp and A0244_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.371
+ 
+A0244_01_00.bmp and A0244_02_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.396
+ 
+A0244_01_00.bmp and A0244_02_03.bmp: 
+ MOS: 1.58e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.395
+ 
+A0244_01_00.bmp and A0244_06_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.359
+ 
+A0244_01_00.bmp and A0244_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.409 v.s. 0.347
+ 
+A0244_01_03.bmp and A0244_01_06.bmp: 
+ MOS: 1.64e+03 v.s. 1.66e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.397
+ 
+A0244_01_03.bmp and A0244_01_09.bmp: 
+ MOS: 1.64e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.373
+ 
+A0244_01_03.bmp and A0244_01_12.bmp: 
+ MOS: 1.64e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.371
+ 
+A0244_01_03.bmp and A0244_02_02.bmp: 
+ MOS: 1.64e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.396
+ 
+A0244_01_03.bmp and A0244_02_03.bmp: 
+ MOS: 1.64e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.395
+ 
+A0244_01_03.bmp and A0244_06_08.bmp: 
+ MOS: 1.64e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.359
+ 
+A0244_01_03.bmp and A0244_06_23.bmp: 
+ MOS: 1.64e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.4 v.s. 0.347
+ 
+A0244_01_06.bmp and A0244_01_09.bmp: 
+ MOS: 1.66e+03 v.s. 1.6e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.373
+ 
+A0244_01_06.bmp and A0244_01_12.bmp: 
+ MOS: 1.66e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.371
+ 
+A0244_01_06.bmp and A0244_02_02.bmp: 
+ MOS: 1.66e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.396
+ 
+A0244_01_06.bmp and A0244_02_03.bmp: 
+ MOS: 1.66e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.395
+ 
+A0244_01_06.bmp and A0244_06_08.bmp: 
+ MOS: 1.66e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.359
+ 
+A0244_01_06.bmp and A0244_06_23.bmp: 
+ MOS: 1.66e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.397 v.s. 0.347
+ 
+A0244_01_09.bmp and A0244_01_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.68e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.373 v.s. 0.371
+ 
+A0244_01_09.bmp and A0244_02_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.373 v.s. 0.396
+ 
+A0244_01_09.bmp and A0244_02_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.373 v.s. 0.395
+ 
+A0244_01_09.bmp and A0244_06_08.bmp: 
+ MOS: 1.6e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.373 v.s. 0.359
+ 
+A0244_01_09.bmp and A0244_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.373 v.s. 0.347
+ 
+A0244_01_12.bmp and A0244_02_02.bmp: 
+ MOS: 1.68e+03 v.s. 1.63e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.371 v.s. 0.396
+ 
+A0244_01_12.bmp and A0244_02_03.bmp: 
+ MOS: 1.68e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.371 v.s. 0.395
+ 
+A0244_01_12.bmp and A0244_06_08.bmp: 
+ MOS: 1.68e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.371 v.s. 0.359
+ 
+A0244_01_12.bmp and A0244_06_23.bmp: 
+ MOS: 1.68e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.371 v.s. 0.347
+ 
+A0244_02_02.bmp and A0244_02_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.62e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.395
+ 
+A0244_02_02.bmp and A0244_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.359
+ 
+A0244_02_02.bmp and A0244_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.396 v.s. 0.347
+ 
+A0244_02_03.bmp and A0244_06_08.bmp: 
+ MOS: 1.62e+03 v.s. 1.58e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.395 v.s. 0.359
+ 
+A0244_02_03.bmp and A0244_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.395 v.s. 0.347
+ 
+A0244_06_08.bmp and A0244_06_23.bmp: 
+ MOS: 1.58e+03 v.s. 1.7e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.359 v.s. 0.347
+ 
+A0245_03_18.bmp and A0245_06_26.bmp: 
+ MOS: 1.51e+03 v.s. 1.43e+03 
+ MAD: 103 v.s. 103 
+ DeepJSD: 0.614 v.s. 0.596
+ 
+A0246_01_09.bmp and A0246_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.43e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.23 v.s. 0.227
+ 
+A0246_01_09.bmp and A0246_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.23 v.s. 0.252
+ 
+A0246_01_12.bmp and A0246_02_02.bmp: 
+ MOS: 1.43e+03 v.s. 1.5e+03 
+ MAD: 0 v.s. 0 
+ DeepJSD: 0.227 v.s. 0.252
+ 
+A0247_00_04.bmp and A0247_06_10.bmp: 
+ MOS: 1.4e+03 v.s. 1.43e+03 
+ MAD: 87.3 v.s. 87.3 
+ DeepJSD: 0.608 v.s. 0.56
+ 
+Total num: 838

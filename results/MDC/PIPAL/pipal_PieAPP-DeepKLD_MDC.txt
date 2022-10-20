@@ -1,0 +1,5396 @@
+A0001_00_01.bmp and A0001_03_21.bmp: 
+ MOS: 1.44e+03 v.s. 1.36e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.49 v.s. 0.631
+ 
+A0001_00_07.bmp and A0001_05_05.bmp: 
+ MOS: 1.45e+03 v.s. 1.24e+03 
+ PieAPP: 1.25 v.s. 1.25 
+ DeepKLD: 0.536 v.s. 0.67
+ 
+A0001_00_09.bmp and A0001_02_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.42e+03 
+ PieAPP: 0.703 v.s. 0.703 
+ DeepKLD: 0.428 v.s. 0.437
+ 
+A0001_01_00.bmp and A0001_01_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ PieAPP: 0.12 v.s. 0.12 
+ DeepKLD: 0.254 v.s. 0.241
+ 
+A0001_01_01.bmp and A0001_06_21.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ PieAPP: 0.372 v.s. 0.372 
+ DeepKLD: 0.373 v.s. 0.523
+ 
+A0001_01_01.bmp and A0001_06_24.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ PieAPP: 0.372 v.s. 0.372 
+ DeepKLD: 0.373 v.s. 0.335
+ 
+A0001_01_11.bmp and A0001_01_14.bmp: 
+ MOS: 1.5e+03 v.s. 1.45e+03 
+ PieAPP: 0.503 v.s. 0.502 
+ DeepKLD: 0.415 v.s. 0.412
+ 
+A0001_01_13.bmp and A0001_03_15.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ PieAPP: 0.294 v.s. 0.294 
+ DeepKLD: 0.327 v.s. 0.421
+ 
+A0001_03_09.bmp and A0001_03_13.bmp: 
+ MOS: 1.55e+03 v.s. 1.46e+03 
+ PieAPP: 0.402 v.s. 0.402 
+ DeepKLD: 0.463 v.s. 0.429
+ 
+A0001_03_19.bmp and A0001_06_20.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 0.499 v.s. 0.5 
+ DeepKLD: 0.436 v.s. 0.518
+ 
+A0001_03_20.bmp and A0001_04_01.bmp: 
+ MOS: 1.38e+03 v.s. 1.44e+03 
+ PieAPP: 0.798 v.s. 0.799 
+ DeepKLD: 0.557 v.s. 0.593
+ 
+A0001_04_07.bmp and A0001_05_07.bmp: 
+ MOS: 1.28e+03 v.s. 1.18e+03 
+ PieAPP: 1.23 v.s. 1.24 
+ DeepKLD: 0.666 v.s. 0.712
+ 
+A0001_06_21.bmp and A0001_06_24.bmp: 
+ MOS: 1.49e+03 v.s. 1.5e+03 
+ PieAPP: 0.372 v.s. 0.372 
+ DeepKLD: 0.523 v.s. 0.335
+ 
+A0002_03_18.bmp and A0002_05_12.bmp: 
+ MOS: 1.48e+03 v.s. 1.33e+03 
+ PieAPP: 0.829 v.s. 0.829 
+ DeepKLD: 0.744 v.s. 0.662
+ 
+A0003_00_01.bmp and A0003_05_03.bmp: 
+ MOS: 1.35e+03 v.s. 1.22e+03 
+ PieAPP: 2.18 v.s. 2.18 
+ DeepKLD: 0.596 v.s. 0.732
+ 
+A0003_01_13.bmp and A0003_03_01.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ PieAPP: 0.192 v.s. 0.192 
+ DeepKLD: 0.401 v.s. 0.589
+ 
+A0003_02_07.bmp and A0003_05_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.45e+03 
+ PieAPP: 0.189 v.s. 0.189 
+ DeepKLD: 0.51 v.s. 0.668
+ 
+A0003_03_13.bmp and A0003_06_16.bmp: 
+ MOS: 1.48e+03 v.s. 1.53e+03 
+ PieAPP: 0.239 v.s. 0.24 
+ DeepKLD: 0.584 v.s. 0.26
+ 
+A0003_03_13.bmp and A0003_06_19.bmp: 
+ MOS: 1.48e+03 v.s. 1.1e+03 
+ PieAPP: 0.239 v.s. 0.24 
+ DeepKLD: 0.584 v.s. 0.623
+ 
+A0003_04_01.bmp and A0003_04_09.bmp: 
+ MOS: 1.37e+03 v.s. 1.5e+03 
+ PieAPP: 0.55 v.s. 0.55 
+ DeepKLD: 0.527 v.s. 0.514
+ 
+A0003_05_05.bmp and A0003_06_01.bmp: 
+ MOS: 1.37e+03 v.s. 1.43e+03 
+ PieAPP: 0.73 v.s. 0.729 
+ DeepKLD: 0.623 v.s. 0.463
+ 
+A0003_06_16.bmp and A0003_06_19.bmp: 
+ MOS: 1.53e+03 v.s. 1.1e+03 
+ PieAPP: 0.24 v.s. 0.24 
+ DeepKLD: 0.26 v.s. 0.623
+ 
+A0006_00_07.bmp and A0006_06_12.bmp: 
+ MOS: 1.39e+03 v.s. 1.39e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.611 v.s. 0.587
+ 
+A0006_01_04.bmp and A0006_03_08.bmp: 
+ MOS: 1.51e+03 v.s. 1.48e+03 
+ PieAPP: 0.631 v.s. 0.631 
+ DeepKLD: 0.488 v.s. 0.498
+ 
+A0006_01_11.bmp and A0006_06_17.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.755 v.s. 0.755 
+ DeepKLD: 0.494 v.s. 0.452
+ 
+A0006_01_14.bmp and A0006_04_00.bmp: 
+ MOS: 1.5e+03 v.s. 1.54e+03 
+ PieAPP: 0.76 v.s. 0.76 
+ DeepKLD: 0.491 v.s. 0.519
+ 
+A0006_02_05.bmp and A0006_04_06.bmp: 
+ MOS: 1.47e+03 v.s. 1.33e+03 
+ PieAPP: 1.59 v.s. 1.59 
+ DeepKLD: 0.573 v.s. 0.653
+ 
+A0006_03_01.bmp and A0006_03_15.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ PieAPP: 0.5 v.s. 0.5 
+ DeepKLD: 0.499 v.s. 0.488
+ 
+A0006_03_02.bmp and A0006_03_12.bmp: 
+ MOS: 1.45e+03 v.s. 1.46e+03 
+ PieAPP: 0.709 v.s. 0.708 
+ DeepKLD: 0.518 v.s. 0.509
+ 
+A0006_03_02.bmp and A0006_06_20.bmp: 
+ MOS: 1.45e+03 v.s. 1.37e+03 
+ PieAPP: 0.709 v.s. 0.709 
+ DeepKLD: 0.518 v.s. 0.565
+ 
+A0006_03_09.bmp and A0006_05_11.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ PieAPP: 0.482 v.s. 0.481 
+ DeepKLD: 0.5 v.s. 0.445
+ 
+A0006_03_12.bmp and A0006_06_20.bmp: 
+ MOS: 1.46e+03 v.s. 1.37e+03 
+ PieAPP: 0.708 v.s. 0.709 
+ DeepKLD: 0.509 v.s. 0.565
+ 
+A0006_05_04.bmp and A0006_06_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.38e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.629 v.s. 0.483
+ 
+A0007_00_02.bmp and A0007_00_11.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ PieAPP: 0.513 v.s. 0.513 
+ DeepKLD: 0.443 v.s. 0.434
+ 
+A0007_03_14.bmp and A0007_05_05.bmp: 
+ MOS: 1.43e+03 v.s. 1.37e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.639 v.s. 0.747
+ 
+A0007_03_20.bmp and A0007_04_04.bmp: 
+ MOS: 1.43e+03 v.s. 1.36e+03 
+ PieAPP: 1.44 v.s. 1.44 
+ DeepKLD: 0.752 v.s. 0.726
+ 
+A0007_04_09.bmp and A0007_06_06.bmp: 
+ MOS: 1.39e+03 v.s. 1.28e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.67 v.s. 0.71
+ 
+A0008_00_01.bmp and A0008_06_10.bmp: 
+ MOS: 1.38e+03 v.s. 1.27e+03 
+ PieAPP: 1.83 v.s. 1.83 
+ DeepKLD: 0.582 v.s. 0.682
+ 
+A0008_01_00.bmp and A0008_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.62e+03 
+ PieAPP: 0.207 v.s. 0.207 
+ DeepKLD: 0.31 v.s. 0.321
+ 
+A0008_01_02.bmp and A0008_01_05.bmp: 
+ MOS: 1.34e+03 v.s. 1.41e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.606 v.s. 0.599
+ 
+A0008_01_09.bmp and A0008_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ PieAPP: 0.161 v.s. 0.16 
+ DeepKLD: 0.275 v.s. 0.276
+ 
+A0008_02_00.bmp and A0008_04_11.bmp: 
+ MOS: 1.54e+03 v.s. 1.44e+03 
+ PieAPP: 0.902 v.s. 0.902 
+ DeepKLD: 0.418 v.s. 0.644
+ 
+A0008_02_01.bmp and A0008_04_11.bmp: 
+ MOS: 1.56e+03 v.s. 1.44e+03 
+ PieAPP: 0.902 v.s. 0.902 
+ DeepKLD: 0.418 v.s. 0.644
+ 
+A0008_02_04.bmp and A0008_06_20.bmp: 
+ MOS: 1.54e+03 v.s. 1.54e+03 
+ PieAPP: 0.379 v.s. 0.378 
+ DeepKLD: 0.513 v.s. 0.504
+ 
+A0008_03_07.bmp and A0008_06_25.bmp: 
+ MOS: 1.45e+03 v.s. 1.47e+03 
+ PieAPP: 0.875 v.s. 0.875 
+ DeepKLD: 0.581 v.s. 0.529
+ 
+A0008_05_05.bmp and A0008_05_06.bmp: 
+ MOS: 1.37e+03 v.s. 1.45e+03 
+ PieAPP: 1.07 v.s. 1.07 
+ DeepKLD: 0.733 v.s. 0.725
+ 
+A0009_02_00.bmp and A0009_04_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.44e+03 
+ PieAPP: 0.824 v.s. 0.823 
+ DeepKLD: 0.533 v.s. 0.602
+ 
+A0009_02_01.bmp and A0009_04_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.44e+03 
+ PieAPP: 0.824 v.s. 0.823 
+ DeepKLD: 0.533 v.s. 0.602
+ 
+A0009_03_03.bmp and A0009_03_16.bmp: 
+ MOS: 1.49e+03 v.s. 1.51e+03 
+ PieAPP: 1.08 v.s. 1.08 
+ DeepKLD: 0.596 v.s. 0.614
+ 
+A0009_03_04.bmp and A0009_03_16.bmp: 
+ MOS: 1.41e+03 v.s. 1.51e+03 
+ PieAPP: 1.08 v.s. 1.08 
+ DeepKLD: 0.596 v.s. 0.614
+ 
+A0010_00_00.bmp and A0010_03_16.bmp: 
+ MOS: 1.49e+03 v.s. 1.45e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.654 v.s. 0.693
+ 
+A0010_03_01.bmp and A0010_06_07.bmp: 
+ MOS: 1.53e+03 v.s. 1.57e+03 
+ PieAPP: 0.895 v.s. 0.896 
+ DeepKLD: 0.715 v.s. 0.606
+ 
+A0010_03_13.bmp and A0010_04_08.bmp: 
+ MOS: 1.44e+03 v.s. 1.57e+03 
+ PieAPP: 0.785 v.s. 0.786 
+ DeepKLD: 0.705 v.s. 0.594
+ 
+A0010_03_17.bmp and A0010_06_08.bmp: 
+ MOS: 1.49e+03 v.s. 1.61e+03 
+ PieAPP: 0.755 v.s. 0.755 
+ DeepKLD: 0.722 v.s. 0.5
+ 
+A0010_04_04.bmp and A0010_06_11.bmp: 
+ MOS: 1.3e+03 v.s. 1.45e+03 
+ PieAPP: 1.7 v.s. 1.7 
+ DeepKLD: 0.769 v.s. 0.674
+ 
+A0012_00_06.bmp and A0012_03_19.bmp: 
+ MOS: 1.35e+03 v.s. 1.32e+03 
+ PieAPP: 3.72 v.s. 3.72 
+ DeepKLD: 0.934 v.s. 0.935
+ 
+A0012_01_01.bmp and A0012_01_14.bmp: 
+ MOS: 1.31e+03 v.s. 1.26e+03 
+ PieAPP: 3.76 v.s. 3.76 
+ DeepKLD: 0.933 v.s. 0.938
+ 
+A0012_03_00.bmp and A0012_03_03.bmp: 
+ MOS: 1.4e+03 v.s. 1.39e+03 
+ PieAPP: 3.78 v.s. 3.78 
+ DeepKLD: 0.936 v.s. 0.938
+ 
+A0012_03_00.bmp and A0012_03_04.bmp: 
+ MOS: 1.4e+03 v.s. 1.3e+03 
+ PieAPP: 3.78 v.s. 3.78 
+ DeepKLD: 0.936 v.s. 0.938
+ 
+A0012_03_00.bmp and A0012_03_05.bmp: 
+ MOS: 1.4e+03 v.s. 1.32e+03 
+ PieAPP: 3.78 v.s. 3.78 
+ DeepKLD: 0.936 v.s. 0.938
+ 
+A0012_03_14.bmp and A0012_05_11.bmp: 
+ MOS: 1.4e+03 v.s. 1.33e+03 
+ PieAPP: 3.7 v.s. 3.7 
+ DeepKLD: 0.937 v.s. 0.933
+ 
+A0013_00_09.bmp and A0013_06_26.bmp: 
+ MOS: 1.5e+03 v.s. 1.39e+03 
+ PieAPP: 1.45 v.s. 1.45 
+ DeepKLD: 0.681 v.s. 0.688
+ 
+A0013_01_01.bmp and A0013_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.41e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.652 v.s. 0.557
+ 
+A0013_03_12.bmp and A0013_04_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.47e+03 
+ PieAPP: 0.608 v.s. 0.608 
+ DeepKLD: 0.709 v.s. 0.535
+ 
+A0013_03_19.bmp and A0013_06_08.bmp: 
+ MOS: 1.58e+03 v.s. 1.57e+03 
+ PieAPP: 0.676 v.s. 0.676 
+ DeepKLD: 0.69 v.s. 0.475
+ 
+A0013_05_00.bmp and A0013_05_09.bmp: 
+ MOS: 1.43e+03 v.s. 1.39e+03 
+ PieAPP: 1.6 v.s. 1.6 
+ DeepKLD: 0.707 v.s. 0.751
+ 
+A0013_06_19.bmp and A0013_06_24.bmp: 
+ MOS: 1.42e+03 v.s. 1.43e+03 
+ PieAPP: 0.966 v.s. 0.966 
+ DeepKLD: 0.637 v.s. 0.561
+ 
+A0014_01_08.bmp and A0014_06_09.bmp: 
+ MOS: 1.31e+03 v.s. 1.56e+03 
+ PieAPP: 1.85 v.s. 1.85 
+ DeepKLD: 0.718 v.s. 0.6
+ 
+A0014_02_08.bmp and A0014_05_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.5e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.664 v.s. 0.61
+ 
+A0014_03_10.bmp and A0014_03_19.bmp: 
+ MOS: 1.51e+03 v.s. 1.47e+03 
+ PieAPP: 1.19 v.s. 1.19 
+ DeepKLD: 0.648 v.s. 0.672
+ 
+A0015_00_05.bmp and A0015_01_00.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ PieAPP: 0.287 v.s. 0.288 
+ DeepKLD: 0.399 v.s. 0.356
+ 
+A0015_00_06.bmp and A0015_04_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.46e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.575 v.s. 0.625
+ 
+A0015_01_10.bmp and A0015_06_19.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ PieAPP: 0.505 v.s. 0.505 
+ DeepKLD: 0.449 v.s. 0.536
+ 
+A0015_03_09.bmp and A0015_04_08.bmp: 
+ MOS: 1.46e+03 v.s. 1.52e+03 
+ PieAPP: 0.617 v.s. 0.618 
+ DeepKLD: 0.587 v.s. 0.501
+ 
+A0015_04_05.bmp and A0015_05_10.bmp: 
+ MOS: 1.62e+03 v.s. 1.47e+03 
+ PieAPP: 0.811 v.s. 0.812 
+ DeepKLD: 0.513 v.s. 0.635
+ 
+A0016_01_01.bmp and A0016_05_10.bmp: 
+ MOS: 1.49e+03 v.s. 1.54e+03 
+ PieAPP: 0.913 v.s. 0.912 
+ DeepKLD: 0.56 v.s. 0.637
+ 
+A0016_01_09.bmp and A0016_01_12.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ PieAPP: 0.126 v.s. 0.126 
+ DeepKLD: 0.273 v.s. 0.266
+ 
+A0016_03_01.bmp and A0016_04_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.5e+03 
+ PieAPP: 0.746 v.s. 0.746 
+ DeepKLD: 0.701 v.s. 0.537
+ 
+A0016_03_12.bmp and A0016_04_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.53e+03 
+ PieAPP: 0.767 v.s. 0.767 
+ DeepKLD: 0.698 v.s. 0.535
+ 
+A0016_03_17.bmp and A0016_04_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.52e+03 
+ PieAPP: 0.633 v.s. 0.632 
+ DeepKLD: 0.705 v.s. 0.522
+ 
+A0016_03_21.bmp and A0016_06_09.bmp: 
+ MOS: 1.05e+03 v.s. 1.6e+03 
+ PieAPP: 0.71 v.s. 0.709 
+ DeepKLD: 0.809 v.s. 0.527
+ 
+A0016_05_00.bmp and A0016_05_09.bmp: 
+ MOS: 1.45e+03 v.s. 1.39e+03 
+ PieAPP: 1.43 v.s. 1.43 
+ DeepKLD: 0.671 v.s. 0.697
+ 
+A0017_00_06.bmp and A0017_06_25.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ PieAPP: 0.897 v.s. 0.896 
+ DeepKLD: 0.566 v.s. 0.539
+ 
+A0017_01_00.bmp and A0017_06_23.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ PieAPP: 0.205 v.s. 0.205 
+ DeepKLD: 0.348 v.s. 0.291
+ 
+A0017_01_04.bmp and A0017_01_07.bmp: 
+ MOS: 1.43e+03 v.s. 1.48e+03 
+ PieAPP: 0.953 v.s. 0.953 
+ DeepKLD: 0.538 v.s. 0.543
+ 
+A0017_02_05.bmp and A0017_06_14.bmp: 
+ MOS: 1.28e+03 v.s. 1.29e+03 
+ PieAPP: 2.45 v.s. 2.45 
+ DeepKLD: 0.636 v.s. 0.626
+ 
+A0017_03_09.bmp and A0017_06_20.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ PieAPP: 0.636 v.s. 0.635 
+ DeepKLD: 0.624 v.s. 0.533
+ 
+A0017_03_20.bmp and A0017_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.51e+03 
+ PieAPP: 0.915 v.s. 0.914 
+ DeepKLD: 0.693 v.s. 0.569
+ 
+A0017_03_23.bmp and A0017_05_11.bmp: 
+ MOS: 1.35e+03 v.s. 1.55e+03 
+ PieAPP: 0.73 v.s. 0.73 
+ DeepKLD: 0.722 v.s. 0.503
+ 
+A0017_04_00.bmp and A0017_05_04.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ PieAPP: 0.853 v.s. 0.854 
+ DeepKLD: 0.542 v.s. 0.633
+ 
+A0018_00_08.bmp and A0018_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.62e+03 
+ PieAPP: 0.379 v.s. 0.379 
+ DeepKLD: 0.476 v.s. 0.344
+ 
+A0018_01_04.bmp and A0018_02_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.51e+03 
+ PieAPP: 0.755 v.s. 0.755 
+ DeepKLD: 0.586 v.s. 0.661
+ 
+A0018_01_11.bmp and A0018_03_16.bmp: 
+ MOS: 1.53e+03 v.s. 1.44e+03 
+ PieAPP: 0.997 v.s. 0.996 
+ DeepKLD: 0.652 v.s. 0.648
+ 
+A0018_02_06.bmp and A0018_04_04.bmp: 
+ MOS: 1.41e+03 v.s. 1.32e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.669 v.s. 0.725
+ 
+A0018_05_12.bmp and A0018_06_18.bmp: 
+ MOS: 1.51e+03 v.s. 1.56e+03 
+ PieAPP: 0.863 v.s. 0.863 
+ DeepKLD: 0.598 v.s. 0.619
+ 
+A0021_00_11.bmp and A0021_06_05.bmp: 
+ MOS: 1.45e+03 v.s. 1.58e+03 
+ PieAPP: 0.769 v.s. 0.768 
+ DeepKLD: 0.522 v.s. 0.615
+ 
+A0021_01_11.bmp and A0021_06_03.bmp: 
+ MOS: 1.41e+03 v.s. 1.45e+03 
+ PieAPP: 2.31 v.s. 2.3 
+ DeepKLD: 0.721 v.s. 0.658
+ 
+A0021_02_07.bmp and A0021_06_03.bmp: 
+ MOS: 1.41e+03 v.s. 1.45e+03 
+ PieAPP: 2.31 v.s. 2.3 
+ DeepKLD: 0.727 v.s. 0.658
+ 
+A0023_02_04.bmp and A0023_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.58e+03 
+ PieAPP: 0.18 v.s. 0.18 
+ DeepKLD: 0.523 v.s. 0.277
+ 
+A0024_00_00.bmp and A0024_05_12.bmp: 
+ MOS: 1.42e+03 v.s. 1.49e+03 
+ PieAPP: 0.523 v.s. 0.523 
+ DeepKLD: 0.326 v.s. 0.477
+ 
+A0024_01_09.bmp and A0024_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.54e+03 
+ PieAPP: 0.125 v.s. 0.125 
+ DeepKLD: 0.207 v.s. 0.205
+ 
+A0024_03_00.bmp and A0024_06_08.bmp: 
+ MOS: 1.54e+03 v.s. 1.49e+03 
+ PieAPP: 0.607 v.s. 0.607 
+ DeepKLD: 0.59 v.s. 0.519
+ 
+A0024_04_06.bmp and A0024_05_02.bmp: 
+ MOS: 1.3e+03 v.s. 1.32e+03 
+ PieAPP: 2.21 v.s. 2.21 
+ DeepKLD: 0.662 v.s. 0.659
+ 
+A0025_00_04.bmp and A0025_05_08.bmp: 
+ MOS: 1.3e+03 v.s. 1.22e+03 
+ PieAPP: 2.48 v.s. 2.48 
+ DeepKLD: 0.727 v.s. 0.772
+ 
+A0025_02_04.bmp and A0025_06_23.bmp: 
+ MOS: 1.69e+03 v.s. 1.62e+03 
+ PieAPP: 0.255 v.s. 0.255 
+ DeepKLD: 0.633 v.s. 0.332
+ 
+A0025_03_01.bmp and A0025_03_19.bmp: 
+ MOS: 1.48e+03 v.s. 1.45e+03 
+ PieAPP: 1.11 v.s. 1.11 
+ DeepKLD: 0.692 v.s. 0.684
+ 
+A0025_03_11.bmp and A0025_04_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.52e+03 
+ PieAPP: 1.37 v.s. 1.38 
+ DeepKLD: 0.675 v.s. 0.664
+ 
+A0025_04_10.bmp and A0025_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.54e+03 
+ PieAPP: 2.04 v.s. 2.04 
+ DeepKLD: 0.734 v.s. 0.586
+ 
+A0026_00_06.bmp and A0026_03_20.bmp: 
+ MOS: 1.42e+03 v.s. 1.36e+03 
+ PieAPP: 0.985 v.s. 0.985 
+ DeepKLD: 0.557 v.s. 0.67
+ 
+A0026_00_08.bmp and A0026_05_11.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ PieAPP: 0.476 v.s. 0.477 
+ DeepKLD: 0.385 v.s. 0.465
+ 
+A0026_01_00.bmp and A0026_02_02.bmp: 
+ MOS: 1.43e+03 v.s. 1.63e+03 
+ PieAPP: 0.251 v.s. 0.251 
+ DeepKLD: 0.336 v.s. 0.297
+ 
+A0026_01_07.bmp and A0026_03_03.bmp: 
+ MOS: 1.54e+03 v.s. 1.55e+03 
+ PieAPP: 0.529 v.s. 0.528 
+ DeepKLD: 0.488 v.s. 0.503
+ 
+A0026_01_07.bmp and A0026_03_04.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ PieAPP: 0.529 v.s. 0.528 
+ DeepKLD: 0.488 v.s. 0.503
+ 
+A0026_01_07.bmp and A0026_03_05.bmp: 
+ MOS: 1.54e+03 v.s. 1.45e+03 
+ PieAPP: 0.529 v.s. 0.528 
+ DeepKLD: 0.488 v.s. 0.503
+ 
+A0026_01_10.bmp and A0026_03_13.bmp: 
+ MOS: 1.59e+03 v.s. 1.57e+03 
+ PieAPP: 0.419 v.s. 0.42 
+ DeepKLD: 0.425 v.s. 0.549
+ 
+A0026_01_13.bmp and A0026_03_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.58e+03 
+ PieAPP: 0.39 v.s. 0.391 
+ DeepKLD: 0.417 v.s. 0.585
+ 
+A0026_03_07.bmp and A0026_03_19.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 0.499 v.s. 0.499 
+ DeepKLD: 0.54 v.s. 0.564
+ 
+A0026_04_06.bmp and A0026_05_00.bmp: 
+ MOS: 1.34e+03 v.s. 1.34e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.637 v.s. 0.625
+ 
+A0026_04_09.bmp and A0026_06_20.bmp: 
+ MOS: 1.35e+03 v.s. 1.34e+03 
+ PieAPP: 0.87 v.s. 0.87 
+ DeepKLD: 0.599 v.s. 0.542
+ 
+A0027_00_08.bmp and A0027_03_13.bmp: 
+ MOS: 1.56e+03 v.s. 1.42e+03 
+ PieAPP: 0.63 v.s. 0.631 
+ DeepKLD: 0.527 v.s. 0.682
+ 
+A0027_01_04.bmp and A0027_03_16.bmp: 
+ MOS: 1.48e+03 v.s. 1.52e+03 
+ PieAPP: 1.12 v.s. 1.12 
+ DeepKLD: 0.649 v.s. 0.68
+ 
+A0027_02_09.bmp and A0027_04_01.bmp: 
+ MOS: 1.56e+03 v.s. 1.44e+03 
+ PieAPP: 0.982 v.s. 0.982 
+ DeepKLD: 0.73 v.s. 0.686
+ 
+A0027_03_02.bmp and A0027_06_20.bmp: 
+ MOS: 1.43e+03 v.s. 1.44e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.694 v.s. 0.599
+ 
+A0027_04_03.bmp and A0027_06_20.bmp: 
+ MOS: 1.45e+03 v.s. 1.44e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.682 v.s. 0.599
+ 
+A0027_05_06.bmp and A0027_06_09.bmp: 
+ MOS: 1.33e+03 v.s. 1.37e+03 
+ PieAPP: 1.06 v.s. 1.07 
+ DeepKLD: 0.793 v.s. 0.558
+ 
+A0028_00_00.bmp and A0028_03_08.bmp: 
+ MOS: 1.5e+03 v.s. 1.5e+03 
+ PieAPP: 1.6 v.s. 1.61 
+ DeepKLD: 0.628 v.s. 0.694
+ 
+A0028_00_07.bmp and A0028_04_07.bmp: 
+ MOS: 1.43e+03 v.s. 1.19e+03 
+ PieAPP: 2.51 v.s. 2.51 
+ DeepKLD: 0.761 v.s. 0.767
+ 
+A0028_01_14.bmp and A0028_05_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.25e+03 
+ PieAPP: 1.42 v.s. 1.42 
+ DeepKLD: 0.708 v.s. 0.806
+ 
+A0028_02_07.bmp and A0028_05_02.bmp: 
+ MOS: 1.42e+03 v.s. 1.39e+03 
+ PieAPP: 1.86 v.s. 1.86 
+ DeepKLD: 0.711 v.s. 0.766
+ 
+A0028_03_18.bmp and A0028_04_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.56e+03 
+ PieAPP: 0.642 v.s. 0.642 
+ DeepKLD: 0.695 v.s. 0.599
+ 
+A0028_04_03.bmp and A0028_06_25.bmp: 
+ MOS: 1.35e+03 v.s. 1.51e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.704 v.s. 0.627
+ 
+A0029_00_02.bmp and A0029_03_10.bmp: 
+ MOS: 1.56e+03 v.s. 1.58e+03 
+ PieAPP: 0.249 v.s. 0.248 
+ DeepKLD: 0.373 v.s. 0.506
+ 
+A0029_00_03.bmp and A0029_00_06.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ PieAPP: 0.839 v.s. 0.84 
+ DeepKLD: 0.544 v.s. 0.573
+ 
+A0029_00_09.bmp and A0029_06_11.bmp: 
+ MOS: 1.47e+03 v.s. 1.4e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.611 v.s. 0.574
+ 
+A0029_01_14.bmp and A0029_05_11.bmp: 
+ MOS: 1.59e+03 v.s. 1.41e+03 
+ PieAPP: 0.252 v.s. 0.252 
+ DeepKLD: 0.483 v.s. 0.435
+ 
+A0030_00_06.bmp and A0030_06_26.bmp: 
+ MOS: 1.43e+03 v.s. 1.49e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.777 v.s. 0.739
+ 
+A0030_03_08.bmp and A0030_03_10.bmp: 
+ MOS: 1.32e+03 v.s. 1.36e+03 
+ PieAPP: 1.66 v.s. 1.66 
+ DeepKLD: 0.79 v.s. 0.76
+ 
+A0031_00_11.bmp and A0031_06_08.bmp: 
+ MOS: 1.39e+03 v.s. 1.6e+03 
+ PieAPP: 0.855 v.s. 0.855 
+ DeepKLD: 0.548 v.s. 0.482
+ 
+A0031_03_00.bmp and A0031_04_06.bmp: 
+ MOS: 1.36e+03 v.s. 1.5e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.736 v.s. 0.684
+ 
+A0031_03_20.bmp and A0031_06_14.bmp: 
+ MOS: 1.18e+03 v.s. 1.38e+03 
+ PieAPP: 2.31 v.s. 2.31 
+ DeepKLD: 0.814 v.s. 0.679
+ 
+A0032_00_09.bmp and A0032_05_07.bmp: 
+ MOS: 1.52e+03 v.s. 1.19e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.621 v.s. 0.804
+ 
+A0032_01_00.bmp and A0032_01_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.62e+03 
+ PieAPP: 0.259 v.s. 0.258 
+ DeepKLD: 0.373 v.s. 0.371
+ 
+A0032_02_08.bmp and A0032_04_00.bmp: 
+ MOS: 1.46e+03 v.s. 1.57e+03 
+ PieAPP: 0.518 v.s. 0.518 
+ DeepKLD: 0.622 v.s. 0.521
+ 
+A0032_03_10.bmp and A0032_06_21.bmp: 
+ MOS: 1.48e+03 v.s. 1.44e+03 
+ PieAPP: 0.759 v.s. 0.759 
+ DeepKLD: 0.586 v.s. 0.544
+ 
+A0032_06_17.bmp and A0032_06_20.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ PieAPP: 0.936 v.s. 0.937 
+ DeepKLD: 0.548 v.s. 0.608
+ 
+A0034_01_00.bmp and A0034_04_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.54e+03 
+ PieAPP: 0.53 v.s. 0.529 
+ DeepKLD: 0.46 v.s. 0.544
+ 
+A0034_02_00.bmp and A0034_04_11.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ PieAPP: 1.21 v.s. 1.21 
+ DeepKLD: 0.544 v.s. 0.687
+ 
+A0034_02_01.bmp and A0034_04_11.bmp: 
+ MOS: 1.49e+03 v.s. 1.44e+03 
+ PieAPP: 1.21 v.s. 1.21 
+ DeepKLD: 0.544 v.s. 0.687
+ 
+A0034_04_06.bmp and A0034_06_01.bmp: 
+ MOS: 1.44e+03 v.s. 1.36e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.696 v.s. 0.631
+ 
+A0034_06_05.bmp and A0034_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.55e+03 
+ PieAPP: 0.758 v.s. 0.758 
+ DeepKLD: 0.594 v.s. 0.497
+ 
+A0035_01_00.bmp and A0035_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.58e+03 
+ PieAPP: 0.435 v.s. 0.436 
+ DeepKLD: 0.552 v.s. 0.408
+ 
+A0035_01_08.bmp and A0035_03_23.bmp: 
+ MOS: 1.4e+03 v.s. 1.23e+03 
+ PieAPP: 2.02 v.s. 2.02 
+ DeepKLD: 0.79 v.s. 0.86
+ 
+A0035_01_14.bmp and A0035_03_02.bmp: 
+ MOS: 1.4e+03 v.s. 1.38e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.742 v.s. 0.749
+ 
+A0035_04_02.bmp and A0035_04_12.bmp: 
+ MOS: 1.64e+03 v.s. 1.59e+03 
+ PieAPP: 0.47 v.s. 0.469 
+ DeepKLD: 0.555 v.s. 0.569
+ 
+A0035_05_11.bmp and A0035_06_05.bmp: 
+ MOS: 1.47e+03 v.s. 1.56e+03 
+ PieAPP: 0.866 v.s. 0.866 
+ DeepKLD: 0.675 v.s. 0.639
+ 
+A0037_03_19.bmp and A0037_06_17.bmp: 
+ MOS: 1.53e+03 v.s. 1.64e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.71 v.s. 0.632
+ 
+A0038_01_12.bmp and A0038_02_04.bmp: 
+ MOS: 1.51e+03 v.s. 1.67e+03 
+ PieAPP: 0.151 v.s. 0.151 
+ DeepKLD: 0.366 v.s. 0.595
+ 
+A0039_00_08.bmp and A0039_03_18.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ PieAPP: 0.65 v.s. 0.65 
+ DeepKLD: 0.512 v.s. 0.765
+ 
+A0039_02_09.bmp and A0039_06_05.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ PieAPP: 0.926 v.s. 0.926 
+ DeepKLD: 0.743 v.s. 0.647
+ 
+A0039_03_13.bmp and A0039_04_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.62e+03 
+ PieAPP: 0.468 v.s. 0.468 
+ DeepKLD: 0.762 v.s. 0.555
+ 
+A0039_05_11.bmp and A0039_06_19.bmp: 
+ MOS: 1.45e+03 v.s. 1.38e+03 
+ PieAPP: 0.705 v.s. 0.704 
+ DeepKLD: 0.604 v.s. 0.643
+ 
+A0040_00_03.bmp and A0040_04_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.4e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.686 v.s. 0.758
+ 
+A0040_00_03.bmp and A0040_06_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.48e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.686 v.s. 0.58
+ 
+A0040_00_08.bmp and A0040_04_05.bmp: 
+ MOS: 1.71e+03 v.s. 1.53e+03 
+ PieAPP: 0.605 v.s. 0.605 
+ DeepKLD: 0.487 v.s. 0.541
+ 
+A0040_01_04.bmp and A0040_06_24.bmp: 
+ MOS: 1.56e+03 v.s. 1.47e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.684 v.s. 0.592
+ 
+A0040_03_00.bmp and A0040_05_05.bmp: 
+ MOS: 1.41e+03 v.s. 1.54e+03 
+ PieAPP: 1.17 v.s. 1.17 
+ DeepKLD: 0.755 v.s. 0.795
+ 
+A0040_03_15.bmp and A0040_06_19.bmp: 
+ MOS: 1.53e+03 v.s. 1.37e+03 
+ PieAPP: 0.96 v.s. 0.96 
+ DeepKLD: 0.713 v.s. 0.635
+ 
+A0040_03_18.bmp and A0040_04_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.42e+03 
+ PieAPP: 1.03 v.s. 1.03 
+ DeepKLD: 0.742 v.s. 0.691
+ 
+A0040_03_23.bmp and A0040_05_09.bmp: 
+ MOS: 1.14e+03 v.s. 1.4e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.896 v.s. 0.811
+ 
+A0040_04_10.bmp and A0040_06_09.bmp: 
+ MOS: 1.4e+03 v.s. 1.48e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.758 v.s. 0.58
+ 
+A0040_04_12.bmp and A0040_05_10.bmp: 
+ MOS: 1.58e+03 v.s. 1.5e+03 
+ PieAPP: 0.741 v.s. 0.741 
+ DeepKLD: 0.585 v.s. 0.752
+ 
+A0041_00_01.bmp and A0041_04_10.bmp: 
+ MOS: 1.42e+03 v.s. 1.4e+03 
+ PieAPP: 2.03 v.s. 2.03 
+ DeepKLD: 0.662 v.s. 0.725
+ 
+A0041_01_05.bmp and A0041_05_09.bmp: 
+ MOS: 1.39e+03 v.s. 1.41e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.655 v.s. 0.699
+ 
+A0041_01_08.bmp and A0041_06_04.bmp: 
+ MOS: 1.41e+03 v.s. 1.45e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.669 v.s. 0.642
+ 
+A0041_01_13.bmp and A0041_03_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.45e+03 
+ PieAPP: 0.763 v.s. 0.763 
+ DeepKLD: 0.559 v.s. 0.664
+ 
+A0041_01_13.bmp and A0041_05_13.bmp: 
+ MOS: 1.52e+03 v.s. 1.46e+03 
+ PieAPP: 0.763 v.s. 0.763 
+ DeepKLD: 0.559 v.s. 0.664
+ 
+A0041_05_05.bmp and A0041_06_11.bmp: 
+ MOS: 1.37e+03 v.s. 1.43e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.731 v.s. 0.574
+ 
+A0041_05_07.bmp and A0041_06_10.bmp: 
+ MOS: 1.32e+03 v.s. 1.5e+03 
+ PieAPP: 1.99 v.s. 1.99 
+ DeepKLD: 0.766 v.s. 0.665
+ 
+A0042_01_10.bmp and A0042_04_01.bmp: 
+ MOS: 1.52e+03 v.s. 1.51e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.705 v.s. 0.692
+ 
+A0042_04_11.bmp and A0042_05_05.bmp: 
+ MOS: 1.55e+03 v.s. 1.48e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.77 v.s. 0.824
+ 
+A0042_05_07.bmp and A0042_06_26.bmp: 
+ MOS: 1.39e+03 v.s. 1.35e+03 
+ PieAPP: 2.26 v.s. 2.26 
+ DeepKLD: 0.899 v.s. 0.8
+ 
+A0043_00_03.bmp and A0043_04_03.bmp: 
+ MOS: 1.55e+03 v.s. 1.48e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.557 v.s. 0.627
+ 
+A0043_01_11.bmp and A0043_03_03.bmp: 
+ MOS: 1.39e+03 v.s. 1.37e+03 
+ PieAPP: 1.64 v.s. 1.64 
+ DeepKLD: 0.628 v.s. 0.626
+ 
+A0043_01_11.bmp and A0043_03_04.bmp: 
+ MOS: 1.39e+03 v.s. 1.43e+03 
+ PieAPP: 1.64 v.s. 1.64 
+ DeepKLD: 0.628 v.s. 0.626
+ 
+A0043_01_11.bmp and A0043_03_05.bmp: 
+ MOS: 1.39e+03 v.s. 1.34e+03 
+ PieAPP: 1.64 v.s. 1.64 
+ DeepKLD: 0.628 v.s. 0.626
+ 
+A0043_03_01.bmp and A0043_06_17.bmp: 
+ MOS: 1.53e+03 v.s. 1.55e+03 
+ PieAPP: 0.591 v.s. 0.591 
+ DeepKLD: 0.65 v.s. 0.505
+ 
+A0043_03_01.bmp and A0043_06_21.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ PieAPP: 0.591 v.s. 0.591 
+ DeepKLD: 0.65 v.s. 0.485
+ 
+A0043_03_12.bmp and A0043_06_25.bmp: 
+ MOS: 1.48e+03 v.s. 1.63e+03 
+ PieAPP: 0.761 v.s. 0.762 
+ DeepKLD: 0.663 v.s. 0.535
+ 
+A0043_04_00.bmp and A0043_04_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.55e+03 
+ PieAPP: 0.678 v.s. 0.678 
+ DeepKLD: 0.521 v.s. 0.515
+ 
+A0043_06_17.bmp and A0043_06_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.56e+03 
+ PieAPP: 0.591 v.s. 0.591 
+ DeepKLD: 0.505 v.s. 0.485
+ 
+A0043_06_18.bmp and A0043_06_26.bmp: 
+ MOS: 1.5e+03 v.s. 1.63e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.579 v.s. 0.594
+ 
+A0044_01_11.bmp and A0044_04_02.bmp: 
+ MOS: 1.43e+03 v.s. 1.51e+03 
+ PieAPP: 0.696 v.s. 0.697 
+ DeepKLD: 0.553 v.s. 0.542
+ 
+A0044_02_06.bmp and A0044_03_12.bmp: 
+ MOS: 1.46e+03 v.s. 1.48e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.594 v.s. 0.574
+ 
+A0045_01_04.bmp and A0045_06_07.bmp: 
+ MOS: 1.45e+03 v.s. 1.47e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.661 v.s. 0.595
+ 
+A0045_01_07.bmp and A0045_05_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.49e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.658 v.s. 0.714
+ 
+A0045_03_09.bmp and A0045_05_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.49e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.684 v.s. 0.714
+ 
+A0045_03_13.bmp and A0045_06_17.bmp: 
+ MOS: 1.52e+03 v.s. 1.65e+03 
+ PieAPP: 0.955 v.s. 0.954 
+ DeepKLD: 0.665 v.s. 0.626
+ 
+A0045_05_04.bmp and A0045_06_22.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ PieAPP: 0.541 v.s. 0.54 
+ DeepKLD: 0.696 v.s. 0.467
+ 
+A0045_05_06.bmp and A0045_05_11.bmp: 
+ MOS: 1.29e+03 v.s. 1.46e+03 
+ PieAPP: 1.09 v.s. 1.09 
+ DeepKLD: 0.782 v.s. 0.641
+ 
+A0045_06_16.bmp and A0045_06_19.bmp: 
+ MOS: 1.49e+03 v.s. 1.67e+03 
+ PieAPP: 0.575 v.s. 0.574 
+ DeepKLD: 0.507 v.s. 0.592
+ 
+A0046_00_07.bmp and A0046_02_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.33e+03 
+ PieAPP: 2.01 v.s. 2.01 
+ DeepKLD: 0.672 v.s. 0.65
+ 
+A0046_01_01.bmp and A0046_03_15.bmp: 
+ MOS: 1.48e+03 v.s. 1.53e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.552 v.s. 0.613
+ 
+A0046_01_04.bmp and A0046_05_04.bmp: 
+ MOS: 1.48e+03 v.s. 1.43e+03 
+ PieAPP: 0.84 v.s. 0.839 
+ DeepKLD: 0.561 v.s. 0.684
+ 
+A0046_01_09.bmp and A0046_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.61e+03 
+ PieAPP: 0.23 v.s. 0.23 
+ DeepKLD: 0.33 v.s. 0.328
+ 
+A0047_00_03.bmp and A0047_06_18.bmp: 
+ MOS: 1.56e+03 v.s. 1.58e+03 
+ PieAPP: 1.25 v.s. 1.24 
+ DeepKLD: 0.524 v.s. 0.568
+ 
+A0047_01_10.bmp and A0047_04_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.58e+03 
+ PieAPP: 0.596 v.s. 0.596 
+ DeepKLD: 0.444 v.s. 0.51
+ 
+A0047_01_12.bmp and A0047_02_03.bmp: 
+ MOS: 1.45e+03 v.s. 1.62e+03 
+ PieAPP: 0.154 v.s. 0.155 
+ DeepKLD: 0.262 v.s. 0.323
+ 
+A0047_03_14.bmp and A0047_03_15.bmp: 
+ MOS: 1.54e+03 v.s. 1.48e+03 
+ PieAPP: 0.977 v.s. 0.976 
+ DeepKLD: 0.551 v.s. 0.569
+ 
+A0048_01_09.bmp and A0048_01_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ PieAPP: 0.0973 v.s. 0.098 
+ DeepKLD: 0.223 v.s. 0.218
+ 
+A0048_02_08.bmp and A0048_06_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.28e+03 
+ PieAPP: 0.635 v.s. 0.636 
+ DeepKLD: 0.53 v.s. 0.599
+ 
+A0048_03_02.bmp and A0048_04_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.43e+03 
+ PieAPP: 0.898 v.s. 0.898 
+ DeepKLD: 0.563 v.s. 0.595
+ 
+A0048_03_03.bmp and A0048_03_15.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.542 v.s. 0.542 
+ DeepKLD: 0.466 v.s. 0.522
+ 
+A0048_03_04.bmp and A0048_03_15.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.542 v.s. 0.542 
+ DeepKLD: 0.466 v.s. 0.522
+ 
+A0048_03_05.bmp and A0048_03_15.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.542 v.s. 0.542 
+ DeepKLD: 0.466 v.s. 0.522
+ 
+A0048_03_18.bmp and A0048_06_19.bmp: 
+ MOS: 1.54e+03 v.s. 1.41e+03 
+ PieAPP: 0.733 v.s. 0.732 
+ DeepKLD: 0.543 v.s. 0.629
+ 
+A0048_04_11.bmp and A0048_06_00.bmp: 
+ MOS: 1.42e+03 v.s. 1.38e+03 
+ PieAPP: 1.44 v.s. 1.44 
+ DeepKLD: 0.659 v.s. 0.581
+ 
+A0049_01_04.bmp and A0049_06_18.bmp: 
+ MOS: 1.5e+03 v.s. 1.55e+03 
+ PieAPP: 0.775 v.s. 0.774 
+ DeepKLD: 0.56 v.s. 0.591
+ 
+A0049_01_11.bmp and A0049_04_01.bmp: 
+ MOS: 1.44e+03 v.s. 1.42e+03 
+ PieAPP: 0.715 v.s. 0.715 
+ DeepKLD: 0.571 v.s. 0.628
+ 
+A0049_02_06.bmp and A0049_03_23.bmp: 
+ MOS: 1.35e+03 v.s. 1.38e+03 
+ PieAPP: 0.994 v.s. 0.994 
+ DeepKLD: 0.593 v.s. 0.765
+ 
+A0049_03_01.bmp and A0049_05_04.bmp: 
+ MOS: 1.61e+03 v.s. 1.45e+03 
+ PieAPP: 0.485 v.s. 0.484 
+ DeepKLD: 0.596 v.s. 0.644
+ 
+A0049_03_10.bmp and A0049_06_21.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ PieAPP: 0.62 v.s. 0.621 
+ DeepKLD: 0.552 v.s. 0.574
+ 
+A0049_03_13.bmp and A0049_03_19.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ PieAPP: 0.625 v.s. 0.625 
+ DeepKLD: 0.613 v.s. 0.584
+ 
+A0049_03_13.bmp and A0049_05_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ PieAPP: 0.625 v.s. 0.625 
+ DeepKLD: 0.613 v.s. 0.525
+ 
+A0049_03_19.bmp and A0049_05_11.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ PieAPP: 0.625 v.s. 0.625 
+ DeepKLD: 0.584 v.s. 0.525
+ 
+A0049_04_12.bmp and A0049_06_22.bmp: 
+ MOS: 1.52e+03 v.s. 1.44e+03 
+ PieAPP: 0.424 v.s. 0.424 
+ DeepKLD: 0.525 v.s. 0.509
+ 
+A0051_00_02.bmp and A0051_04_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ PieAPP: 0.873 v.s. 0.873 
+ DeepKLD: 0.595 v.s. 0.649
+ 
+A0051_00_02.bmp and A0051_05_05.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ PieAPP: 0.873 v.s. 0.872 
+ DeepKLD: 0.595 v.s. 0.784
+ 
+A0051_01_06.bmp and A0051_02_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.57 v.s. 0.571 
+ DeepKLD: 0.562 v.s. 0.549
+ 
+A0051_02_00.bmp and A0051_02_09.bmp: 
+ MOS: 1.47e+03 v.s. 1.42e+03 
+ PieAPP: 1.91 v.s. 1.9 
+ DeepKLD: 0.634 v.s. 0.804
+ 
+A0051_02_01.bmp and A0051_02_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.42e+03 
+ PieAPP: 1.91 v.s. 1.9 
+ DeepKLD: 0.634 v.s. 0.804
+ 
+A0051_03_13.bmp and A0051_05_10.bmp: 
+ MOS: 1.6e+03 v.s. 1.55e+03 
+ PieAPP: 0.884 v.s. 0.884 
+ DeepKLD: 0.772 v.s. 0.753
+ 
+A0051_03_18.bmp and A0051_04_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.57e+03 
+ PieAPP: 1.01 v.s. 1 
+ DeepKLD: 0.78 v.s. 0.707
+ 
+A0051_04_00.bmp and A0051_04_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.69e+03 
+ PieAPP: 0.397 v.s. 0.396 
+ DeepKLD: 0.53 v.s. 0.52
+ 
+A0051_04_03.bmp and A0051_05_05.bmp: 
+ MOS: 1.54e+03 v.s. 1.56e+03 
+ PieAPP: 0.873 v.s. 0.872 
+ DeepKLD: 0.649 v.s. 0.784
+ 
+A0052_01_01.bmp and A0052_04_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.54e+03 
+ PieAPP: 0.854 v.s. 0.854 
+ DeepKLD: 0.485 v.s. 0.529
+ 
+A0052_02_00.bmp and A0052_06_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.47e+03 
+ PieAPP: 0.965 v.s. 0.965 
+ DeepKLD: 0.428 v.s. 0.547
+ 
+A0052_02_01.bmp and A0052_06_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.965 v.s. 0.965 
+ DeepKLD: 0.428 v.s. 0.547
+ 
+A0052_02_07.bmp and A0052_06_11.bmp: 
+ MOS: 1.4e+03 v.s. 1.43e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.589 v.s. 0.489
+ 
+A0052_04_01.bmp and A0052_05_06.bmp: 
+ MOS: 1.45e+03 v.s. 1.43e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.634 v.s. 0.692
+ 
+A0052_05_00.bmp and A0052_05_09.bmp: 
+ MOS: 1.32e+03 v.s. 1.37e+03 
+ PieAPP: 1.51 v.s. 1.51 
+ DeepKLD: 0.646 v.s. 0.658
+ 
+A0052_05_04.bmp and A0052_06_05.bmp: 
+ MOS: 1.57e+03 v.s. 1.45e+03 
+ PieAPP: 0.943 v.s. 0.942 
+ DeepKLD: 0.628 v.s. 0.525
+ 
+A0053_00_06.bmp and A0053_06_20.bmp: 
+ MOS: 1.57e+03 v.s. 1.35e+03 
+ PieAPP: 0.641 v.s. 0.64 
+ DeepKLD: 0.466 v.s. 0.528
+ 
+A0053_00_10.bmp and A0053_05_07.bmp: 
+ MOS: 1.49e+03 v.s. 1.14e+03 
+ PieAPP: 1.86 v.s. 1.86 
+ DeepKLD: 0.59 v.s. 0.727
+ 
+A0053_01_06.bmp and A0053_06_23.bmp: 
+ MOS: 1.53e+03 v.s. 1.52e+03 
+ PieAPP: 0.147 v.s. 0.146 
+ DeepKLD: 0.273 v.s. 0.202
+ 
+A0053_01_07.bmp and A0053_06_20.bmp: 
+ MOS: 1.5e+03 v.s. 1.35e+03 
+ PieAPP: 0.639 v.s. 0.64 
+ DeepKLD: 0.424 v.s. 0.528
+ 
+A0053_01_10.bmp and A0053_03_15.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ PieAPP: 0.383 v.s. 0.384 
+ DeepKLD: 0.377 v.s. 0.506
+ 
+A0053_01_14.bmp and A0053_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.56e+03 
+ PieAPP: 0.553 v.s. 0.553 
+ DeepKLD: 0.472 v.s. 0.453
+ 
+A0053_03_10.bmp and A0053_03_16.bmp: 
+ MOS: 1.46e+03 v.s. 1.43e+03 
+ PieAPP: 0.645 v.s. 0.644 
+ DeepKLD: 0.484 v.s. 0.502
+ 
+A0053_06_02.bmp and A0053_06_08.bmp: 
+ MOS: 1.43e+03 v.s. 1.47e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.526 v.s. 0.579
+ 
+A0054_02_08.bmp and A0054_06_05.bmp: 
+ MOS: 1.39e+03 v.s. 1.5e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.664 v.s. 0.575
+ 
+A0054_02_09.bmp and A0054_04_01.bmp: 
+ MOS: 1.44e+03 v.s. 1.6e+03 
+ PieAPP: 0.938 v.s. 0.937 
+ DeepKLD: 0.689 v.s. 0.63
+ 
+A0054_03_01.bmp and A0054_03_19.bmp: 
+ MOS: 1.41e+03 v.s. 1.47e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.677 v.s. 0.675
+ 
+A0055_00_08.bmp and A0055_03_13.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ PieAPP: 0.876 v.s. 0.876 
+ DeepKLD: 0.587 v.s. 0.733
+ 
+A0055_00_11.bmp and A0055_04_05.bmp: 
+ MOS: 1.52e+03 v.s. 1.66e+03 
+ PieAPP: 0.758 v.s. 0.758 
+ DeepKLD: 0.564 v.s. 0.558
+ 
+A0055_02_00.bmp and A0055_03_10.bmp: 
+ MOS: 1.53e+03 v.s. 1.4e+03 
+ PieAPP: 1.42 v.s. 1.42 
+ DeepKLD: 0.626 v.s. 0.713
+ 
+A0055_02_01.bmp and A0055_03_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.4e+03 
+ PieAPP: 1.42 v.s. 1.42 
+ DeepKLD: 0.626 v.s. 0.713
+ 
+A0055_03_06.bmp and A0055_06_05.bmp: 
+ MOS: 1.42e+03 v.s. 1.68e+03 
+ PieAPP: 0.801 v.s. 0.802 
+ DeepKLD: 0.732 v.s. 0.59
+ 
+A0055_05_09.bmp and A0055_06_09.bmp: 
+ MOS: 1.42e+03 v.s. 1.59e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.775 v.s. 0.587
+ 
+A0055_05_13.bmp and A0055_06_05.bmp: 
+ MOS: 1.33e+03 v.s. 1.68e+03 
+ PieAPP: 0.801 v.s. 0.802 
+ DeepKLD: 0.732 v.s. 0.59
+ 
+A0056_00_00.bmp and A0056_06_25.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.512 v.s. 0.546
+ 
+A0056_03_00.bmp and A0056_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.49e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.614 v.s. 0.586
+ 
+A0056_04_12.bmp and A0056_05_11.bmp: 
+ MOS: 1.5e+03 v.s. 1.47e+03 
+ PieAPP: 0.552 v.s. 0.552 
+ DeepKLD: 0.509 v.s. 0.486
+ 
+A0057_00_01.bmp and A0057_00_10.bmp: 
+ MOS: 1.29e+03 v.s. 1.39e+03 
+ PieAPP: 2.4 v.s. 2.4 
+ DeepKLD: 0.718 v.s. 0.756
+ 
+A0057_00_08.bmp and A0057_06_22.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ PieAPP: 0.573 v.s. 0.574 
+ DeepKLD: 0.5 v.s. 0.439
+ 
+A0057_00_11.bmp and A0057_05_04.bmp: 
+ MOS: 1.45e+03 v.s. 1.59e+03 
+ PieAPP: 0.529 v.s. 0.528 
+ DeepKLD: 0.477 v.s. 0.653
+ 
+A0057_01_10.bmp and A0057_01_13.bmp: 
+ MOS: 1.54e+03 v.s. 1.43e+03 
+ PieAPP: 0.642 v.s. 0.642 
+ DeepKLD: 0.556 v.s. 0.552
+ 
+A0057_01_10.bmp and A0057_03_15.bmp: 
+ MOS: 1.54e+03 v.s. 1.6e+03 
+ PieAPP: 0.642 v.s. 0.643 
+ DeepKLD: 0.556 v.s. 0.669
+ 
+A0057_01_13.bmp and A0057_03_15.bmp: 
+ MOS: 1.43e+03 v.s. 1.6e+03 
+ PieAPP: 0.642 v.s. 0.643 
+ DeepKLD: 0.552 v.s. 0.669
+ 
+A0057_03_02.bmp and A0057_03_03.bmp: 
+ MOS: 1.42e+03 v.s. 1.4e+03 
+ PieAPP: 1.13 v.s. 1.14 
+ DeepKLD: 0.697 v.s. 0.658
+ 
+A0057_03_02.bmp and A0057_03_04.bmp: 
+ MOS: 1.42e+03 v.s. 1.39e+03 
+ PieAPP: 1.13 v.s. 1.14 
+ DeepKLD: 0.697 v.s. 0.658
+ 
+A0057_03_02.bmp and A0057_03_05.bmp: 
+ MOS: 1.42e+03 v.s. 1.44e+03 
+ PieAPP: 1.13 v.s. 1.14 
+ DeepKLD: 0.697 v.s. 0.658
+ 
+A0058_00_03.bmp and A0058_01_14.bmp: 
+ MOS: 1.45e+03 v.s. 1.45e+03 
+ PieAPP: 1.65 v.s. 1.65 
+ DeepKLD: 0.656 v.s. 0.669
+ 
+A0058_00_05.bmp and A0058_01_00.bmp: 
+ MOS: 1.61e+03 v.s. 1.66e+03 
+ PieAPP: 0.486 v.s. 0.485 
+ DeepKLD: 0.503 v.s. 0.47
+ 
+A0058_02_06.bmp and A0058_06_00.bmp: 
+ MOS: 1.43e+03 v.s. 1.2e+03 
+ PieAPP: 1.96 v.s. 1.96 
+ DeepKLD: 0.689 v.s. 0.615
+ 
+A0058_02_07.bmp and A0058_06_04.bmp: 
+ MOS: 1.47e+03 v.s. 1.51e+03 
+ PieAPP: 1.69 v.s. 1.69 
+ DeepKLD: 0.684 v.s. 0.668
+ 
+A0058_04_00.bmp and A0058_04_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.61e+03 
+ PieAPP: 0.596 v.s. 0.597 
+ DeepKLD: 0.497 v.s. 0.51
+ 
+A0058_04_00.bmp and A0058_06_16.bmp: 
+ MOS: 1.55e+03 v.s. 1.52e+03 
+ PieAPP: 0.596 v.s. 0.596 
+ DeepKLD: 0.497 v.s. 0.436
+ 
+A0059_01_15.bmp and A0059_06_02.bmp: 
+ MOS: 1.32e+03 v.s. 1.44e+03 
+ PieAPP: 2.9 v.s. 2.9 
+ DeepKLD: 0.803 v.s. 0.73
+ 
+A0059_04_08.bmp and A0059_06_23.bmp: 
+ MOS: 1.62e+03 v.s. 1.64e+03 
+ PieAPP: 0.588 v.s. 0.588 
+ DeepKLD: 0.542 v.s. 0.397
+ 
+A0060_00_08.bmp and A0060_06_22.bmp: 
+ MOS: 1.46e+03 v.s. 1.56e+03 
+ PieAPP: 0.914 v.s. 0.913 
+ DeepKLD: 0.637 v.s. 0.563
+ 
+A0060_03_07.bmp and A0060_06_09.bmp: 
+ MOS: 1.42e+03 v.s. 1.7e+03 
+ PieAPP: 2.03 v.s. 2.04 
+ DeepKLD: 0.779 v.s. 0.607
+ 
+A0060_03_12.bmp and A0060_03_19.bmp: 
+ MOS: 1.44e+03 v.s. 1.37e+03 
+ PieAPP: 1.92 v.s. 1.92 
+ DeepKLD: 0.764 v.s. 0.754
+ 
+A0063_01_11.bmp and A0063_06_09.bmp: 
+ MOS: 1.48e+03 v.s. 1.44e+03 
+ PieAPP: 1.25 v.s. 1.25 
+ DeepKLD: 0.646 v.s. 0.573
+ 
+A0063_02_08.bmp and A0063_03_02.bmp: 
+ MOS: 1.59e+03 v.s. 1.35e+03 
+ PieAPP: 1.13 v.s. 1.14 
+ DeepKLD: 0.657 v.s. 0.659
+ 
+A0063_03_01.bmp and A0063_06_20.bmp: 
+ MOS: 1.64e+03 v.s. 1.35e+03 
+ PieAPP: 0.853 v.s. 0.853 
+ DeepKLD: 0.645 v.s. 0.62
+ 
+A0063_03_07.bmp and A0063_06_18.bmp: 
+ MOS: 1.41e+03 v.s. 1.48e+03 
+ PieAPP: 1.16 v.s. 1.17 
+ DeepKLD: 0.642 v.s. 0.659
+ 
+A0063_03_19.bmp and A0063_05_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.33e+03 
+ PieAPP: 0.839 v.s. 0.838 
+ DeepKLD: 0.639 v.s. 0.594
+ 
+A0063_04_09.bmp and A0063_05_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.42e+03 
+ PieAPP: 1.44 v.s. 1.44 
+ DeepKLD: 0.68 v.s. 0.701
+ 
+A0064_03_00.bmp and A0064_03_07.bmp: 
+ MOS: 1.5e+03 v.s. 1.44e+03 
+ PieAPP: 0.934 v.s. 0.933 
+ DeepKLD: 0.575 v.s. 0.581
+ 
+A0064_03_17.bmp and A0064_03_19.bmp: 
+ MOS: 1.55e+03 v.s. 1.45e+03 
+ PieAPP: 0.607 v.s. 0.607 
+ DeepKLD: 0.571 v.s. 0.555
+ 
+A0064_03_23.bmp and A0064_05_05.bmp: 
+ MOS: 1.25e+03 v.s. 1.33e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.721 v.s. 0.752
+ 
+A0065_02_00.bmp and A0065_03_14.bmp: 
+ MOS: 1.48e+03 v.s. 1.4e+03 
+ PieAPP: 1.47 v.s. 1.47 
+ DeepKLD: 0.572 v.s. 0.733
+ 
+A0065_02_01.bmp and A0065_03_14.bmp: 
+ MOS: 1.51e+03 v.s. 1.4e+03 
+ PieAPP: 1.47 v.s. 1.47 
+ DeepKLD: 0.572 v.s. 0.733
+ 
+A0065_03_00.bmp and A0065_06_25.bmp: 
+ MOS: 1.42e+03 v.s. 1.5e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.774 v.s. 0.577
+ 
+A0065_04_02.bmp and A0065_04_12.bmp: 
+ MOS: 1.61e+03 v.s. 1.59e+03 
+ PieAPP: 0.462 v.s. 0.462 
+ DeepKLD: 0.458 v.s. 0.473
+ 
+A0066_00_06.bmp and A0066_03_22.bmp: 
+ MOS: 1.44e+03 v.s. 1.5e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.686 v.s. 0.767
+ 
+A0066_01_03.bmp and A0066_02_02.bmp: 
+ MOS: 1.5e+03 v.s. 1.58e+03 
+ PieAPP: 0.31 v.s. 0.31 
+ DeepKLD: 0.501 v.s. 0.487
+ 
+A0066_03_19.bmp and A0066_06_05.bmp: 
+ MOS: 1.45e+03 v.s. 1.55e+03 
+ PieAPP: 0.853 v.s. 0.854 
+ DeepKLD: 0.679 v.s. 0.6
+ 
+A0066_05_00.bmp and A0066_06_03.bmp: 
+ MOS: 1.46e+03 v.s. 1.4e+03 
+ PieAPP: 1.76 v.s. 1.76 
+ DeepKLD: 0.735 v.s. 0.667
+ 
+A0067_03_09.bmp and A0067_06_21.bmp: 
+ MOS: 1.54e+03 v.s. 1.34e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.794 v.s. 0.68
+ 
+A0067_03_15.bmp and A0067_05_07.bmp: 
+ MOS: 1.47e+03 v.s. 1.25e+03 
+ PieAPP: 0.794 v.s. 0.793 
+ DeepKLD: 0.709 v.s. 0.87
+ 
+A0067_03_23.bmp and A0067_06_13.bmp: 
+ MOS: 1.16e+03 v.s. 1.33e+03 
+ PieAPP: 3.28 v.s. 3.28 
+ DeepKLD: 0.867 v.s. 0.833
+ 
+A0067_04_01.bmp and A0067_06_08.bmp: 
+ MOS: 1.48e+03 v.s. 1.61e+03 
+ PieAPP: 0.59 v.s. 0.591 
+ DeepKLD: 0.657 v.s. 0.476
+ 
+A0069_00_08.bmp and A0069_03_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ PieAPP: 0.777 v.s. 0.776 
+ DeepKLD: 0.606 v.s. 0.668
+ 
+A0069_00_08.bmp and A0069_03_04.bmp: 
+ MOS: 1.51e+03 v.s. 1.48e+03 
+ PieAPP: 0.777 v.s. 0.776 
+ DeepKLD: 0.606 v.s. 0.668
+ 
+A0069_00_08.bmp and A0069_03_05.bmp: 
+ MOS: 1.51e+03 v.s. 1.45e+03 
+ PieAPP: 0.777 v.s. 0.776 
+ DeepKLD: 0.606 v.s. 0.668
+ 
+A0069_03_09.bmp and A0069_06_05.bmp: 
+ MOS: 1.39e+03 v.s. 1.61e+03 
+ PieAPP: 0.659 v.s. 0.658 
+ DeepKLD: 0.766 v.s. 0.65
+ 
+A0069_05_05.bmp and A0069_06_20.bmp: 
+ MOS: 1.35e+03 v.s. 1.35e+03 
+ PieAPP: 0.988 v.s. 0.989 
+ DeepKLD: 0.813 v.s. 0.652
+ 
+A0070_03_00.bmp and A0070_03_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.41e+03 
+ PieAPP: 1.25 v.s. 1.25 
+ DeepKLD: 0.73 v.s. 0.704
+ 
+A0070_03_15.bmp and A0070_06_06.bmp: 
+ MOS: 1.5e+03 v.s. 1.54e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.678 v.s. 0.651
+ 
+A0070_03_23.bmp and A0070_05_12.bmp: 
+ MOS: 1.29e+03 v.s. 1.47e+03 
+ PieAPP: 1.08 v.s. 1.08 
+ DeepKLD: 0.837 v.s. 0.599
+ 
+A0072_00_09.bmp and A0072_04_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.43e+03 
+ PieAPP: 0.732 v.s. 0.732 
+ DeepKLD: 0.463 v.s. 0.619
+ 
+A0072_01_03.bmp and A0072_01_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.5e+03 
+ PieAPP: 0.162 v.s. 0.162 
+ DeepKLD: 0.301 v.s. 0.288
+ 
+A0072_01_03.bmp and A0072_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.53e+03 
+ PieAPP: 0.162 v.s. 0.161 
+ DeepKLD: 0.301 v.s. 0.288
+ 
+A0072_01_06.bmp and A0072_01_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.53e+03 
+ PieAPP: 0.16 v.s. 0.161 
+ DeepKLD: 0.306 v.s. 0.288
+ 
+A0072_03_03.bmp and A0072_03_18.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 0.492 v.s. 0.492 
+ DeepKLD: 0.485 v.s. 0.519
+ 
+A0072_03_04.bmp and A0072_03_18.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 0.492 v.s. 0.492 
+ DeepKLD: 0.485 v.s. 0.519
+ 
+A0072_03_05.bmp and A0072_03_18.bmp: 
+ MOS: 1.33e+03 v.s. 1.52e+03 
+ PieAPP: 0.492 v.s. 0.492 
+ DeepKLD: 0.485 v.s. 0.519
+ 
+A0072_03_11.bmp and A0072_03_23.bmp: 
+ MOS: 1.39e+03 v.s. 1.26e+03 
+ PieAPP: 0.509 v.s. 0.509 
+ DeepKLD: 0.503 v.s. 0.808
+ 
+A0072_03_21.bmp and A0072_04_00.bmp: 
+ MOS: 1.41e+03 v.s. 1.51e+03 
+ PieAPP: 0.53 v.s. 0.53 
+ DeepKLD: 0.787 v.s. 0.518
+ 
+A0072_04_10.bmp and A0072_06_09.bmp: 
+ MOS: 1.39e+03 v.s. 1.49e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.702 v.s. 0.591
+ 
+A0073_00_03.bmp and A0073_06_11.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 1.68 v.s. 1.68 
+ DeepKLD: 0.7 v.s. 0.639
+ 
+A0073_00_05.bmp and A0073_01_00.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ PieAPP: 0.52 v.s. 0.521 
+ DeepKLD: 0.541 v.s. 0.524
+ 
+A0073_03_02.bmp and A0073_04_09.bmp: 
+ MOS: 1.42e+03 v.s. 1.51e+03 
+ PieAPP: 1.14 v.s. 1.14 
+ DeepKLD: 0.719 v.s. 0.671
+ 
+A0073_03_17.bmp and A0073_05_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.48e+03 
+ PieAPP: 0.762 v.s. 0.762 
+ DeepKLD: 0.736 v.s. 0.71
+ 
+A0073_04_01.bmp and A0073_06_24.bmp: 
+ MOS: 1.59e+03 v.s. 1.6e+03 
+ PieAPP: 0.834 v.s. 0.835 
+ DeepKLD: 0.663 v.s. 0.525
+ 
+A0073_04_03.bmp and A0073_06_05.bmp: 
+ MOS: 1.59e+03 v.s. 1.57e+03 
+ PieAPP: 0.783 v.s. 0.783 
+ DeepKLD: 0.653 v.s. 0.591
+ 
+A0075_03_12.bmp and A0075_04_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.52e+03 
+ PieAPP: 0.589 v.s. 0.589 
+ DeepKLD: 0.604 v.s. 0.577
+ 
+A0077_03_06.bmp and A0077_03_19.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 0.943 v.s. 0.944 
+ DeepKLD: 0.736 v.s. 0.731
+ 
+A0077_03_13.bmp and A0077_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.54e+03 
+ PieAPP: 0.773 v.s. 0.773 
+ DeepKLD: 0.735 v.s. 0.579
+ 
+A0077_03_19.bmp and A0077_05_13.bmp: 
+ MOS: 1.51e+03 v.s. 1.33e+03 
+ PieAPP: 0.944 v.s. 0.943 
+ DeepKLD: 0.731 v.s. 0.736
+ 
+A0078_00_02.bmp and A0078_03_19.bmp: 
+ MOS: 1.47e+03 v.s. 1.44e+03 
+ PieAPP: 0.768 v.s. 0.767 
+ DeepKLD: 0.653 v.s. 0.722
+ 
+A0078_00_03.bmp and A0078_01_14.bmp: 
+ MOS: 1.49e+03 v.s. 1.45e+03 
+ PieAPP: 1.53 v.s. 1.53 
+ DeepKLD: 0.733 v.s. 0.726
+ 
+A0078_00_09.bmp and A0078_06_10.bmp: 
+ MOS: 1.47e+03 v.s. 1.59e+03 
+ PieAPP: 1.84 v.s. 1.84 
+ DeepKLD: 0.746 v.s. 0.653
+ 
+A0078_03_06.bmp and A0078_06_07.bmp: 
+ MOS: 1.45e+03 v.s. 1.57e+03 
+ PieAPP: 0.75 v.s. 0.749 
+ DeepKLD: 0.718 v.s. 0.499
+ 
+A0078_03_09.bmp and A0078_06_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.65e+03 
+ PieAPP: 0.748 v.s. 0.748 
+ DeepKLD: 0.726 v.s. 0.595
+ 
+A0078_03_09.bmp and A0078_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.57e+03 
+ PieAPP: 0.748 v.s. 0.749 
+ DeepKLD: 0.726 v.s. 0.499
+ 
+A0078_05_13.bmp and A0078_06_07.bmp: 
+ MOS: 1.27e+03 v.s. 1.57e+03 
+ PieAPP: 0.75 v.s. 0.749 
+ DeepKLD: 0.718 v.s. 0.499
+ 
+A0079_00_09.bmp and A0079_02_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.39e+03 
+ PieAPP: 2.25 v.s. 2.25 
+ DeepKLD: 0.699 v.s. 0.733
+ 
+A0079_04_11.bmp and A0079_05_06.bmp: 
+ MOS: 1.5e+03 v.s. 1.31e+03 
+ PieAPP: 1.3 v.s. 1.3 
+ DeepKLD: 0.699 v.s. 0.793
+ 
+A0079_05_10.bmp and A0079_06_05.bmp: 
+ MOS: 1.5e+03 v.s. 1.61e+03 
+ PieAPP: 1.19 v.s. 1.19 
+ DeepKLD: 0.724 v.s. 0.622
+ 
+A0079_06_21.bmp and A0079_06_25.bmp: 
+ MOS: 1.4e+03 v.s. 1.49e+03 
+ PieAPP: 1.17 v.s. 1.17 
+ DeepKLD: 0.594 v.s. 0.641
+ 
+A0080_00_02.bmp and A0080_03_06.bmp: 
+ MOS: 1.53e+03 v.s. 1.59e+03 
+ PieAPP: 0.714 v.s. 0.714 
+ DeepKLD: 0.576 v.s. 0.741
+ 
+A0080_00_02.bmp and A0080_05_13.bmp: 
+ MOS: 1.53e+03 v.s. 1.37e+03 
+ PieAPP: 0.714 v.s. 0.714 
+ DeepKLD: 0.576 v.s. 0.741
+ 
+A0080_00_08.bmp and A0080_06_19.bmp: 
+ MOS: 1.52e+03 v.s. 1.42e+03 
+ PieAPP: 0.924 v.s. 0.925 
+ DeepKLD: 0.609 v.s. 0.662
+ 
+A0080_01_00.bmp and A0080_04_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.53e+03 
+ PieAPP: 0.626 v.s. 0.626 
+ DeepKLD: 0.56 v.s. 0.549
+ 
+A0080_03_17.bmp and A0080_05_05.bmp: 
+ MOS: 1.59e+03 v.s. 1.43e+03 
+ PieAPP: 0.962 v.s. 0.962 
+ DeepKLD: 0.774 v.s. 0.789
+ 
+A0081_00_05.bmp and A0081_01_03.bmp: 
+ MOS: 1.61e+03 v.s. 1.61e+03 
+ PieAPP: 0.548 v.s. 0.548 
+ DeepKLD: 0.606 v.s. 0.578
+ 
+A0081_01_04.bmp and A0081_03_05.bmp: 
+ MOS: 1.35e+03 v.s. 1.48e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.735 v.s. 0.742
+ 
+A0081_03_10.bmp and A0081_04_05.bmp: 
+ MOS: 1.54e+03 v.s. 1.6e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.723 v.s. 0.629
+ 
+A0081_03_16.bmp and A0081_06_21.bmp: 
+ MOS: 1.44e+03 v.s. 1.2e+03 
+ PieAPP: 1.17 v.s. 1.18 
+ DeepKLD: 0.755 v.s. 0.647
+ 
+A0082_00_06.bmp and A0082_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.62e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.715 v.s. 0.53
+ 
+A0082_01_09.bmp and A0082_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ PieAPP: 0.331 v.s. 0.331 
+ DeepKLD: 0.511 v.s. 0.506
+ 
+A0082_01_10.bmp and A0082_06_19.bmp: 
+ MOS: 1.48e+03 v.s. 1.56e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.664 v.s. 0.629
+ 
+A0082_02_02.bmp and A0082_04_12.bmp: 
+ MOS: 1.66e+03 v.s. 1.58e+03 
+ PieAPP: 0.436 v.s. 0.436 
+ DeepKLD: 0.526 v.s. 0.555
+ 
+A0082_03_14.bmp and A0082_06_21.bmp: 
+ MOS: 1.4e+03 v.s. 1.64e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.714 v.s. 0.623
+ 
+A0082_04_04.bmp and A0082_06_01.bmp: 
+ MOS: 1.4e+03 v.s. 1.16e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.735 v.s. 0.657
+ 
+A0082_06_06.bmp and A0082_06_25.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ PieAPP: 1.61 v.s. 1.61 
+ DeepKLD: 0.624 v.s. 0.668
+ 
+A0083_00_07.bmp and A0083_06_25.bmp: 
+ MOS: 1.41e+03 v.s. 1.57e+03 
+ PieAPP: 1.86 v.s. 1.86 
+ DeepKLD: 0.73 v.s. 0.624
+ 
+A0083_01_08.bmp and A0083_04_10.bmp: 
+ MOS: 1.33e+03 v.s. 1.23e+03 
+ PieAPP: 1.65 v.s. 1.65 
+ DeepKLD: 0.707 v.s. 0.751
+ 
+A0083_02_07.bmp and A0083_06_08.bmp: 
+ MOS: 1.37e+03 v.s. 1.63e+03 
+ PieAPP: 1.2 v.s. 1.2 
+ DeepKLD: 0.673 v.s. 0.533
+ 
+A0083_03_02.bmp and A0083_03_21.bmp: 
+ MOS: 1.48e+03 v.s. 1.24e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.666 v.s. 0.8
+ 
+A0083_03_18.bmp and A0083_06_22.bmp: 
+ MOS: 1.53e+03 v.s. 1.67e+03 
+ PieAPP: 0.623 v.s. 0.624 
+ DeepKLD: 0.66 v.s. 0.491
+ 
+A0084_03_06.bmp and A0084_04_03.bmp: 
+ MOS: 1.6e+03 v.s. 1.49e+03 
+ PieAPP: 1.03 v.s. 1.04 
+ DeepKLD: 0.72 v.s. 0.657
+ 
+A0084_04_03.bmp and A0084_05_13.bmp: 
+ MOS: 1.49e+03 v.s. 1.35e+03 
+ PieAPP: 1.04 v.s. 1.03 
+ DeepKLD: 0.657 v.s. 0.72
+ 
+A0084_05_09.bmp and A0084_06_24.bmp: 
+ MOS: 1.3e+03 v.s. 1.58e+03 
+ PieAPP: 1.92 v.s. 1.92 
+ DeepKLD: 0.811 v.s. 0.579
+ 
+A0085_00_03.bmp and A0085_03_08.bmp: 
+ MOS: 1.48e+03 v.s. 1.46e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.616 v.s. 0.656
+ 
+A0085_01_06.bmp and A0085_02_02.bmp: 
+ MOS: 1.63e+03 v.s. 1.53e+03 
+ PieAPP: 0.352 v.s. 0.351 
+ DeepKLD: 0.444 v.s. 0.452
+ 
+A0085_01_09.bmp and A0085_01_12.bmp: 
+ MOS: 1.63e+03 v.s. 1.66e+03 
+ PieAPP: 0.237 v.s. 0.238 
+ DeepKLD: 0.412 v.s. 0.409
+ 
+A0085_01_14.bmp and A0085_02_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.52e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.658 v.s. 0.702
+ 
+A0085_03_23.bmp and A0085_06_01.bmp: 
+ MOS: 1.04e+03 v.s. 1.44e+03 
+ PieAPP: 1.54 v.s. 1.54 
+ DeepKLD: 0.818 v.s. 0.575
+ 
+A0085_04_05.bmp and A0085_05_10.bmp: 
+ MOS: 1.55e+03 v.s. 1.48e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.617 v.s. 0.69
+ 
+A0085_05_04.bmp and A0085_06_24.bmp: 
+ MOS: 1.55e+03 v.s. 1.59e+03 
+ PieAPP: 0.928 v.s. 0.928 
+ DeepKLD: 0.681 v.s. 0.53
+ 
+A0086_00_02.bmp and A0086_01_13.bmp: 
+ MOS: 1.55e+03 v.s. 1.56e+03 
+ PieAPP: 0.459 v.s. 0.458 
+ DeepKLD: 0.5 v.s. 0.544
+ 
+A0086_00_06.bmp and A0086_04_04.bmp: 
+ MOS: 1.5e+03 v.s. 1.4e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.685 v.s. 0.765
+ 
+A0086_00_06.bmp and A0086_06_07.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.685 v.s. 0.559
+ 
+A0086_01_07.bmp and A0086_04_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.45e+03 
+ PieAPP: 0.699 v.s. 0.699 
+ DeepKLD: 0.614 v.s. 0.527
+ 
+A0086_01_11.bmp and A0086_06_19.bmp: 
+ MOS: 1.45e+03 v.s. 1.42e+03 
+ PieAPP: 0.789 v.s. 0.789 
+ DeepKLD: 0.639 v.s. 0.627
+ 
+A0086_03_19.bmp and A0086_06_23.bmp: 
+ MOS: 1.51e+03 v.s. 1.6e+03 
+ PieAPP: 0.627 v.s. 0.627 
+ DeepKLD: 0.684 v.s. 0.389
+ 
+A0086_04_04.bmp and A0086_06_07.bmp: 
+ MOS: 1.4e+03 v.s. 1.53e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.765 v.s. 0.559
+ 
+A0087_00_05.bmp and A0087_06_19.bmp: 
+ MOS: 1.69e+03 v.s. 1.53e+03 
+ PieAPP: 0.387 v.s. 0.388 
+ DeepKLD: 0.521 v.s. 0.512
+ 
+A0087_01_03.bmp and A0087_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ PieAPP: 0.414 v.s. 0.414 
+ DeepKLD: 0.496 v.s. 0.473
+ 
+A0087_03_06.bmp and A0087_06_24.bmp: 
+ MOS: 1.6e+03 v.s. 1.57e+03 
+ PieAPP: 0.795 v.s. 0.794 
+ DeepKLD: 0.718 v.s. 0.582
+ 
+A0087_05_13.bmp and A0087_06_24.bmp: 
+ MOS: 1.42e+03 v.s. 1.57e+03 
+ PieAPP: 0.795 v.s. 0.794 
+ DeepKLD: 0.718 v.s. 0.582
+ 
+A0087_06_16.bmp and A0087_06_19.bmp: 
+ MOS: 1.58e+03 v.s. 1.53e+03 
+ PieAPP: 0.389 v.s. 0.388 
+ DeepKLD: 0.499 v.s. 0.512
+ 
+A0088_00_05.bmp and A0088_06_08.bmp: 
+ MOS: 1.59e+03 v.s. 1.62e+03 
+ PieAPP: 0.435 v.s. 0.434 
+ DeepKLD: 0.528 v.s. 0.445
+ 
+A0088_00_05.bmp and A0088_06_16.bmp: 
+ MOS: 1.59e+03 v.s. 1.67e+03 
+ PieAPP: 0.435 v.s. 0.436 
+ DeepKLD: 0.528 v.s. 0.53
+ 
+A0088_01_03.bmp and A0088_06_05.bmp: 
+ MOS: 1.56e+03 v.s. 1.66e+03 
+ PieAPP: 0.522 v.s. 0.521 
+ DeepKLD: 0.502 v.s. 0.601
+ 
+A0088_03_09.bmp and A0088_05_10.bmp: 
+ MOS: 1.45e+03 v.s. 1.52e+03 
+ PieAPP: 0.871 v.s. 0.872 
+ DeepKLD: 0.722 v.s. 0.715
+ 
+A0090_00_04.bmp and A0090_01_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.56e+03 
+ PieAPP: 1.25 v.s. 1.25 
+ DeepKLD: 0.584 v.s. 0.568
+ 
+A0090_02_05.bmp and A0090_05_07.bmp: 
+ MOS: 1.47e+03 v.s. 1.28e+03 
+ PieAPP: 1.72 v.s. 1.72 
+ DeepKLD: 0.601 v.s. 0.714
+ 
+A0090_04_06.bmp and A0090_06_13.bmp: 
+ MOS: 1.29e+03 v.s. 1.45e+03 
+ PieAPP: 1.98 v.s. 1.98 
+ DeepKLD: 0.675 v.s. 0.601
+ 
+A0090_06_20.bmp and A0090_06_21.bmp: 
+ MOS: 1.48e+03 v.s. 1.54e+03 
+ PieAPP: 0.466 v.s. 0.467 
+ DeepKLD: 0.505 v.s. 0.479
+ 
+A0092_00_11.bmp and A0092_03_13.bmp: 
+ MOS: 1.38e+03 v.s. 1.57e+03 
+ PieAPP: 0.481 v.s. 0.481 
+ DeepKLD: 0.483 v.s. 0.712
+ 
+A0092_01_01.bmp and A0092_06_25.bmp: 
+ MOS: 1.5e+03 v.s. 1.39e+03 
+ PieAPP: 1.42 v.s. 1.42 
+ DeepKLD: 0.654 v.s. 0.645
+ 
+A0092_01_10.bmp and A0092_06_20.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ PieAPP: 0.729 v.s. 0.729 
+ DeepKLD: 0.599 v.s. 0.55
+ 
+A0092_04_11.bmp and A0092_06_09.bmp: 
+ MOS: 1.55e+03 v.s. 1.48e+03 
+ PieAPP: 1.05 v.s. 1.06 
+ DeepKLD: 0.679 v.s. 0.551
+ 
+A0093_00_01.bmp and A0093_05_02.bmp: 
+ MOS: 1.37e+03 v.s. 1.25e+03 
+ PieAPP: 1.68 v.s. 1.68 
+ DeepKLD: 0.685 v.s. 0.771
+ 
+A0093_00_02.bmp and A0093_06_16.bmp: 
+ MOS: 1.57e+03 v.s. 1.46e+03 
+ PieAPP: 0.372 v.s. 0.371 
+ DeepKLD: 0.468 v.s. 0.497
+ 
+A0093_03_02.bmp and A0093_03_14.bmp: 
+ MOS: 1.45e+03 v.s. 1.38e+03 
+ PieAPP: 0.941 v.s. 0.942 
+ DeepKLD: 0.632 v.s. 0.623
+ 
+A0093_06_07.bmp and A0093_06_25.bmp: 
+ MOS: 1.45e+03 v.s. 1.43e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.565 v.s. 0.61
+ 
+A0096_00_04.bmp and A0096_05_08.bmp: 
+ MOS: 1.41e+03 v.s. 1.4e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.646 v.s. 0.753
+ 
+A0096_00_04.bmp and A0096_06_06.bmp: 
+ MOS: 1.41e+03 v.s. 1.26e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.646 v.s. 0.709
+ 
+A0096_00_08.bmp and A0096_03_20.bmp: 
+ MOS: 1.56e+03 v.s. 1.54e+03 
+ PieAPP: 0.471 v.s. 0.472 
+ DeepKLD: 0.389 v.s. 0.701
+ 
+A0096_01_14.bmp and A0096_03_13.bmp: 
+ MOS: 1.6e+03 v.s. 1.48e+03 
+ PieAPP: 0.664 v.s. 0.665 
+ DeepKLD: 0.538 v.s. 0.571
+ 
+A0096_03_07.bmp and A0096_06_16.bmp: 
+ MOS: 1.41e+03 v.s. 1.41e+03 
+ PieAPP: 0.634 v.s. 0.634 
+ DeepKLD: 0.572 v.s. 0.4
+ 
+A0096_03_08.bmp and A0096_04_00.bmp: 
+ MOS: 1.48e+03 v.s. 1.56e+03 
+ PieAPP: 0.571 v.s. 0.571 
+ DeepKLD: 0.571 v.s. 0.532
+ 
+A0096_03_11.bmp and A0096_03_22.bmp: 
+ MOS: 1.51e+03 v.s. 1.36e+03 
+ PieAPP: 0.436 v.s. 0.435 
+ DeepKLD: 0.549 v.s. 0.692
+ 
+A0096_05_08.bmp and A0096_06_06.bmp: 
+ MOS: 1.4e+03 v.s. 1.26e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.753 v.s. 0.709
+ 
+A0097_00_01.bmp and A0097_04_10.bmp: 
+ MOS: 1.34e+03 v.s. 1.42e+03 
+ PieAPP: 1.97 v.s. 1.97 
+ DeepKLD: 0.601 v.s. 0.681
+ 
+A0097_01_13.bmp and A0097_05_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.56e+03 
+ PieAPP: 0.961 v.s. 0.962 
+ DeepKLD: 0.515 v.s. 0.533
+ 
+A0097_02_00.bmp and A0097_06_04.bmp: 
+ MOS: 1.43e+03 v.s. 1.45e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.451 v.s. 0.623
+ 
+A0097_02_01.bmp and A0097_06_04.bmp: 
+ MOS: 1.45e+03 v.s. 1.45e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.451 v.s. 0.623
+ 
+A0097_02_02.bmp and A0097_02_03.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ PieAPP: 0.309 v.s. 0.31 
+ DeepKLD: 0.349 v.s. 0.366
+ 
+A0097_03_02.bmp and A0097_06_06.bmp: 
+ MOS: 1.49e+03 v.s. 1.39e+03 
+ PieAPP: 1.14 v.s. 1.14 
+ DeepKLD: 0.609 v.s. 0.714
+ 
+A0097_03_13.bmp and A0097_03_17.bmp: 
+ MOS: 1.51e+03 v.s. 1.48e+03 
+ PieAPP: 0.818 v.s. 0.819 
+ DeepKLD: 0.611 v.s. 0.625
+ 
+A0097_03_13.bmp and A0097_05_04.bmp: 
+ MOS: 1.51e+03 v.s. 1.63e+03 
+ PieAPP: 0.818 v.s. 0.819 
+ DeepKLD: 0.611 v.s. 0.626
+ 
+A0098_00_00.bmp and A0098_04_03.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ PieAPP: 0.636 v.s. 0.635 
+ DeepKLD: 0.454 v.s. 0.592
+ 
+A0098_00_06.bmp and A0098_02_08.bmp: 
+ MOS: 1.43e+03 v.s. 1.44e+03 
+ PieAPP: 0.414 v.s. 0.413 
+ DeepKLD: 0.465 v.s. 0.495
+ 
+A0098_00_07.bmp and A0098_06_11.bmp: 
+ MOS: 1.46e+03 v.s. 1.4e+03 
+ PieAPP: 0.956 v.s. 0.956 
+ DeepKLD: 0.556 v.s. 0.503
+ 
+A0098_00_09.bmp and A0098_04_05.bmp: 
+ MOS: 1.49e+03 v.s. 1.37e+03 
+ PieAPP: 0.605 v.s. 0.604 
+ DeepKLD: 0.468 v.s. 0.559
+ 
+A0098_00_09.bmp and A0098_06_01.bmp: 
+ MOS: 1.49e+03 v.s. 1.37e+03 
+ PieAPP: 0.605 v.s. 0.605 
+ DeepKLD: 0.468 v.s. 0.504
+ 
+A0098_01_01.bmp and A0098_01_14.bmp: 
+ MOS: 1.53e+03 v.s. 1.49e+03 
+ PieAPP: 0.482 v.s. 0.483 
+ DeepKLD: 0.433 v.s. 0.464
+ 
+A0098_01_01.bmp and A0098_04_01.bmp: 
+ MOS: 1.53e+03 v.s. 1.37e+03 
+ PieAPP: 0.482 v.s. 0.483 
+ DeepKLD: 0.433 v.s. 0.593
+ 
+A0098_01_07.bmp and A0098_01_10.bmp: 
+ MOS: 1.54e+03 v.s. 1.59e+03 
+ PieAPP: 0.353 v.s. 0.353 
+ DeepKLD: 0.427 v.s. 0.397
+ 
+A0098_01_14.bmp and A0098_04_01.bmp: 
+ MOS: 1.49e+03 v.s. 1.37e+03 
+ PieAPP: 0.483 v.s. 0.483 
+ DeepKLD: 0.464 v.s. 0.593
+ 
+A0098_03_06.bmp and A0098_03_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.457 v.s. 0.456 
+ DeepKLD: 0.451 v.s. 0.485
+ 
+A0098_03_06.bmp and A0098_04_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.4e+03 
+ PieAPP: 0.457 v.s. 0.457 
+ DeepKLD: 0.451 v.s. 0.465
+ 
+A0098_03_09.bmp and A0098_04_12.bmp: 
+ MOS: 1.47e+03 v.s. 1.4e+03 
+ PieAPP: 0.456 v.s. 0.457 
+ DeepKLD: 0.485 v.s. 0.465
+ 
+A0098_03_09.bmp and A0098_05_13.bmp: 
+ MOS: 1.47e+03 v.s. 1.38e+03 
+ PieAPP: 0.456 v.s. 0.457 
+ DeepKLD: 0.485 v.s. 0.451
+ 
+A0098_03_22.bmp and A0098_04_04.bmp: 
+ MOS: 1.33e+03 v.s. 1.4e+03 
+ PieAPP: 0.823 v.s. 0.823 
+ DeepKLD: 0.581 v.s. 0.632
+ 
+A0098_04_02.bmp and A0098_06_24.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ PieAPP: 0.393 v.s. 0.392 
+ DeepKLD: 0.524 v.s. 0.323
+ 
+A0098_04_05.bmp and A0098_06_01.bmp: 
+ MOS: 1.37e+03 v.s. 1.37e+03 
+ PieAPP: 0.604 v.s. 0.605 
+ DeepKLD: 0.559 v.s. 0.504
+ 
+A0098_04_12.bmp and A0098_05_13.bmp: 
+ MOS: 1.4e+03 v.s. 1.38e+03 
+ PieAPP: 0.457 v.s. 0.457 
+ DeepKLD: 0.465 v.s. 0.451
+ 
+A0098_06_18.bmp and A0098_06_25.bmp: 
+ MOS: 1.45e+03 v.s. 1.46e+03 
+ PieAPP: 0.631 v.s. 0.631 
+ DeepKLD: 0.489 v.s. 0.445
+ 
+A0099_03_01.bmp and A0099_05_06.bmp: 
+ MOS: 1.5e+03 v.s. 1.41e+03 
+ PieAPP: 0.756 v.s. 0.757 
+ DeepKLD: 0.739 v.s. 0.799
+ 
+A0099_03_07.bmp and A0099_04_11.bmp: 
+ MOS: 1.45e+03 v.s. 1.47e+03 
+ PieAPP: 1.43 v.s. 1.42 
+ DeepKLD: 0.728 v.s. 0.68
+ 
+A0100_01_07.bmp and A0100_03_10.bmp: 
+ MOS: 1.39e+03 v.s. 1.47e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.674 v.s. 0.679
+ 
+A0100_04_11.bmp and A0100_05_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.41e+03 
+ PieAPP: 1.03 v.s. 1.03 
+ DeepKLD: 0.712 v.s. 0.784
+ 
+A0101_00_00.bmp and A0101_04_02.bmp: 
+ MOS: 1.57e+03 v.s. 1.47e+03 
+ PieAPP: 0.892 v.s. 0.892 
+ DeepKLD: 0.493 v.s. 0.557
+ 
+A0101_00_06.bmp and A0101_03_06.bmp: 
+ MOS: 1.49e+03 v.s. 1.52e+03 
+ PieAPP: 0.737 v.s. 0.737 
+ DeepKLD: 0.54 v.s. 0.59
+ 
+A0101_00_06.bmp and A0101_05_13.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.737 v.s. 0.737 
+ DeepKLD: 0.54 v.s. 0.59
+ 
+A0101_01_07.bmp and A0101_04_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.48e+03 
+ PieAPP: 0.759 v.s. 0.76 
+ DeepKLD: 0.536 v.s. 0.565
+ 
+A0101_01_10.bmp and A0101_04_00.bmp: 
+ MOS: 1.42e+03 v.s. 1.48e+03 
+ PieAPP: 0.761 v.s. 0.76 
+ DeepKLD: 0.506 v.s. 0.565
+ 
+A0101_03_13.bmp and A0101_06_18.bmp: 
+ MOS: 1.55e+03 v.s. 1.54e+03 
+ PieAPP: 0.802 v.s. 0.802 
+ DeepKLD: 0.583 v.s. 0.575
+ 
+A0101_05_08.bmp and A0101_06_13.bmp: 
+ MOS: 1.24e+03 v.s. 1.3e+03 
+ PieAPP: 1.95 v.s. 1.95 
+ DeepKLD: 0.737 v.s. 0.637
+ 
+A0102_01_02.bmp and A0102_01_05.bmp: 
+ MOS: 1.33e+03 v.s. 1.26e+03 
+ PieAPP: 2.05 v.s. 2.05 
+ DeepKLD: 0.764 v.s. 0.766
+ 
+A0102_02_07.bmp and A0102_03_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.45e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.686 v.s. 0.711
+ 
+A0102_02_07.bmp and A0102_03_11.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.686 v.s. 0.669
+ 
+A0102_03_00.bmp and A0102_03_11.bmp: 
+ MOS: 1.45e+03 v.s. 1.52e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.711 v.s. 0.669
+ 
+A0103_00_09.bmp and A0103_06_14.bmp: 
+ MOS: 1.53e+03 v.s. 1.4e+03 
+ PieAPP: 1.72 v.s. 1.72 
+ DeepKLD: 0.614 v.s. 0.622
+ 
+A0103_02_07.bmp and A0103_03_14.bmp: 
+ MOS: 1.51e+03 v.s. 1.55e+03 
+ PieAPP: 0.469 v.s. 0.468 
+ DeepKLD: 0.513 v.s. 0.476
+ 
+A0103_03_10.bmp and A0103_04_01.bmp: 
+ MOS: 1.53e+03 v.s. 1.49e+03 
+ PieAPP: 0.606 v.s. 0.606 
+ DeepKLD: 0.491 v.s. 0.614
+ 
+A0103_03_10.bmp and A0103_04_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ PieAPP: 0.606 v.s. 0.605 
+ DeepKLD: 0.491 v.s. 0.474
+ 
+A0103_04_00.bmp and A0103_04_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ PieAPP: 0.383 v.s. 0.382 
+ DeepKLD: 0.499 v.s. 0.492
+ 
+A0103_04_01.bmp and A0103_04_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.606 v.s. 0.605 
+ DeepKLD: 0.614 v.s. 0.474
+ 
+A0103_05_07.bmp and A0103_06_13.bmp: 
+ MOS: 1.31e+03 v.s. 1.37e+03 
+ PieAPP: 2.72 v.s. 2.72 
+ DeepKLD: 0.806 v.s. 0.716
+ 
+A0104_00_06.bmp and A0104_03_06.bmp: 
+ MOS: 1.51e+03 v.s. 1.49e+03 
+ PieAPP: 0.69 v.s. 0.69 
+ DeepKLD: 0.627 v.s. 0.572
+ 
+A0104_00_06.bmp and A0104_03_18.bmp: 
+ MOS: 1.51e+03 v.s. 1.61e+03 
+ PieAPP: 0.69 v.s. 0.69 
+ DeepKLD: 0.627 v.s. 0.604
+ 
+A0104_00_06.bmp and A0104_05_13.bmp: 
+ MOS: 1.51e+03 v.s. 1.29e+03 
+ PieAPP: 0.69 v.s. 0.69 
+ DeepKLD: 0.627 v.s. 0.572
+ 
+A0104_01_04.bmp and A0104_01_10.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 0.703 v.s. 0.702 
+ DeepKLD: 0.625 v.s. 0.599
+ 
+A0104_01_09.bmp and A0104_01_12.bmp: 
+ MOS: 1.58e+03 v.s. 1.5e+03 
+ PieAPP: 0.282 v.s. 0.283 
+ DeepKLD: 0.425 v.s. 0.417
+ 
+A0104_01_11.bmp and A0104_02_08.bmp: 
+ MOS: 1.43e+03 v.s. 1.51e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.671 v.s. 0.679
+ 
+A0104_03_02.bmp and A0104_05_12.bmp: 
+ MOS: 1.48e+03 v.s. 1.54e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.64 v.s. 0.624
+ 
+A0104_03_03.bmp and A0104_06_24.bmp: 
+ MOS: 1.53e+03 v.s. 1.76e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.67 v.s. 0.519
+ 
+A0104_03_04.bmp and A0104_06_24.bmp: 
+ MOS: 1.46e+03 v.s. 1.76e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.67 v.s. 0.519
+ 
+A0104_03_05.bmp and A0104_06_24.bmp: 
+ MOS: 1.44e+03 v.s. 1.76e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.67 v.s. 0.519
+ 
+A0104_03_06.bmp and A0104_03_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.61e+03 
+ PieAPP: 0.69 v.s. 0.69 
+ DeepKLD: 0.572 v.s. 0.604
+ 
+A0104_03_09.bmp and A0104_03_19.bmp: 
+ MOS: 1.41e+03 v.s. 1.49e+03 
+ PieAPP: 0.746 v.s. 0.746 
+ DeepKLD: 0.636 v.s. 0.598
+ 
+A0104_03_18.bmp and A0104_05_13.bmp: 
+ MOS: 1.61e+03 v.s. 1.29e+03 
+ PieAPP: 0.69 v.s. 0.69 
+ DeepKLD: 0.604 v.s. 0.572
+ 
+A0104_04_02.bmp and A0104_06_18.bmp: 
+ MOS: 1.53e+03 v.s. 1.52e+03 
+ PieAPP: 0.759 v.s. 0.759 
+ DeepKLD: 0.622 v.s. 0.637
+ 
+A0105_01_01.bmp and A0105_04_09.bmp: 
+ MOS: 1.4e+03 v.s. 1.48e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.727 v.s. 0.734
+ 
+A0105_01_04.bmp and A0105_06_19.bmp: 
+ MOS: 1.54e+03 v.s. 1.59e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.722 v.s. 0.617
+ 
+A0105_01_07.bmp and A0105_02_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.5e+03 
+ PieAPP: 1.09 v.s. 1.09 
+ DeepKLD: 0.714 v.s. 0.751
+ 
+A0105_03_01.bmp and A0105_06_20.bmp: 
+ MOS: 1.41e+03 v.s. 1.56e+03 
+ PieAPP: 0.907 v.s. 0.907 
+ DeepKLD: 0.725 v.s. 0.609
+ 
+A0105_03_15.bmp and A0105_03_22.bmp: 
+ MOS: 1.45e+03 v.s. 1.39e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.716 v.s. 0.796
+ 
+A0105_03_20.bmp and A0105_06_18.bmp: 
+ MOS: 1.36e+03 v.s. 1.65e+03 
+ PieAPP: 1.09 v.s. 1.09 
+ DeepKLD: 0.796 v.s. 0.739
+ 
+A0105_06_05.bmp and A0105_06_17.bmp: 
+ MOS: 1.55e+03 v.s. 1.58e+03 
+ PieAPP: 0.777 v.s. 0.777 
+ DeepKLD: 0.64 v.s. 0.678
+ 
+A0106_01_00.bmp and A0106_06_23.bmp: 
+ MOS: 1.6e+03 v.s. 1.71e+03 
+ PieAPP: 0.21 v.s. 0.21 
+ DeepKLD: 0.339 v.s. 0.252
+ 
+A0106_01_04.bmp and A0106_03_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.524 v.s. 0.571
+ 
+A0106_03_08.bmp and A0106_04_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ PieAPP: 0.85 v.s. 0.85 
+ DeepKLD: 0.585 v.s. 0.515
+ 
+A0106_03_15.bmp and A0106_06_25.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 0.919 v.s. 0.918 
+ DeepKLD: 0.591 v.s. 0.45
+ 
+A0106_05_04.bmp and A0106_06_18.bmp: 
+ MOS: 1.48e+03 v.s. 1.53e+03 
+ PieAPP: 0.807 v.s. 0.807 
+ DeepKLD: 0.615 v.s. 0.51
+ 
+A0106_05_07.bmp and A0106_06_14.bmp: 
+ MOS: 1.21e+03 v.s. 1.38e+03 
+ PieAPP: 2.2 v.s. 2.2 
+ DeepKLD: 0.72 v.s. 0.627
+ 
+A0107_00_06.bmp and A0107_06_08.bmp: 
+ MOS: 1.47e+03 v.s. 1.67e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.66 v.s. 0.566
+ 
+A0107_03_03.bmp and A0107_03_15.bmp: 
+ MOS: 1.5e+03 v.s. 1.45e+03 
+ PieAPP: 0.802 v.s. 0.803 
+ DeepKLD: 0.597 v.s. 0.603
+ 
+A0107_03_04.bmp and A0107_03_15.bmp: 
+ MOS: 1.49e+03 v.s. 1.45e+03 
+ PieAPP: 0.802 v.s. 0.803 
+ DeepKLD: 0.597 v.s. 0.603
+ 
+A0107_03_05.bmp and A0107_03_15.bmp: 
+ MOS: 1.54e+03 v.s. 1.45e+03 
+ PieAPP: 0.802 v.s. 0.803 
+ DeepKLD: 0.597 v.s. 0.603
+ 
+A0107_03_07.bmp and A0107_05_10.bmp: 
+ MOS: 1.34e+03 v.s. 1.53e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.64 v.s. 0.681
+ 
+A0107_03_10.bmp and A0107_03_11.bmp: 
+ MOS: 1.39e+03 v.s. 1.43e+03 
+ PieAPP: 0.859 v.s. 0.859 
+ DeepKLD: 0.605 v.s. 0.6
+ 
+A0107_03_16.bmp and A0107_05_12.bmp: 
+ MOS: 1.39e+03 v.s. 1.54e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.617 v.s. 0.622
+ 
+A0107_04_02.bmp and A0107_04_12.bmp: 
+ MOS: 1.67e+03 v.s. 1.59e+03 
+ PieAPP: 0.564 v.s. 0.564 
+ DeepKLD: 0.534 v.s. 0.519
+ 
+A0108_00_11.bmp and A0108_04_05.bmp: 
+ MOS: 1.57e+03 v.s. 1.67e+03 
+ PieAPP: 0.846 v.s. 0.846 
+ DeepKLD: 0.686 v.s. 0.584
+ 
+A0108_01_04.bmp and A0108_05_05.bmp: 
+ MOS: 1.44e+03 v.s. 1.35e+03 
+ PieAPP: 1.51 v.s. 1.51 
+ DeepKLD: 0.783 v.s. 0.839
+ 
+A0108_01_07.bmp and A0108_04_11.bmp: 
+ MOS: 1.5e+03 v.s. 1.57e+03 
+ PieAPP: 1.3 v.s. 1.3 
+ DeepKLD: 0.769 v.s. 0.746
+ 
+A0108_03_17.bmp and A0108_06_05.bmp: 
+ MOS: 1.44e+03 v.s. 1.69e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.795 v.s. 0.665
+ 
+A0108_06_05.bmp and A0108_06_21.bmp: 
+ MOS: 1.69e+03 v.s. 1.62e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.665 v.s. 0.647
+ 
+A0108_06_19.bmp and A0108_06_21.bmp: 
+ MOS: 1.46e+03 v.s. 1.62e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.663 v.s. 0.647
+ 
+A0110_00_04.bmp and A0110_06_02.bmp: 
+ MOS: 1.38e+03 v.s. 1.41e+03 
+ PieAPP: 1.57 v.s. 1.57 
+ DeepKLD: 0.632 v.s. 0.593
+ 
+A0110_00_09.bmp and A0110_05_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.39e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.582 v.s. 0.669
+ 
+A0110_02_07.bmp and A0110_03_11.bmp: 
+ MOS: 1.41e+03 v.s. 1.47e+03 
+ PieAPP: 0.802 v.s. 0.802 
+ DeepKLD: 0.54 v.s. 0.512
+ 
+A0110_04_08.bmp and A0110_06_24.bmp: 
+ MOS: 1.57e+03 v.s. 1.62e+03 
+ PieAPP: 0.676 v.s. 0.676 
+ DeepKLD: 0.509 v.s. 0.364
+ 
+A0112_00_09.bmp and A0112_02_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.56e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.632 v.s. 0.663
+ 
+A0112_00_09.bmp and A0112_03_03.bmp: 
+ MOS: 1.46e+03 v.s. 1.46e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.632 v.s. 0.649
+ 
+A0112_00_09.bmp and A0112_03_04.bmp: 
+ MOS: 1.46e+03 v.s. 1.43e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.632 v.s. 0.649
+ 
+A0112_00_09.bmp and A0112_03_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.51e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.632 v.s. 0.649
+ 
+A0112_01_09.bmp and A0112_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 0.335 v.s. 0.334 
+ DeepKLD: 0.473 v.s. 0.472
+ 
+A0112_02_07.bmp and A0112_03_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.663 v.s. 0.649
+ 
+A0112_02_07.bmp and A0112_03_04.bmp: 
+ MOS: 1.56e+03 v.s. 1.43e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.663 v.s. 0.649
+ 
+A0112_02_07.bmp and A0112_03_05.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.663 v.s. 0.649
+ 
+A0112_05_09.bmp and A0112_06_07.bmp: 
+ MOS: 1.42e+03 v.s. 1.48e+03 
+ PieAPP: 0.982 v.s. 0.983 
+ DeepKLD: 0.716 v.s. 0.597
+ 
+A0113_01_02.bmp and A0113_06_04.bmp: 
+ MOS: 1.46e+03 v.s. 1.31e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.671 v.s. 0.67
+ 
+A0113_01_09.bmp and A0113_01_12.bmp: 
+ MOS: 1.63e+03 v.s. 1.56e+03 
+ PieAPP: 0.186 v.s. 0.186 
+ DeepKLD: 0.353 v.s. 0.352
+ 
+A0113_01_13.bmp and A0113_04_02.bmp: 
+ MOS: 1.45e+03 v.s. 1.56e+03 
+ PieAPP: 0.695 v.s. 0.695 
+ DeepKLD: 0.533 v.s. 0.58
+ 
+A0113_01_14.bmp and A0113_02_07.bmp: 
+ MOS: 1.42e+03 v.s. 1.52e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.632 v.s. 0.638
+ 
+A0113_02_04.bmp and A0113_06_20.bmp: 
+ MOS: 1.64e+03 v.s. 1.54e+03 
+ PieAPP: 0.279 v.s. 0.279 
+ DeepKLD: 0.566 v.s. 0.587
+ 
+A0113_03_08.bmp and A0113_03_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ PieAPP: 0.839 v.s. 0.839 
+ DeepKLD: 0.627 v.s. 0.647
+ 
+A0113_03_09.bmp and A0113_05_11.bmp: 
+ MOS: 1.43e+03 v.s. 1.55e+03 
+ PieAPP: 0.649 v.s. 0.649 
+ DeepKLD: 0.642 v.s. 0.545
+ 
+A0113_03_13.bmp and A0113_04_08.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ PieAPP: 0.76 v.s. 0.759 
+ DeepKLD: 0.634 v.s. 0.588
+ 
+A0113_03_17.bmp and A0113_06_21.bmp: 
+ MOS: 1.54e+03 v.s. 1.73e+03 
+ PieAPP: 0.667 v.s. 0.667 
+ DeepKLD: 0.653 v.s. 0.528
+ 
+A0113_05_05.bmp and A0113_06_09.bmp: 
+ MOS: 1.34e+03 v.s. 1.38e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.746 v.s. 0.586
+ 
+A0114_01_11.bmp and A0114_06_00.bmp: 
+ MOS: 1.5e+03 v.s. 1.41e+03 
+ PieAPP: 1.79 v.s. 1.79 
+ DeepKLD: 0.759 v.s. 0.678
+ 
+A0114_03_18.bmp and A0114_06_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.36e+03 
+ PieAPP: 0.755 v.s. 0.755 
+ DeepKLD: 0.769 v.s. 0.596
+ 
+A0115_00_08.bmp and A0115_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.59e+03 
+ PieAPP: 0.741 v.s. 0.741 
+ DeepKLD: 0.498 v.s. 0.514
+ 
+A0115_03_00.bmp and A0115_06_05.bmp: 
+ MOS: 1.5e+03 v.s. 1.42e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.777 v.s. 0.684
+ 
+A0115_03_01.bmp and A0115_03_11.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 1.25 v.s. 1.24 
+ DeepKLD: 0.788 v.s. 0.723
+ 
+A0115_03_18.bmp and A0115_06_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.59e+03 
+ PieAPP: 0.742 v.s. 0.741 
+ DeepKLD: 0.764 v.s. 0.514
+ 
+A0115_05_10.bmp and A0115_06_07.bmp: 
+ MOS: 1.43e+03 v.s. 1.44e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.787 v.s. 0.538
+ 
+A0116_00_08.bmp and A0116_04_00.bmp: 
+ MOS: 1.57e+03 v.s. 1.62e+03 
+ PieAPP: 0.807 v.s. 0.807 
+ DeepKLD: 0.569 v.s. 0.563
+ 
+A0116_01_05.bmp and A0116_05_05.bmp: 
+ MOS: 1.39e+03 v.s. 1.26e+03 
+ PieAPP: 1.89 v.s. 1.89 
+ DeepKLD: 0.742 v.s. 0.806
+ 
+A0116_03_00.bmp and A0116_03_22.bmp: 
+ MOS: 1.43e+03 v.s. 1.48e+03 
+ PieAPP: 1.42 v.s. 1.43 
+ DeepKLD: 0.69 v.s. 0.776
+ 
+A0116_03_01.bmp and A0116_05_11.bmp: 
+ MOS: 1.5e+03 v.s. 1.5e+03 
+ PieAPP: 0.764 v.s. 0.764 
+ DeepKLD: 0.65 v.s. 0.588
+ 
+A0116_03_11.bmp and A0116_03_18.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ PieAPP: 0.867 v.s. 0.866 
+ DeepKLD: 0.635 v.s. 0.652
+ 
+A0116_05_00.bmp and A0116_06_03.bmp: 
+ MOS: 1.41e+03 v.s. 1.51e+03 
+ PieAPP: 1.9 v.s. 1.9 
+ DeepKLD: 0.746 v.s. 0.72
+ 
+A0118_00_08.bmp and A0118_06_23.bmp: 
+ MOS: 1.57e+03 v.s. 1.54e+03 
+ PieAPP: 0.369 v.s. 0.369 
+ DeepKLD: 0.377 v.s. 0.325
+ 
+A0118_00_11.bmp and A0118_02_02.bmp: 
+ MOS: 1.41e+03 v.s. 1.58e+03 
+ PieAPP: 0.302 v.s. 0.302 
+ DeepKLD: 0.354 v.s. 0.34
+ 
+A0118_01_15.bmp and A0118_04_07.bmp: 
+ MOS: 1.26e+03 v.s. 1.22e+03 
+ PieAPP: 2.12 v.s. 2.12 
+ DeepKLD: 0.755 v.s. 0.732
+ 
+A0118_03_00.bmp and A0118_03_11.bmp: 
+ MOS: 1.61e+03 v.s. 1.48e+03 
+ PieAPP: 0.818 v.s. 0.819 
+ DeepKLD: 0.628 v.s. 0.571
+ 
+A0118_04_09.bmp and A0118_05_00.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.638 v.s. 0.653
+ 
+A0119_00_02.bmp and A0119_01_00.bmp: 
+ MOS: 1.65e+03 v.s. 1.57e+03 
+ PieAPP: 0.287 v.s. 0.287 
+ DeepKLD: 0.449 v.s. 0.452
+ 
+A0119_01_09.bmp and A0119_01_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.65e+03 
+ PieAPP: 0.246 v.s. 0.247 
+ DeepKLD: 0.417 v.s. 0.415
+ 
+A0119_01_14.bmp and A0119_06_25.bmp: 
+ MOS: 1.38e+03 v.s. 1.49e+03 
+ PieAPP: 0.962 v.s. 0.962 
+ DeepKLD: 0.611 v.s. 0.479
+ 
+A0119_03_09.bmp and A0119_03_17.bmp: 
+ MOS: 1.6e+03 v.s. 1.59e+03 
+ PieAPP: 0.596 v.s. 0.596 
+ DeepKLD: 0.57 v.s. 0.572
+ 
+A0119_05_03.bmp and A0119_06_15.bmp: 
+ MOS: 1.11e+03 v.s. 1.25e+03 
+ PieAPP: 1.78 v.s. 1.78 
+ DeepKLD: 0.725 v.s. 0.701
+ 
+A0119_06_03.bmp and A0119_06_05.bmp: 
+ MOS: 1.47e+03 v.s. 1.49e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.594 v.s. 0.572
+ 
+A0119_06_14.bmp and A0119_06_26.bmp: 
+ MOS: 1.36e+03 v.s. 1.53e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.648 v.s. 0.549
+ 
+A0119_06_16.bmp and A0119_06_20.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ PieAPP: 0.313 v.s. 0.314 
+ DeepKLD: 0.389 v.s. 0.451
+ 
+A0120_01_01.bmp and A0120_03_02.bmp: 
+ MOS: 1.43e+03 v.s. 1.47e+03 
+ PieAPP: 2.08 v.s. 2.08 
+ DeepKLD: 0.781 v.s. 0.812
+ 
+A0120_01_13.bmp and A0120_04_06.bmp: 
+ MOS: 1.51e+03 v.s. 1.52e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.664 v.s. 0.621
+ 
+A0120_03_20.bmp and A0120_06_01.bmp: 
+ MOS: 1.29e+03 v.s. 1.38e+03 
+ PieAPP: 2.09 v.s. 2.09 
+ DeepKLD: 0.865 v.s. 0.722
+ 
+A0120_05_01.bmp and A0120_05_08.bmp: 
+ MOS: 1.31e+03 v.s. 1.2e+03 
+ PieAPP: 2.75 v.s. 2.75 
+ DeepKLD: 0.802 v.s. 0.824
+ 
+A0120_05_04.bmp and A0120_06_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.17e+03 
+ PieAPP: 0.849 v.s. 0.849 
+ DeepKLD: 0.719 v.s. 0.583
+ 
+A0121_00_00.bmp and A0121_01_01.bmp: 
+ MOS: 1.46e+03 v.s. 1.5e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.584 v.s. 0.627
+ 
+A0121_01_10.bmp and A0121_05_11.bmp: 
+ MOS: 1.45e+03 v.s. 1.51e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.61 v.s. 0.614
+ 
+A0121_03_02.bmp and A0121_03_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.674 v.s. 0.675
+ 
+A0123_01_03.bmp and A0123_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 0.187 v.s. 0.187 
+ DeepKLD: 0.293 v.s. 0.308
+ 
+A0123_05_05.bmp and A0123_06_03.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.671 v.s. 0.544
+ 
+A0123_06_00.bmp and A0123_06_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.46e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.438 v.s. 0.544
+ 
+A0124_00_03.bmp and A0124_05_09.bmp: 
+ MOS: 1.45e+03 v.s. 1.33e+03 
+ PieAPP: 1.65 v.s. 1.65 
+ DeepKLD: 0.696 v.s. 0.783
+ 
+A0124_00_08.bmp and A0124_04_08.bmp: 
+ MOS: 1.48e+03 v.s. 1.52e+03 
+ PieAPP: 0.789 v.s. 0.789 
+ DeepKLD: 0.539 v.s. 0.577
+ 
+A0124_02_08.bmp and A0124_03_10.bmp: 
+ MOS: 1.47e+03 v.s. 1.42e+03 
+ PieAPP: 1.63 v.s. 1.63 
+ DeepKLD: 0.748 v.s. 0.716
+ 
+A0124_02_09.bmp and A0124_05_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.39e+03 
+ PieAPP: 1.25 v.s. 1.25 
+ DeepKLD: 0.769 v.s. 0.793
+ 
+A0124_03_12.bmp and A0124_05_10.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ PieAPP: 0.831 v.s. 0.83 
+ DeepKLD: 0.75 v.s. 0.736
+ 
+A0124_05_11.bmp and A0124_05_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.49e+03 
+ PieAPP: 1.11 v.s. 1.11 
+ DeepKLD: 0.649 v.s. 0.662
+ 
+A0130_00_06.bmp and A0130_02_06.bmp: 
+ MOS: 1.45e+03 v.s. 1.55e+03 
+ PieAPP: 1.39 v.s. 1.39 
+ DeepKLD: 0.695 v.s. 0.643
+ 
+A0130_01_04.bmp and A0130_03_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.52e+03 
+ PieAPP: 1.09 v.s. 1.09 
+ DeepKLD: 0.617 v.s. 0.695
+ 
+A0130_03_10.bmp and A0130_06_08.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.593 v.s. 0.475
+ 
+A0131_01_01.bmp and A0131_01_11.bmp: 
+ MOS: 1.38e+03 v.s. 1.5e+03 
+ PieAPP: 0.979 v.s. 0.979 
+ DeepKLD: 0.62 v.s. 0.664
+ 
+A0131_01_10.bmp and A0131_04_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.52e+03 
+ PieAPP: 0.534 v.s. 0.534 
+ DeepKLD: 0.539 v.s. 0.513
+ 
+A0131_03_16.bmp and A0131_04_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.52e+03 
+ PieAPP: 1.09 v.s. 1.09 
+ DeepKLD: 0.669 v.s. 0.643
+ 
+A0131_04_12.bmp and A0131_05_04.bmp: 
+ MOS: 1.57e+03 v.s. 1.53e+03 
+ PieAPP: 0.387 v.s. 0.386 
+ DeepKLD: 0.497 v.s. 0.658
+ 
+A0132_00_05.bmp and A0132_01_00.bmp: 
+ MOS: 1.56e+03 v.s. 1.62e+03 
+ PieAPP: 0.139 v.s. 0.139 
+ DeepKLD: 0.3 v.s. 0.236
+ 
+A0132_01_04.bmp and A0132_05_11.bmp: 
+ MOS: 1.42e+03 v.s. 1.54e+03 
+ PieAPP: 0.531 v.s. 0.532 
+ DeepKLD: 0.424 v.s. 0.383
+ 
+A0132_01_10.bmp and A0132_02_02.bmp: 
+ MOS: 1.52e+03 v.s. 1.55e+03 
+ PieAPP: 0.316 v.s. 0.315 
+ DeepKLD: 0.303 v.s. 0.223
+ 
+A0132_01_13.bmp and A0132_03_17.bmp: 
+ MOS: 1.54e+03 v.s. 1.45e+03 
+ PieAPP: 0.306 v.s. 0.307 
+ DeepKLD: 0.298 v.s. 0.522
+ 
+A0132_03_07.bmp and A0132_03_16.bmp: 
+ MOS: 1.43e+03 v.s. 1.44e+03 
+ PieAPP: 0.461 v.s. 0.461 
+ DeepKLD: 0.481 v.s. 0.476
+ 
+A0133_00_05.bmp and A0133_04_00.bmp: 
+ MOS: 1.59e+03 v.s. 1.48e+03 
+ PieAPP: 0.547 v.s. 0.547 
+ DeepKLD: 0.547 v.s. 0.536
+ 
+A0133_01_11.bmp and A0133_03_16.bmp: 
+ MOS: 1.45e+03 v.s. 1.41e+03 
+ PieAPP: 1.85 v.s. 1.85 
+ DeepKLD: 0.721 v.s. 0.722
+ 
+A0133_03_01.bmp and A0133_06_05.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.734 v.s. 0.614
+ 
+A0133_03_01.bmp and A0133_06_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.57e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.734 v.s. 0.501
+ 
+A0133_03_15.bmp and A0133_03_22.bmp: 
+ MOS: 1.51e+03 v.s. 1.31e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.72 v.s. 0.811
+ 
+A0133_03_15.bmp and A0133_05_05.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.72 v.s. 0.769
+ 
+A0133_03_22.bmp and A0133_05_05.bmp: 
+ MOS: 1.31e+03 v.s. 1.5e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.811 v.s. 0.769
+ 
+A0133_05_10.bmp and A0133_06_07.bmp: 
+ MOS: 1.49e+03 v.s. 1.6e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.727 v.s. 0.558
+ 
+A0133_06_05.bmp and A0133_06_08.bmp: 
+ MOS: 1.5e+03 v.s. 1.57e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.614 v.s. 0.501
+ 
+A0134_00_02.bmp and A0134_05_05.bmp: 
+ MOS: 1.6e+03 v.s. 1.35e+03 
+ PieAPP: 0.819 v.s. 0.818 
+ DeepKLD: 0.586 v.s. 0.782
+ 
+A0134_01_03.bmp and A0134_06_05.bmp: 
+ MOS: 1.51e+03 v.s. 1.58e+03 
+ PieAPP: 0.708 v.s. 0.708 
+ DeepKLD: 0.56 v.s. 0.622
+ 
+A0134_03_01.bmp and A0134_04_06.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ PieAPP: 1.07 v.s. 1.07 
+ DeepKLD: 0.736 v.s. 0.666
+ 
+A0134_03_06.bmp and A0134_05_05.bmp: 
+ MOS: 1.52e+03 v.s. 1.35e+03 
+ PieAPP: 0.818 v.s. 0.818 
+ DeepKLD: 0.742 v.s. 0.782
+ 
+A0134_03_09.bmp and A0134_03_19.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 0.912 v.s. 0.912 
+ DeepKLD: 0.744 v.s. 0.738
+ 
+A0134_03_15.bmp and A0134_06_22.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ PieAPP: 0.905 v.s. 0.904 
+ DeepKLD: 0.725 v.s. 0.604
+ 
+A0134_05_05.bmp and A0134_05_13.bmp: 
+ MOS: 1.35e+03 v.s. 1.37e+03 
+ PieAPP: 0.818 v.s. 0.818 
+ DeepKLD: 0.782 v.s. 0.742
+ 
+A0135_00_06.bmp and A0135_05_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.37e+03 
+ PieAPP: 0.88 v.s. 0.879 
+ DeepKLD: 0.584 v.s. 0.718
+ 
+A0135_01_14.bmp and A0135_03_15.bmp: 
+ MOS: 1.38e+03 v.s. 1.49e+03 
+ PieAPP: 0.883 v.s. 0.884 
+ DeepKLD: 0.598 v.s. 0.577
+ 
+A0135_03_06.bmp and A0135_03_18.bmp: 
+ MOS: 1.51e+03 v.s. 1.51e+03 
+ PieAPP: 0.597 v.s. 0.597 
+ DeepKLD: 0.563 v.s. 0.569
+ 
+A0135_03_13.bmp and A0135_03_18.bmp: 
+ MOS: 1.51e+03 v.s. 1.51e+03 
+ PieAPP: 0.598 v.s. 0.597 
+ DeepKLD: 0.575 v.s. 0.569
+ 
+A0135_03_13.bmp and A0135_05_13.bmp: 
+ MOS: 1.51e+03 v.s. 1.45e+03 
+ PieAPP: 0.598 v.s. 0.597 
+ DeepKLD: 0.575 v.s. 0.563
+ 
+A0135_03_18.bmp and A0135_05_13.bmp: 
+ MOS: 1.51e+03 v.s. 1.45e+03 
+ PieAPP: 0.597 v.s. 0.597 
+ DeepKLD: 0.569 v.s. 0.563
+ 
+A0135_06_02.bmp and A0135_06_26.bmp: 
+ MOS: 1.46e+03 v.s. 1.37e+03 
+ PieAPP: 2.22 v.s. 2.22 
+ DeepKLD: 0.61 v.s. 0.624
+ 
+A0137_03_02.bmp and A0137_06_26.bmp: 
+ MOS: 1.44e+03 v.s. 1.35e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.784 v.s. 0.747
+ 
+A0137_03_18.bmp and A0137_05_05.bmp: 
+ MOS: 1.29e+03 v.s. 1.51e+03 
+ PieAPP: 0.856 v.s. 0.857 
+ DeepKLD: 0.782 v.s. 0.758
+ 
+A0137_04_00.bmp and A0137_06_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.58e+03 
+ PieAPP: 0.505 v.s. 0.506 
+ DeepKLD: 0.534 v.s. 0.501
+ 
+A0137_04_12.bmp and A0137_06_23.bmp: 
+ MOS: 1.56e+03 v.s. 1.49e+03 
+ PieAPP: 0.332 v.s. 0.333 
+ DeepKLD: 0.532 v.s. 0.415
+ 
+A0137_05_07.bmp and A0137_06_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.48e+03 
+ PieAPP: 1.43 v.s. 1.43 
+ DeepKLD: 0.832 v.s. 0.67
+ 
+A0138_00_02.bmp and A0138_04_02.bmp: 
+ MOS: 1.56e+03 v.s. 1.66e+03 
+ PieAPP: 0.489 v.s. 0.488 
+ DeepKLD: 0.578 v.s. 0.517
+ 
+A0138_00_04.bmp and A0138_06_13.bmp: 
+ MOS: 1.36e+03 v.s. 1.25e+03 
+ PieAPP: 3.44 v.s. 3.44 
+ DeepKLD: 0.828 v.s. 0.777
+ 
+A0138_01_04.bmp and A0138_03_15.bmp: 
+ MOS: 1.48e+03 v.s. 1.37e+03 
+ PieAPP: 1.9 v.s. 1.9 
+ DeepKLD: 0.756 v.s. 0.763
+ 
+A0138_03_00.bmp and A0138_05_02.bmp: 
+ MOS: 1.4e+03 v.s. 1.33e+03 
+ PieAPP: 2.1 v.s. 2.1 
+ DeepKLD: 0.81 v.s. 0.824
+ 
+A0138_04_03.bmp and A0138_06_16.bmp: 
+ MOS: 1.56e+03 v.s. 1.53e+03 
+ PieAPP: 0.752 v.s. 0.751 
+ DeepKLD: 0.624 v.s. 0.549
+ 
+A0138_05_04.bmp and A0138_05_10.bmp: 
+ MOS: 1.57e+03 v.s. 1.56e+03 
+ PieAPP: 0.931 v.s. 0.932 
+ DeepKLD: 0.706 v.s. 0.725
+ 
+A0139_03_00.bmp and A0139_03_21.bmp: 
+ MOS: 1.52e+03 v.s. 1.37e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.77 v.s. 0.894
+ 
+A0139_03_09.bmp and A0139_06_05.bmp: 
+ MOS: 1.52e+03 v.s. 1.4e+03 
+ PieAPP: 0.776 v.s. 0.777 
+ DeepKLD: 0.752 v.s. 0.659
+ 
+A0139_03_14.bmp and A0139_03_15.bmp: 
+ MOS: 1.53e+03 v.s. 1.6e+03 
+ PieAPP: 0.908 v.s. 0.909 
+ DeepKLD: 0.736 v.s. 0.752
+ 
+A0141_03_03.bmp and A0141_05_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.792 v.s. 0.8
+ 
+A0141_03_04.bmp and A0141_05_00.bmp: 
+ MOS: 1.45e+03 v.s. 1.5e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.792 v.s. 0.8
+ 
+A0141_03_05.bmp and A0141_05_00.bmp: 
+ MOS: 1.43e+03 v.s. 1.5e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.792 v.s. 0.8
+ 
+A0141_03_09.bmp and A0141_05_05.bmp: 
+ MOS: 1.41e+03 v.s. 1.39e+03 
+ PieAPP: 1.19 v.s. 1.2 
+ DeepKLD: 0.798 v.s. 0.84
+ 
+A0141_03_18.bmp and A0141_03_20.bmp: 
+ MOS: 1.5e+03 v.s. 1.19e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.8 v.s. 0.885
+ 
+A0142_00_02.bmp and A0142_04_02.bmp: 
+ MOS: 1.58e+03 v.s. 1.59e+03 
+ PieAPP: 0.52 v.s. 0.52 
+ DeepKLD: 0.472 v.s. 0.544
+ 
+A0142_00_05.bmp and A0142_04_12.bmp: 
+ MOS: 1.62e+03 v.s. 1.56e+03 
+ PieAPP: 0.518 v.s. 0.518 
+ DeepKLD: 0.481 v.s. 0.546
+ 
+A0142_01_05.bmp and A0142_06_11.bmp: 
+ MOS: 1.32e+03 v.s. 1.43e+03 
+ PieAPP: 2.07 v.s. 2.07 
+ DeepKLD: 0.708 v.s. 0.636
+ 
+A0142_01_08.bmp and A0142_06_14.bmp: 
+ MOS: 1.38e+03 v.s. 1.39e+03 
+ PieAPP: 1.64 v.s. 1.64 
+ DeepKLD: 0.714 v.s. 0.649
+ 
+A0142_01_14.bmp and A0142_05_12.bmp: 
+ MOS: 1.44e+03 v.s. 1.56e+03 
+ PieAPP: 0.713 v.s. 0.713 
+ DeepKLD: 0.641 v.s. 0.594
+ 
+A0142_02_09.bmp and A0142_04_03.bmp: 
+ MOS: 1.4e+03 v.s. 1.49e+03 
+ PieAPP: 0.72 v.s. 0.721 
+ DeepKLD: 0.689 v.s. 0.644
+ 
+A0142_03_01.bmp and A0142_04_08.bmp: 
+ MOS: 1.41e+03 v.s. 1.52e+03 
+ PieAPP: 0.567 v.s. 0.567 
+ DeepKLD: 0.682 v.s. 0.567
+ 
+A0142_03_02.bmp and A0142_05_06.bmp: 
+ MOS: 1.41e+03 v.s. 1.35e+03 
+ PieAPP: 1.08 v.s. 1.08 
+ DeepKLD: 0.691 v.s. 0.805
+ 
+A0142_03_06.bmp and A0142_05_11.bmp: 
+ MOS: 1.54e+03 v.s. 1.47e+03 
+ PieAPP: 0.495 v.s. 0.496 
+ DeepKLD: 0.672 v.s. 0.56
+ 
+A0142_04_04.bmp and A0142_04_11.bmp: 
+ MOS: 1.41e+03 v.s. 1.46e+03 
+ PieAPP: 0.781 v.s. 0.781 
+ DeepKLD: 0.71 v.s. 0.671
+ 
+A0142_04_09.bmp and A0142_05_00.bmp: 
+ MOS: 1.4e+03 v.s. 1.48e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.679 v.s. 0.711
+ 
+A0142_05_11.bmp and A0142_05_13.bmp: 
+ MOS: 1.47e+03 v.s. 1.21e+03 
+ PieAPP: 0.496 v.s. 0.495 
+ DeepKLD: 0.56 v.s. 0.672
+ 
+A0143_00_02.bmp and A0143_00_11.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 0.646 v.s. 0.645 
+ DeepKLD: 0.587 v.s. 0.583
+ 
+A0143_03_09.bmp and A0143_05_11.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ PieAPP: 0.776 v.s. 0.776 
+ DeepKLD: 0.741 v.s. 0.662
+ 
+A0143_05_06.bmp and A0143_06_21.bmp: 
+ MOS: 1.39e+03 v.s. 1.42e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.854 v.s. 0.625
+ 
+A0145_00_00.bmp and A0145_05_06.bmp: 
+ MOS: 1.59e+03 v.s. 1.47e+03 
+ PieAPP: 0.689 v.s. 0.688 
+ DeepKLD: 0.429 v.s. 0.733
+ 
+A0145_00_10.bmp and A0145_05_02.bmp: 
+ MOS: 1.46e+03 v.s. 1.21e+03 
+ PieAPP: 1.7 v.s. 1.7 
+ DeepKLD: 0.627 v.s. 0.748
+ 
+A0145_01_00.bmp and A0145_01_03.bmp: 
+ MOS: 1.63e+03 v.s. 1.54e+03 
+ PieAPP: 0.114 v.s. 0.114 
+ DeepKLD: 0.265 v.s. 0.257
+ 
+A0145_01_00.bmp and A0145_02_02.bmp: 
+ MOS: 1.63e+03 v.s. 1.57e+03 
+ PieAPP: 0.114 v.s. 0.113 
+ DeepKLD: 0.265 v.s. 0.271
+ 
+A0145_01_03.bmp and A0145_02_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.57e+03 
+ PieAPP: 0.114 v.s. 0.113 
+ DeepKLD: 0.257 v.s. 0.271
+ 
+A0145_01_14.bmp and A0145_04_05.bmp: 
+ MOS: 1.6e+03 v.s. 1.51e+03 
+ PieAPP: 0.515 v.s. 0.515 
+ DeepKLD: 0.474 v.s. 0.546
+ 
+A0145_02_09.bmp and A0145_03_03.bmp: 
+ MOS: 1.65e+03 v.s. 1.51e+03 
+ PieAPP: 0.519 v.s. 0.518 
+ DeepKLD: 0.563 v.s. 0.471
+ 
+A0145_02_09.bmp and A0145_03_04.bmp: 
+ MOS: 1.65e+03 v.s. 1.55e+03 
+ PieAPP: 0.519 v.s. 0.518 
+ DeepKLD: 0.563 v.s. 0.471
+ 
+A0145_02_09.bmp and A0145_03_05.bmp: 
+ MOS: 1.65e+03 v.s. 1.57e+03 
+ PieAPP: 0.519 v.s. 0.518 
+ DeepKLD: 0.563 v.s. 0.471
+ 
+A0145_03_12.bmp and A0145_04_11.bmp: 
+ MOS: 1.5e+03 v.s. 1.41e+03 
+ PieAPP: 0.67 v.s. 0.67 
+ DeepKLD: 0.544 v.s. 0.657
+ 
+A0146_00_02.bmp and A0146_06_16.bmp: 
+ MOS: 1.43e+03 v.s. 1.52e+03 
+ PieAPP: 0.552 v.s. 0.552 
+ DeepKLD: 0.549 v.s. 0.42
+ 
+A0146_01_01.bmp and A0146_03_00.bmp: 
+ MOS: 1.43e+03 v.s. 1.47e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.69 v.s. 0.694
+ 
+A0146_01_11.bmp and A0146_03_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.47e+03 
+ PieAPP: 1.26 v.s. 1.27 
+ DeepKLD: 0.68 v.s. 0.678
+ 
+A0146_01_11.bmp and A0146_03_04.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 1.26 v.s. 1.27 
+ DeepKLD: 0.68 v.s. 0.678
+ 
+A0146_01_11.bmp and A0146_03_05.bmp: 
+ MOS: 1.47e+03 v.s. 1.43e+03 
+ PieAPP: 1.26 v.s. 1.27 
+ DeepKLD: 0.68 v.s. 0.678
+ 
+A0146_03_09.bmp and A0146_06_24.bmp: 
+ MOS: 1.46e+03 v.s. 1.61e+03 
+ PieAPP: 0.801 v.s. 0.801 
+ DeepKLD: 0.677 v.s. 0.479
+ 
+A0146_04_01.bmp and A0146_04_03.bmp: 
+ MOS: 1.47e+03 v.s. 1.55e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.677 v.s. 0.658
+ 
+A0146_05_09.bmp and A0146_06_07.bmp: 
+ MOS: 1.39e+03 v.s. 1.55e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.768 v.s. 0.596
+ 
+A0146_06_18.bmp and A0146_06_19.bmp: 
+ MOS: 1.54e+03 v.s. 1.55e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.663 v.s. 0.639
+ 
+A0148_00_08.bmp and A0148_06_08.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.856 v.s. 0.856 
+ DeepKLD: 0.588 v.s. 0.531
+ 
+A0148_02_00.bmp and A0148_03_14.bmp: 
+ MOS: 1.54e+03 v.s. 1.62e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.62 v.s. 0.716
+ 
+A0148_02_01.bmp and A0148_03_14.bmp: 
+ MOS: 1.51e+03 v.s. 1.62e+03 
+ PieAPP: 1.22 v.s. 1.22 
+ DeepKLD: 0.62 v.s. 0.716
+ 
+A0149_00_03.bmp and A0149_04_04.bmp: 
+ MOS: 1.41e+03 v.s. 1.49e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.647 v.s. 0.652
+ 
+A0149_01_10.bmp and A0149_06_20.bmp: 
+ MOS: 1.72e+03 v.s. 1.55e+03 
+ PieAPP: 0.53 v.s. 0.529 
+ DeepKLD: 0.515 v.s. 0.472
+ 
+A0149_01_14.bmp and A0149_04_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.53e+03 
+ PieAPP: 1.23 v.s. 1.23 
+ DeepKLD: 0.628 v.s. 0.611
+ 
+A0149_04_02.bmp and A0149_04_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.68e+03 
+ PieAPP: 0.678 v.s. 0.677 
+ DeepKLD: 0.503 v.s. 0.504
+ 
+A0150_01_03.bmp and A0150_06_23.bmp: 
+ MOS: 1.61e+03 v.s. 1.7e+03 
+ PieAPP: 0.472 v.s. 0.471 
+ DeepKLD: 0.59 v.s. 0.512
+ 
+A0150_02_09.bmp and A0150_04_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 1.47 v.s. 1.47 
+ DeepKLD: 0.747 v.s. 0.694
+ 
+A0150_03_09.bmp and A0150_06_24.bmp: 
+ MOS: 1.52e+03 v.s. 1.56e+03 
+ PieAPP: 0.928 v.s. 0.928 
+ DeepKLD: 0.715 v.s. 0.632
+ 
+A0150_05_11.bmp and A0150_06_26.bmp: 
+ MOS: 1.34e+03 v.s. 1.44e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.697 v.s. 0.688
+ 
+A0151_00_09.bmp and A0151_06_11.bmp: 
+ MOS: 1.53e+03 v.s. 1.37e+03 
+ PieAPP: 1.44 v.s. 1.44 
+ DeepKLD: 0.629 v.s. 0.587
+ 
+A0151_01_01.bmp and A0151_06_26.bmp: 
+ MOS: 1.44e+03 v.s. 1.52e+03 
+ PieAPP: 1.28 v.s. 1.28 
+ DeepKLD: 0.614 v.s. 0.576
+ 
+A0151_01_09.bmp and A0151_02_04.bmp: 
+ MOS: 1.54e+03 v.s. 1.76e+03 
+ PieAPP: 0.288 v.s. 0.287 
+ DeepKLD: 0.45 v.s. 0.568
+ 
+A0151_01_14.bmp and A0151_05_07.bmp: 
+ MOS: 1.43e+03 v.s. 1.33e+03 
+ PieAPP: 1.61 v.s. 1.62 
+ DeepKLD: 0.655 v.s. 0.74
+ 
+A0151_02_03.bmp and A0151_06_16.bmp: 
+ MOS: 1.6e+03 v.s. 1.57e+03 
+ PieAPP: 0.257 v.s. 0.256 
+ DeepKLD: 0.453 v.s. 0.378
+ 
+A0151_03_21.bmp and A0151_06_04.bmp: 
+ MOS: 1.52e+03 v.s. 1.48e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.73 v.s. 0.642
+ 
+A0151_04_08.bmp and A0151_06_20.bmp: 
+ MOS: 1.61e+03 v.s. 1.75e+03 
+ PieAPP: 0.497 v.s. 0.497 
+ DeepKLD: 0.519 v.s. 0.509
+ 
+A0152_00_05.bmp and A0152_04_12.bmp: 
+ MOS: 1.57e+03 v.s. 1.61e+03 
+ PieAPP: 0.479 v.s. 0.48 
+ DeepKLD: 0.591 v.s. 0.549
+ 
+A0152_00_05.bmp and A0152_06_05.bmp: 
+ MOS: 1.57e+03 v.s. 1.61e+03 
+ PieAPP: 0.479 v.s. 0.48 
+ DeepKLD: 0.591 v.s. 0.585
+ 
+A0152_03_22.bmp and A0152_06_20.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ PieAPP: 0.779 v.s. 0.778 
+ DeepKLD: 0.803 v.s. 0.611
+ 
+A0152_06_17.bmp and A0152_06_25.bmp: 
+ MOS: 1.52e+03 v.s. 1.64e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.689 v.s. 0.687
+ 
+A0153_01_10.bmp and A0153_04_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.5e+03 
+ PieAPP: 0.523 v.s. 0.523 
+ DeepKLD: 0.499 v.s. 0.491
+ 
+A0153_03_07.bmp and A0153_06_08.bmp: 
+ MOS: 1.48e+03 v.s. 1.48e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.631 v.s. 0.538
+ 
+A0153_03_13.bmp and A0153_03_15.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ PieAPP: 0.942 v.s. 0.941 
+ DeepKLD: 0.626 v.s. 0.623
+ 
+A0155_00_08.bmp and A0155_06_19.bmp: 
+ MOS: 1.55e+03 v.s. 1.54e+03 
+ PieAPP: 0.663 v.s. 0.663 
+ DeepKLD: 0.58 v.s. 0.712
+ 
+A0156_00_00.bmp and A0156_03_11.bmp: 
+ MOS: 1.55e+03 v.s. 1.43e+03 
+ PieAPP: 0.679 v.s. 0.679 
+ DeepKLD: 0.372 v.s. 0.429
+ 
+A0156_00_00.bmp and A0156_03_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.38e+03 
+ PieAPP: 0.679 v.s. 0.679 
+ DeepKLD: 0.372 v.s. 0.686
+ 
+A0156_00_06.bmp and A0156_01_07.bmp: 
+ MOS: 1.49e+03 v.s. 1.57e+03 
+ PieAPP: 0.389 v.s. 0.388 
+ DeepKLD: 0.428 v.s. 0.371
+ 
+A0156_00_11.bmp and A0156_01_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.59e+03 
+ PieAPP: 0.163 v.s. 0.162 
+ DeepKLD: 0.248 v.s. 0.235
+ 
+A0156_01_13.bmp and A0156_06_19.bmp: 
+ MOS: 1.55e+03 v.s. 1.5e+03 
+ PieAPP: 0.317 v.s. 0.317 
+ DeepKLD: 0.313 v.s. 0.467
+ 
+A0156_03_07.bmp and A0156_03_14.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ PieAPP: 0.492 v.s. 0.491 
+ DeepKLD: 0.456 v.s. 0.412
+ 
+A0156_03_08.bmp and A0156_03_13.bmp: 
+ MOS: 1.61e+03 v.s. 1.49e+03 
+ PieAPP: 0.438 v.s. 0.438 
+ DeepKLD: 0.484 v.s. 0.447
+ 
+A0156_03_11.bmp and A0156_03_21.bmp: 
+ MOS: 1.43e+03 v.s. 1.38e+03 
+ PieAPP: 0.679 v.s. 0.679 
+ DeepKLD: 0.429 v.s. 0.686
+ 
+A0156_03_18.bmp and A0156_06_20.bmp: 
+ MOS: 1.54e+03 v.s. 1.55e+03 
+ PieAPP: 0.408 v.s. 0.408 
+ DeepKLD: 0.472 v.s. 0.498
+ 
+A0156_05_05.bmp and A0156_05_09.bmp: 
+ MOS: 1.32e+03 v.s. 1.44e+03 
+ PieAPP: 0.886 v.s. 0.886 
+ DeepKLD: 0.648 v.s. 0.596
+ 
+A0156_06_06.bmp and A0156_06_07.bmp: 
+ MOS: 1.13e+03 v.s. 1.32e+03 
+ PieAPP: 1.39 v.s. 1.39 
+ DeepKLD: 0.674 v.s. 0.644
+ 
+A0157_00_04.bmp and A0157_05_00.bmp: 
+ MOS: 1.39e+03 v.s. 1.43e+03 
+ PieAPP: 1.5 v.s. 1.5 
+ DeepKLD: 0.64 v.s. 0.668
+ 
+A0157_00_09.bmp and A0157_03_14.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ PieAPP: 1.2 v.s. 1.2 
+ DeepKLD: 0.597 v.s. 0.598
+ 
+A0157_01_07.bmp and A0157_05_04.bmp: 
+ MOS: 1.47e+03 v.s. 1.47e+03 
+ PieAPP: 0.909 v.s. 0.909 
+ DeepKLD: 0.58 v.s. 0.647
+ 
+A0157_03_06.bmp and A0157_06_18.bmp: 
+ MOS: 1.52e+03 v.s. 1.51e+03 
+ PieAPP: 0.722 v.s. 0.723 
+ DeepKLD: 0.577 v.s. 0.55
+ 
+A0157_03_17.bmp and A0157_03_19.bmp: 
+ MOS: 1.57e+03 v.s. 1.51e+03 
+ PieAPP: 0.717 v.s. 0.716 
+ DeepKLD: 0.587 v.s. 0.581
+ 
+A0157_03_17.bmp and A0157_06_20.bmp: 
+ MOS: 1.57e+03 v.s. 1.39e+03 
+ PieAPP: 0.717 v.s. 0.716 
+ DeepKLD: 0.587 v.s. 0.521
+ 
+A0157_03_17.bmp and A0157_06_25.bmp: 
+ MOS: 1.57e+03 v.s. 1.68e+03 
+ PieAPP: 0.717 v.s. 0.716 
+ DeepKLD: 0.587 v.s. 0.495
+ 
+A0157_03_19.bmp and A0157_06_20.bmp: 
+ MOS: 1.51e+03 v.s. 1.39e+03 
+ PieAPP: 0.716 v.s. 0.716 
+ DeepKLD: 0.581 v.s. 0.521
+ 
+A0157_03_19.bmp and A0157_06_25.bmp: 
+ MOS: 1.51e+03 v.s. 1.68e+03 
+ PieAPP: 0.716 v.s. 0.716 
+ DeepKLD: 0.581 v.s. 0.495
+ 
+A0157_05_13.bmp and A0157_06_18.bmp: 
+ MOS: 1.31e+03 v.s. 1.51e+03 
+ PieAPP: 0.722 v.s. 0.723 
+ DeepKLD: 0.577 v.s. 0.55
+ 
+A0157_06_20.bmp and A0157_06_25.bmp: 
+ MOS: 1.39e+03 v.s. 1.68e+03 
+ PieAPP: 0.716 v.s. 0.716 
+ DeepKLD: 0.521 v.s. 0.495
+ 
+A0158_01_11.bmp and A0158_03_07.bmp: 
+ MOS: 1.45e+03 v.s. 1.45e+03 
+ PieAPP: 1.89 v.s. 1.89 
+ DeepKLD: 0.762 v.s. 0.757
+ 
+A0158_03_00.bmp and A0158_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.749 v.s. 0.765
+ 
+A0158_03_14.bmp and A0158_03_22.bmp: 
+ MOS: 1.48e+03 v.s. 1.28e+03 
+ PieAPP: 1.49 v.s. 1.49 
+ DeepKLD: 0.745 v.s. 0.82
+ 
+A0159_02_09.bmp and A0159_06_22.bmp: 
+ MOS: 1.47e+03 v.s. 1.34e+03 
+ PieAPP: 0.674 v.s. 0.675 
+ DeepKLD: 0.735 v.s. 0.55
+ 
+A0159_04_02.bmp and A0159_05_04.bmp: 
+ MOS: 1.59e+03 v.s. 1.61e+03 
+ PieAPP: 0.372 v.s. 0.372 
+ DeepKLD: 0.54 v.s. 0.749
+ 
+A0159_04_06.bmp and A0159_04_11.bmp: 
+ MOS: 1.6e+03 v.s. 1.44e+03 
+ PieAPP: 1.17 v.s. 1.17 
+ DeepKLD: 0.734 v.s. 0.74
+ 
+A0159_05_08.bmp and A0159_06_02.bmp: 
+ MOS: 1.27e+03 v.s. 1.37e+03 
+ PieAPP: 2.39 v.s. 2.39 
+ DeepKLD: 0.863 v.s. 0.735
+ 
+A0160_03_02.bmp and A0160_04_06.bmp: 
+ MOS: 1.41e+03 v.s. 1.52e+03 
+ PieAPP: 1.69 v.s. 1.69 
+ DeepKLD: 0.818 v.s. 0.738
+ 
+A0160_04_07.bmp and A0160_06_14.bmp: 
+ MOS: 1.42e+03 v.s. 1.43e+03 
+ PieAPP: 2.53 v.s. 2.53 
+ DeepKLD: 0.806 v.s. 0.749
+ 
+A0160_06_06.bmp and A0160_06_19.bmp: 
+ MOS: 1.57e+03 v.s. 1.46e+03 
+ PieAPP: 1.07 v.s. 1.07 
+ DeepKLD: 0.637 v.s. 0.684
+ 
+A0162_00_02.bmp and A0162_06_22.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ PieAPP: 0.814 v.s. 0.813 
+ DeepKLD: 0.626 v.s. 0.534
+ 
+A0162_02_02.bmp and A0162_04_02.bmp: 
+ MOS: 1.6e+03 v.s. 1.67e+03 
+ PieAPP: 0.561 v.s. 0.56 
+ DeepKLD: 0.572 v.s. 0.528
+ 
+A0162_03_15.bmp and A0162_05_09.bmp: 
+ MOS: 1.48e+03 v.s. 1.37e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.771 v.s. 0.789
+ 
+A0162_05_11.bmp and A0162_06_05.bmp: 
+ MOS: 1.41e+03 v.s. 1.54e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.717 v.s. 0.625
+ 
+A0163_01_09.bmp and A0163_01_12.bmp: 
+ MOS: 1.54e+03 v.s. 1.61e+03 
+ PieAPP: 0.232 v.s. 0.232 
+ DeepKLD: 0.355 v.s. 0.352
+ 
+A0163_01_14.bmp and A0163_04_11.bmp: 
+ MOS: 1.57e+03 v.s. 1.43e+03 
+ PieAPP: 1.24 v.s. 1.24 
+ DeepKLD: 0.647 v.s. 0.652
+ 
+A0163_03_01.bmp and A0163_03_19.bmp: 
+ MOS: 1.6e+03 v.s. 1.52e+03 
+ PieAPP: 0.753 v.s. 0.752 
+ DeepKLD: 0.672 v.s. 0.668
+ 
+A0163_03_13.bmp and A0163_04_03.bmp: 
+ MOS: 1.59e+03 v.s. 1.51e+03 
+ PieAPP: 0.969 v.s. 0.969 
+ DeepKLD: 0.653 v.s. 0.638
+ 
+A0163_04_06.bmp and A0163_04_10.bmp: 
+ MOS: 1.44e+03 v.s. 1.38e+03 
+ PieAPP: 1.51 v.s. 1.51 
+ DeepKLD: 0.677 v.s. 0.711
+ 
+A0163_04_12.bmp and A0163_06_20.bmp: 
+ MOS: 1.53e+03 v.s. 1.47e+03 
+ PieAPP: 0.462 v.s. 0.463 
+ DeepKLD: 0.501 v.s. 0.534
+ 
+A0163_05_05.bmp and A0163_06_08.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ PieAPP: 0.794 v.s. 0.793 
+ DeepKLD: 0.735 v.s. 0.507
+ 
+A0164_00_06.bmp and A0164_03_13.bmp: 
+ MOS: 1.44e+03 v.s. 1.58e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.725 v.s. 0.758
+ 
+A0164_01_05.bmp and A0164_02_06.bmp: 
+ MOS: 1.35e+03 v.s. 1.36e+03 
+ PieAPP: 1.89 v.s. 1.89 
+ DeepKLD: 0.756 v.s. 0.763
+ 
+A0164_02_08.bmp and A0164_03_15.bmp: 
+ MOS: 1.51e+03 v.s. 1.48e+03 
+ PieAPP: 1.45 v.s. 1.44 
+ DeepKLD: 0.768 v.s. 0.75
+ 
+A0164_03_00.bmp and A0164_03_01.bmp: 
+ MOS: 1.52e+03 v.s. 1.54e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.807 v.s. 0.795
+ 
+A0164_03_00.bmp and A0164_05_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.51e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.807 v.s. 0.675
+ 
+A0164_03_01.bmp and A0164_05_11.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.795 v.s. 0.675
+ 
+A0164_03_02.bmp and A0164_03_08.bmp: 
+ MOS: 1.49e+03 v.s. 1.38e+03 
+ PieAPP: 1.38 v.s. 1.38 
+ DeepKLD: 0.768 v.s. 0.775
+ 
+A0164_04_01.bmp and A0164_06_24.bmp: 
+ MOS: 1.42e+03 v.s. 1.31e+03 
+ PieAPP: 1.23 v.s. 1.22 
+ DeepKLD: 0.758 v.s. 0.668
+ 
+A0164_05_00.bmp and A0164_06_04.bmp: 
+ MOS: 1.39e+03 v.s. 1.47e+03 
+ PieAPP: 1.5 v.s. 1.5 
+ DeepKLD: 0.759 v.s. 0.799
+ 
+A0165_01_07.bmp and A0165_02_09.bmp: 
+ MOS: 1.41e+03 v.s. 1.51e+03 
+ PieAPP: 1.21 v.s. 1.21 
+ DeepKLD: 0.711 v.s. 0.759
+ 
+A0165_01_08.bmp and A0165_06_02.bmp: 
+ MOS: 1.26e+03 v.s. 1.34e+03 
+ PieAPP: 2.25 v.s. 2.25 
+ DeepKLD: 0.788 v.s. 0.697
+ 
+A0165_03_02.bmp and A0165_03_21.bmp: 
+ MOS: 1.46e+03 v.s. 1.3e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.736 v.s. 0.849
+ 
+A0165_03_09.bmp and A0165_06_24.bmp: 
+ MOS: 1.47e+03 v.s. 1.62e+03 
+ PieAPP: 0.893 v.s. 0.894 
+ DeepKLD: 0.739 v.s. 0.562
+ 
+A0165_03_13.bmp and A0165_06_04.bmp: 
+ MOS: 1.57e+03 v.s. 1.54e+03 
+ PieAPP: 1.01 v.s. 1.01 
+ DeepKLD: 0.725 v.s. 0.722
+ 
+A0165_04_00.bmp and A0165_05_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.44e+03 
+ PieAPP: 0.793 v.s. 0.792 
+ DeepKLD: 0.591 v.s. 0.672
+ 
+A0165_05_04.bmp and A0165_06_19.bmp: 
+ MOS: 1.53e+03 v.s. 1.59e+03 
+ PieAPP: 0.783 v.s. 0.784 
+ DeepKLD: 0.752 v.s. 0.565
+ 
+A0166_00_08.bmp and A0166_05_04.bmp: 
+ MOS: 1.55e+03 v.s. 1.6e+03 
+ PieAPP: 0.485 v.s. 0.485 
+ DeepKLD: 0.436 v.s. 0.685
+ 
+A0166_01_04.bmp and A0166_03_12.bmp: 
+ MOS: 1.53e+03 v.s. 1.56e+03 
+ PieAPP: 0.842 v.s. 0.842 
+ DeepKLD: 0.6 v.s. 0.688
+ 
+A0166_03_18.bmp and A0166_04_02.bmp: 
+ MOS: 1.54e+03 v.s. 1.51e+03 
+ PieAPP: 0.522 v.s. 0.522 
+ DeepKLD: 0.691 v.s. 0.532
+ 
+A0166_05_00.bmp and A0166_06_01.bmp: 
+ MOS: 1.37e+03 v.s. 1.38e+03 
+ PieAPP: 1.69 v.s. 1.69 
+ DeepKLD: 0.72 v.s. 0.646
+ 
+A0166_05_06.bmp and A0166_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ PieAPP: 0.872 v.s. 0.872 
+ DeepKLD: 0.786 v.s. 0.579
+ 
+A0166_05_10.bmp and A0166_06_20.bmp: 
+ MOS: 1.49e+03 v.s. 1.45e+03 
+ PieAPP: 0.706 v.s. 0.705 
+ DeepKLD: 0.706 v.s. 0.618
+ 
+A0167_00_11.bmp and A0167_03_12.bmp: 
+ MOS: 1.33e+03 v.s. 1.36e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.572 v.s. 0.785
+ 
+A0167_01_00.bmp and A0167_03_19.bmp: 
+ MOS: 1.55e+03 v.s. 1.37e+03 
+ PieAPP: 0.68 v.s. 0.68 
+ DeepKLD: 0.549 v.s. 0.775
+ 
+A0167_03_07.bmp and A0167_03_16.bmp: 
+ MOS: 1.31e+03 v.s. 1.39e+03 
+ PieAPP: 1.85 v.s. 1.85 
+ DeepKLD: 0.768 v.s. 0.753
+ 
+A0167_04_09.bmp and A0167_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.46e+03 
+ PieAPP: 1.28 v.s. 1.28 
+ DeepKLD: 0.681 v.s. 0.575
+ 
+A0167_05_12.bmp and A0167_06_20.bmp: 
+ MOS: 1.49e+03 v.s. 1.54e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.695 v.s. 0.625
+ 
+A0170_00_00.bmp and A0170_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.45e+03 
+ PieAPP: 1.19 v.s. 1.19 
+ DeepKLD: 0.487 v.s. 0.664
+ 
+A0170_00_01.bmp and A0170_06_02.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 2.36 v.s. 2.36 
+ DeepKLD: 0.639 v.s. 0.595
+ 
+A0170_00_06.bmp and A0170_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.4e+03 
+ PieAPP: 0.94 v.s. 0.941 
+ DeepKLD: 0.559 v.s. 0.589
+ 
+A0170_01_00.bmp and A0170_02_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.53e+03 
+ PieAPP: 0.276 v.s. 0.276 
+ DeepKLD: 0.351 v.s. 0.337
+ 
+A0170_01_11.bmp and A0170_06_10.bmp: 
+ MOS: 1.45e+03 v.s. 1.34e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.62 v.s. 0.669
+ 
+A0170_03_09.bmp and A0170_06_23.bmp: 
+ MOS: 1.52e+03 v.s. 1.46e+03 
+ PieAPP: 0.264 v.s. 0.263 
+ DeepKLD: 0.735 v.s. 0.325
+ 
+A0170_03_21.bmp and A0170_04_12.bmp: 
+ MOS: 963 v.s. 1.54e+03 
+ PieAPP: 0.448 v.s. 0.449 
+ DeepKLD: 0.881 v.s. 0.518
+ 
+A0170_04_11.bmp and A0170_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.4e+03 
+ PieAPP: 0.942 v.s. 0.941 
+ DeepKLD: 0.67 v.s. 0.589
+ 
+A0170_05_05.bmp and A0170_06_04.bmp: 
+ MOS: 1.48e+03 v.s. 1.56e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.763 v.s. 0.68
+ 
+A0171_01_04.bmp and A0171_03_14.bmp: 
+ MOS: 1.5e+03 v.s. 1.56e+03 
+ PieAPP: 1.47 v.s. 1.47 
+ DeepKLD: 0.72 v.s. 0.745
+ 
+A0171_05_13.bmp and A0171_06_19.bmp: 
+ MOS: 1.29e+03 v.s. 1.58e+03 
+ PieAPP: 0.699 v.s. 0.699 
+ DeepKLD: 0.768 v.s. 0.667
+ 
+A0171_06_14.bmp and A0171_06_25.bmp: 
+ MOS: 1.33e+03 v.s. 1.3e+03 
+ PieAPP: 2.44 v.s. 2.44 
+ DeepKLD: 0.735 v.s. 0.721
+ 
+A0172_00_03.bmp and A0172_01_11.bmp: 
+ MOS: 1.46e+03 v.s. 1.53e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.627 v.s. 0.642
+ 
+A0172_01_04.bmp and A0172_02_09.bmp: 
+ MOS: 1.48e+03 v.s. 1.43e+03 
+ PieAPP: 0.898 v.s. 0.899 
+ DeepKLD: 0.608 v.s. 0.671
+ 
+A0172_01_13.bmp and A0172_03_09.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ PieAPP: 0.701 v.s. 0.702 
+ DeepKLD: 0.568 v.s. 0.642
+ 
+A0172_03_13.bmp and A0172_03_19.bmp: 
+ MOS: 1.5e+03 v.s. 1.54e+03 
+ PieAPP: 0.776 v.s. 0.776 
+ DeepKLD: 0.623 v.s. 0.627
+ 
+A0172_04_06.bmp and A0172_05_09.bmp: 
+ MOS: 1.41e+03 v.s. 1.43e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.63 v.s. 0.698
+ 
+A0172_05_05.bmp and A0172_06_08.bmp: 
+ MOS: 1.41e+03 v.s. 1.55e+03 
+ PieAPP: 1.02 v.s. 1.02 
+ DeepKLD: 0.711 v.s. 0.553
+ 
+A0174_00_02.bmp and A0174_06_08.bmp: 
+ MOS: 1.57e+03 v.s. 1.6e+03 
+ PieAPP: 0.694 v.s. 0.694 
+ DeepKLD: 0.575 v.s. 0.486
+ 
+A0174_01_01.bmp and A0174_02_00.bmp: 
+ MOS: 1.41e+03 v.s. 1.42e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.736 v.s. 0.644
+ 
+A0174_01_01.bmp and A0174_02_01.bmp: 
+ MOS: 1.41e+03 v.s. 1.51e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.736 v.s. 0.644
+ 
+A0174_01_03.bmp and A0174_03_18.bmp: 
+ MOS: 1.56e+03 v.s. 1.53e+03 
+ PieAPP: 0.48 v.s. 0.48 
+ DeepKLD: 0.54 v.s. 0.777
+ 
+A0174_03_02.bmp and A0174_05_07.bmp: 
+ MOS: 1.35e+03 v.s. 1.22e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.793 v.s. 0.865
+ 
+A0174_03_12.bmp and A0174_06_05.bmp: 
+ MOS: 1.53e+03 v.s. 1.5e+03 
+ PieAPP: 0.8 v.s. 0.8 
+ DeepKLD: 0.801 v.s. 0.562
+ 
+A0174_06_06.bmp and A0174_06_07.bmp: 
+ MOS: 1.52e+03 v.s. 1.63e+03 
+ PieAPP: 0.743 v.s. 0.743 
+ DeepKLD: 0.684 v.s. 0.501
+ 
+A0175_00_04.bmp and A0175_06_14.bmp: 
+ MOS: 1.37e+03 v.s. 1.41e+03 
+ PieAPP: 2.58 v.s. 2.58 
+ DeepKLD: 0.734 v.s. 0.679
+ 
+A0175_01_05.bmp and A0175_04_10.bmp: 
+ MOS: 1.34e+03 v.s. 1.35e+03 
+ PieAPP: 2.44 v.s. 2.44 
+ DeepKLD: 0.732 v.s. 0.735
+ 
+A0175_03_08.bmp and A0175_06_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.46e+03 
+ PieAPP: 1.45 v.s. 1.45 
+ DeepKLD: 0.705 v.s. 0.579
+ 
+A0175_03_17.bmp and A0175_06_24.bmp: 
+ MOS: 1.48e+03 v.s. 1.53e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.728 v.s. 0.575
+ 
+A0176_02_07.bmp and A0176_05_09.bmp: 
+ MOS: 1.4e+03 v.s. 1.42e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.687 v.s. 0.737
+ 
+A0176_05_04.bmp and A0176_06_05.bmp: 
+ MOS: 1.6e+03 v.s. 1.48e+03 
+ PieAPP: 0.793 v.s. 0.793 
+ DeepKLD: 0.703 v.s. 0.607
+ 
+A0177_00_02.bmp and A0177_03_06.bmp: 
+ MOS: 1.61e+03 v.s. 1.48e+03 
+ PieAPP: 0.607 v.s. 0.608 
+ DeepKLD: 0.544 v.s. 0.718
+ 
+A0177_00_02.bmp and A0177_05_13.bmp: 
+ MOS: 1.61e+03 v.s. 1.31e+03 
+ PieAPP: 0.607 v.s. 0.608 
+ DeepKLD: 0.544 v.s. 0.718
+ 
+A0177_01_09.bmp and A0177_01_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.67e+03 
+ PieAPP: 0.166 v.s. 0.167 
+ DeepKLD: 0.389 v.s. 0.383
+ 
+A0177_02_08.bmp and A0177_03_18.bmp: 
+ MOS: 1.46e+03 v.s. 1.38e+03 
+ PieAPP: 0.869 v.s. 0.87 
+ DeepKLD: 0.728 v.s. 0.737
+ 
+A0177_03_12.bmp and A0177_05_12.bmp: 
+ MOS: 1.42e+03 v.s. 1.44e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.75 v.s. 0.642
+ 
+A0178_00_02.bmp and A0178_00_11.bmp: 
+ MOS: 1.54e+03 v.s. 1.42e+03 
+ PieAPP: 0.652 v.s. 0.652 
+ DeepKLD: 0.595 v.s. 0.589
+ 
+A0178_00_03.bmp and A0178_01_01.bmp: 
+ MOS: 1.43e+03 v.s. 1.4e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.718 v.s. 0.711
+ 
+A0178_00_06.bmp and A0178_05_12.bmp: 
+ MOS: 1.43e+03 v.s. 1.42e+03 
+ PieAPP: 1.11 v.s. 1.11 
+ DeepKLD: 0.721 v.s. 0.694
+ 
+A0178_01_13.bmp and A0178_06_07.bmp: 
+ MOS: 1.48e+03 v.s. 1.67e+03 
+ PieAPP: 0.973 v.s. 0.972 
+ DeepKLD: 0.681 v.s. 0.492
+ 
+A0178_03_16.bmp and A0178_04_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.38e+03 
+ PieAPP: 1.56 v.s. 1.56 
+ DeepKLD: 0.718 v.s. 0.721
+ 
+A0178_04_05.bmp and A0178_06_10.bmp: 
+ MOS: 1.59e+03 v.s. 1.48e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.64 v.s. 0.643
+ 
+A0178_06_17.bmp and A0178_06_24.bmp: 
+ MOS: 1.54e+03 v.s. 1.68e+03 
+ PieAPP: 0.91 v.s. 0.909 
+ DeepKLD: 0.685 v.s. 0.592
+ 
+A0179_02_09.bmp and A0179_05_10.bmp: 
+ MOS: 1.53e+03 v.s. 1.39e+03 
+ PieAPP: 1 v.s. 1 
+ DeepKLD: 0.777 v.s. 0.737
+ 
+A0179_03_14.bmp and A0179_06_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.61e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.749 v.s. 0.625
+ 
+A0179_03_17.bmp and A0179_06_20.bmp: 
+ MOS: 1.42e+03 v.s. 1.37e+03 
+ PieAPP: 0.984 v.s. 0.984 
+ DeepKLD: 0.777 v.s. 0.655
+ 
+A0180_00_00.bmp and A0180_03_20.bmp: 
+ MOS: 1.45e+03 v.s. 1.44e+03 
+ PieAPP: 1.38 v.s. 1.38 
+ DeepKLD: 0.659 v.s. 0.786
+ 
+A0180_03_00.bmp and A0180_03_21.bmp: 
+ MOS: 1.49e+03 v.s. 1.2e+03 
+ PieAPP: 1.51 v.s. 1.51 
+ DeepKLD: 0.714 v.s. 0.834
+ 
+A0180_03_01.bmp and A0180_05_10.bmp: 
+ MOS: 1.52e+03 v.s. 1.4e+03 
+ PieAPP: 0.936 v.s. 0.937 
+ DeepKLD: 0.699 v.s. 0.723
+ 
+A0180_03_07.bmp and A0180_06_04.bmp: 
+ MOS: 1.57e+03 v.s. 1.39e+03 
+ PieAPP: 1.48 v.s. 1.48 
+ DeepKLD: 0.721 v.s. 0.709
+ 
+A0180_03_08.bmp and A0180_05_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.37e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.711 v.s. 0.77
+ 
+A0180_03_17.bmp and A0180_06_21.bmp: 
+ MOS: 1.54e+03 v.s. 1.29e+03 
+ PieAPP: 0.905 v.s. 0.906 
+ DeepKLD: 0.701 v.s. 0.557
+ 
+A0181_01_09.bmp and A0181_01_12.bmp: 
+ MOS: 1.64e+03 v.s. 1.63e+03 
+ PieAPP: 0.327 v.s. 0.326 
+ DeepKLD: 0.392 v.s. 0.388
+ 
+A0181_03_00.bmp and A0181_04_01.bmp: 
+ MOS: 1.47e+03 v.s. 1.48e+03 
+ PieAPP: 0.896 v.s. 0.895 
+ DeepKLD: 0.724 v.s. 0.643
+ 
+A0181_03_15.bmp and A0181_05_11.bmp: 
+ MOS: 1.38e+03 v.s. 1.68e+03 
+ PieAPP: 1.23 v.s. 1.23 
+ DeepKLD: 0.685 v.s. 0.612
+ 
+A0181_03_16.bmp and A0181_04_07.bmp: 
+ MOS: 1.39e+03 v.s. 1.18e+03 
+ PieAPP: 2.37 v.s. 2.36 
+ DeepKLD: 0.689 v.s. 0.721
+ 
+A0181_03_18.bmp and A0181_03_22.bmp: 
+ MOS: 1.47e+03 v.s. 1.31e+03 
+ PieAPP: 0.66 v.s. 0.659 
+ DeepKLD: 0.723 v.s. 0.802
+ 
+A0182_01_14.bmp and A0182_03_00.bmp: 
+ MOS: 1.38e+03 v.s. 1.5e+03 
+ PieAPP: 1.54 v.s. 1.54 
+ DeepKLD: 0.744 v.s. 0.753
+ 
+A0182_04_01.bmp and A0182_06_20.bmp: 
+ MOS: 1.43e+03 v.s. 1.54e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.696 v.s. 0.619
+ 
+A0182_04_04.bmp and A0182_04_11.bmp: 
+ MOS: 1.49e+03 v.s. 1.51e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.748 v.s. 0.74
+ 
+A0182_06_04.bmp and A0182_06_17.bmp: 
+ MOS: 1.51e+03 v.s. 1.43e+03 
+ PieAPP: 1.61 v.s. 1.61 
+ DeepKLD: 0.747 v.s. 0.707
+ 
+A0183_03_14.bmp and A0183_06_16.bmp: 
+ MOS: 1.54e+03 v.s. 1.46e+03 
+ PieAPP: 0.725 v.s. 0.725 
+ DeepKLD: 0.805 v.s. 0.571
+ 
+A0183_05_09.bmp and A0183_06_17.bmp: 
+ MOS: 1.36e+03 v.s. 1.46e+03 
+ PieAPP: 1.23 v.s. 1.23 
+ DeepKLD: 0.821 v.s. 0.709
+ 
+A0184_01_04.bmp and A0184_05_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.39e+03 
+ PieAPP: 1.21 v.s. 1.21 
+ DeepKLD: 0.652 v.s. 0.753
+ 
+A0184_01_11.bmp and A0184_03_20.bmp: 
+ MOS: 1.41e+03 v.s. 1.34e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.682 v.s. 0.796
+ 
+A0184_06_05.bmp and A0184_06_07.bmp: 
+ MOS: 1.53e+03 v.s. 1.58e+03 
+ PieAPP: 0.994 v.s. 0.994 
+ DeepKLD: 0.587 v.s. 0.634
+ 
+A0185_01_00.bmp and A0185_06_19.bmp: 
+ MOS: 1.57e+03 v.s. 1.6e+03 
+ PieAPP: 0.527 v.s. 0.527 
+ DeepKLD: 0.574 v.s. 0.616
+ 
+A0185_03_13.bmp and A0185_05_10.bmp: 
+ MOS: 1.59e+03 v.s. 1.42e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.764 v.s. 0.778
+ 
+A0185_04_03.bmp and A0185_06_20.bmp: 
+ MOS: 1.55e+03 v.s. 1.55e+03 
+ PieAPP: 0.847 v.s. 0.846 
+ DeepKLD: 0.691 v.s. 0.591
+ 
+A0185_04_11.bmp and A0185_05_12.bmp: 
+ MOS: 1.49e+03 v.s. 1.46e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.737 v.s. 0.703
+ 
+A0186_01_07.bmp and A0186_04_06.bmp: 
+ MOS: 1.47e+03 v.s. 1.48e+03 
+ PieAPP: 1.61 v.s. 1.61 
+ DeepKLD: 0.696 v.s. 0.699
+ 
+A0186_03_01.bmp and A0186_03_19.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ PieAPP: 0.881 v.s. 0.881 
+ DeepKLD: 0.719 v.s. 0.707
+ 
+A0186_04_02.bmp and A0186_04_12.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ PieAPP: 0.511 v.s. 0.511 
+ DeepKLD: 0.529 v.s. 0.588
+ 
+A0187_00_09.bmp and A0187_06_11.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 1.66 v.s. 1.66 
+ DeepKLD: 0.749 v.s. 0.698
+ 
+A0187_01_02.bmp and A0187_03_16.bmp: 
+ MOS: 1.42e+03 v.s. 1.48e+03 
+ PieAPP: 2.1 v.s. 2.1 
+ DeepKLD: 0.783 v.s. 0.757
+ 
+A0187_03_01.bmp and A0187_03_15.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.748 v.s. 0.731
+ 
+A0187_03_06.bmp and A0187_06_21.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ PieAPP: 0.822 v.s. 0.821 
+ DeepKLD: 0.749 v.s. 0.571
+ 
+A0187_05_13.bmp and A0187_06_21.bmp: 
+ MOS: 1.37e+03 v.s. 1.49e+03 
+ PieAPP: 0.822 v.s. 0.821 
+ DeepKLD: 0.749 v.s. 0.571
+ 
+A0188_01_00.bmp and A0188_05_04.bmp: 
+ MOS: 1.56e+03 v.s. 1.59e+03 
+ PieAPP: 0.618 v.s. 0.618 
+ DeepKLD: 0.603 v.s. 0.715
+ 
+A0188_01_07.bmp and A0188_03_14.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.717 v.s. 0.726
+ 
+A0188_02_00.bmp and A0188_03_02.bmp: 
+ MOS: 1.46e+03 v.s. 1.49e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.639 v.s. 0.727
+ 
+A0188_02_01.bmp and A0188_03_02.bmp: 
+ MOS: 1.55e+03 v.s. 1.49e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.639 v.s. 0.727
+ 
+A0189_01_01.bmp and A0189_03_07.bmp: 
+ MOS: 1.52e+03 v.s. 1.41e+03 
+ PieAPP: 1.39 v.s. 1.39 
+ DeepKLD: 0.683 v.s. 0.696
+ 
+A0189_01_02.bmp and A0189_02_05.bmp: 
+ MOS: 1.33e+03 v.s. 1.35e+03 
+ PieAPP: 2.35 v.s. 2.36 
+ DeepKLD: 0.768 v.s. 0.738
+ 
+A0189_03_01.bmp and A0189_03_17.bmp: 
+ MOS: 1.42e+03 v.s. 1.46e+03 
+ PieAPP: 0.81 v.s. 0.81 
+ DeepKLD: 0.699 v.s. 0.71
+ 
+A0189_04_06.bmp and A0189_06_08.bmp: 
+ MOS: 1.4e+03 v.s. 1.6e+03 
+ PieAPP: 1.3 v.s. 1.31 
+ DeepKLD: 0.692 v.s. 0.547
+ 
+A0189_04_11.bmp and A0189_05_12.bmp: 
+ MOS: 1.5e+03 v.s. 1.53e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.683 v.s. 0.63
+ 
+A0190_01_11.bmp and A0190_03_14.bmp: 
+ MOS: 1.47e+03 v.s. 1.53e+03 
+ PieAPP: 1.63 v.s. 1.63 
+ DeepKLD: 0.701 v.s. 0.697
+ 
+A0190_03_16.bmp and A0190_03_18.bmp: 
+ MOS: 1.45e+03 v.s. 1.44e+03 
+ PieAPP: 1.7 v.s. 1.71 
+ DeepKLD: 0.715 v.s. 0.731
+ 
+A0193_00_00.bmp and A0193_04_04.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ PieAPP: 1.39 v.s. 1.39 
+ DeepKLD: 0.65 v.s. 0.762
+ 
+A0193_00_06.bmp and A0193_03_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.43e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.721 v.s. 0.757
+ 
+A0193_01_00.bmp and A0193_06_19.bmp: 
+ MOS: 1.58e+03 v.s. 1.73e+03 
+ PieAPP: 0.464 v.s. 0.464 
+ DeepKLD: 0.53 v.s. 0.593
+ 
+A0193_01_01.bmp and A0193_03_14.bmp: 
+ MOS: 1.45e+03 v.s. 1.43e+03 
+ PieAPP: 1.39 v.s. 1.4 
+ DeepKLD: 0.698 v.s. 0.721
+ 
+A0193_03_03.bmp and A0193_03_10.bmp: 
+ MOS: 1.37e+03 v.s. 1.43e+03 
+ PieAPP: 1.58 v.s. 1.58 
+ DeepKLD: 0.739 v.s. 0.719
+ 
+A0193_03_04.bmp and A0193_03_10.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 1.58 v.s. 1.58 
+ DeepKLD: 0.739 v.s. 0.719
+ 
+A0193_03_05.bmp and A0193_03_10.bmp: 
+ MOS: 1.44e+03 v.s. 1.43e+03 
+ PieAPP: 1.58 v.s. 1.58 
+ DeepKLD: 0.739 v.s. 0.719
+ 
+A0193_04_10.bmp and A0193_06_00.bmp: 
+ MOS: 1.39e+03 v.s. 1.43e+03 
+ PieAPP: 1.94 v.s. 1.94 
+ DeepKLD: 0.778 v.s. 0.658
+ 
+A0194_04_11.bmp and A0194_06_22.bmp: 
+ MOS: 1.61e+03 v.s. 1.54e+03 
+ PieAPP: 0.991 v.s. 0.991 
+ DeepKLD: 0.739 v.s. 0.606
+ 
+A0195_00_01.bmp and A0195_06_02.bmp: 
+ MOS: 1.38e+03 v.s. 1.34e+03 
+ PieAPP: 3.51 v.s. 3.51 
+ DeepKLD: 0.723 v.s. 0.704
+ 
+A0195_00_06.bmp and A0195_04_07.bmp: 
+ MOS: 1.4e+03 v.s. 1.27e+03 
+ PieAPP: 2.32 v.s. 2.32 
+ DeepKLD: 0.706 v.s. 0.713
+ 
+A0195_02_00.bmp and A0195_06_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.36e+03 
+ PieAPP: 1.76 v.s. 1.76 
+ DeepKLD: 0.616 v.s. 0.649
+ 
+A0195_02_01.bmp and A0195_06_10.bmp: 
+ MOS: 1.5e+03 v.s. 1.36e+03 
+ PieAPP: 1.76 v.s. 1.76 
+ DeepKLD: 0.616 v.s. 0.649
+ 
+A0195_02_03.bmp and A0195_04_00.bmp: 
+ MOS: 1.63e+03 v.s. 1.6e+03 
+ PieAPP: 0.529 v.s. 0.529 
+ DeepKLD: 0.543 v.s. 0.52
+ 
+A0195_02_08.bmp and A0195_05_01.bmp: 
+ MOS: 1.33e+03 v.s. 1.28e+03 
+ PieAPP: 3.12 v.s. 3.12 
+ DeepKLD: 0.735 v.s. 0.744
+ 
+A0195_03_02.bmp and A0195_03_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.41e+03 
+ PieAPP: 1.89 v.s. 1.89 
+ DeepKLD: 0.707 v.s. 0.711
+ 
+A0195_03_06.bmp and A0195_04_04.bmp: 
+ MOS: 1.62e+03 v.s. 1.46e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.71 v.s. 0.685
+ 
+A0195_03_20.bmp and A0195_03_22.bmp: 
+ MOS: 1.36e+03 v.s. 1.27e+03 
+ PieAPP: 2.79 v.s. 2.79 
+ DeepKLD: 0.763 v.s. 0.753
+ 
+A0195_03_23.bmp and A0195_06_14.bmp: 
+ MOS: 935 v.s. 1.41e+03 
+ PieAPP: 2.6 v.s. 2.6 
+ DeepKLD: 0.788 v.s. 0.669
+ 
+A0195_04_04.bmp and A0195_05_13.bmp: 
+ MOS: 1.46e+03 v.s. 1.35e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.685 v.s. 0.71
+ 
+A0197_01_07.bmp and A0197_04_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.51e+03 
+ PieAPP: 0.744 v.s. 0.744 
+ DeepKLD: 0.618 v.s. 0.735
+ 
+A0197_03_03.bmp and A0197_03_16.bmp: 
+ MOS: 1.47e+03 v.s. 1.4e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.687 v.s. 0.704
+ 
+A0197_03_04.bmp and A0197_03_16.bmp: 
+ MOS: 1.45e+03 v.s. 1.4e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.687 v.s. 0.704
+ 
+A0197_03_05.bmp and A0197_03_16.bmp: 
+ MOS: 1.45e+03 v.s. 1.4e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.687 v.s. 0.704
+ 
+A0197_03_10.bmp and A0197_03_23.bmp: 
+ MOS: 1.47e+03 v.s. 1.26e+03 
+ PieAPP: 1.14 v.s. 1.14 
+ DeepKLD: 0.689 v.s. 0.898
+ 
+A0197_03_13.bmp and A0197_04_12.bmp: 
+ MOS: 1.6e+03 v.s. 1.55e+03 
+ PieAPP: 0.416 v.s. 0.416 
+ DeepKLD: 0.736 v.s. 0.598
+ 
+A0197_05_12.bmp and A0197_06_22.bmp: 
+ MOS: 1.61e+03 v.s. 1.63e+03 
+ PieAPP: 0.683 v.s. 0.683 
+ DeepKLD: 0.6 v.s. 0.537
+ 
+A0198_00_05.bmp and A0198_01_13.bmp: 
+ MOS: 1.57e+03 v.s. 1.52e+03 
+ PieAPP: 0.833 v.s. 0.833 
+ DeepKLD: 0.645 v.s. 0.661
+ 
+A0198_02_00.bmp and A0198_03_10.bmp: 
+ MOS: 1.53e+03 v.s. 1.5e+03 
+ PieAPP: 1.82 v.s. 1.82 
+ DeepKLD: 0.665 v.s. 0.777
+ 
+A0198_02_01.bmp and A0198_03_10.bmp: 
+ MOS: 1.47e+03 v.s. 1.5e+03 
+ PieAPP: 1.82 v.s. 1.82 
+ DeepKLD: 0.665 v.s. 0.777
+ 
+A0198_02_08.bmp and A0198_06_05.bmp: 
+ MOS: 1.56e+03 v.s. 1.51e+03 
+ PieAPP: 1.12 v.s. 1.12 
+ DeepKLD: 0.789 v.s. 0.593
+ 
+A0198_03_04.bmp and A0198_03_19.bmp: 
+ MOS: 1.49e+03 v.s. 1.5e+03 
+ PieAPP: 1.29 v.s. 1.29 
+ DeepKLD: 0.723 v.s. 0.788
+ 
+A0198_03_13.bmp and A0198_03_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.42e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.785 v.s. 0.79
+ 
+A0198_05_06.bmp and A0198_06_03.bmp: 
+ MOS: 1.36e+03 v.s. 1.46e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.884 v.s. 0.628
+ 
+A0198_05_12.bmp and A0198_06_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.58e+03 
+ PieAPP: 0.729 v.s. 0.729 
+ DeepKLD: 0.685 v.s. 0.506
+ 
+A0199_00_01.bmp and A0199_00_04.bmp: 
+ MOS: 1.26e+03 v.s. 1.29e+03 
+ PieAPP: 3.34 v.s. 3.34 
+ DeepKLD: 0.861 v.s. 0.889
+ 
+A0199_01_13.bmp and A0199_04_01.bmp: 
+ MOS: 1.5e+03 v.s. 1.58e+03 
+ PieAPP: 0.729 v.s. 0.728 
+ DeepKLD: 0.678 v.s. 0.655
+ 
+A0199_01_14.bmp and A0199_02_00.bmp: 
+ MOS: 1.5e+03 v.s. 1.39e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.786 v.s. 0.693
+ 
+A0199_01_14.bmp and A0199_02_01.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.786 v.s. 0.693
+ 
+A0200_00_05.bmp and A0200_02_04.bmp: 
+ MOS: 1.54e+03 v.s. 1.63e+03 
+ PieAPP: 0.555 v.s. 0.555 
+ DeepKLD: 0.61 v.s. 0.681
+ 
+A0200_00_06.bmp and A0200_01_07.bmp: 
+ MOS: 1.48e+03 v.s. 1.41e+03 
+ PieAPP: 1.53 v.s. 1.53 
+ DeepKLD: 0.73 v.s. 0.724
+ 
+A0200_00_06.bmp and A0200_06_10.bmp: 
+ MOS: 1.48e+03 v.s. 1.59e+03 
+ PieAPP: 1.53 v.s. 1.53 
+ DeepKLD: 0.73 v.s. 0.654
+ 
+A0200_00_08.bmp and A0200_04_01.bmp: 
+ MOS: 1.56e+03 v.s. 1.46e+03 
+ PieAPP: 0.88 v.s. 0.881 
+ DeepKLD: 0.621 v.s. 0.719
+ 
+A0200_01_07.bmp and A0200_06_10.bmp: 
+ MOS: 1.41e+03 v.s. 1.59e+03 
+ PieAPP: 1.53 v.s. 1.53 
+ DeepKLD: 0.724 v.s. 0.654
+ 
+A0200_02_07.bmp and A0200_03_10.bmp: 
+ MOS: 1.38e+03 v.s. 1.36e+03 
+ PieAPP: 2.04 v.s. 2.04 
+ DeepKLD: 0.752 v.s. 0.719
+ 
+A0200_02_07.bmp and A0200_03_16.bmp: 
+ MOS: 1.38e+03 v.s. 1.42e+03 
+ PieAPP: 2.04 v.s. 2.04 
+ DeepKLD: 0.752 v.s. 0.727
+ 
+A0200_03_09.bmp and A0200_03_17.bmp: 
+ MOS: 1.47e+03 v.s. 1.43e+03 
+ PieAPP: 1.2 v.s. 1.2 
+ DeepKLD: 0.72 v.s. 0.726
+ 
+A0201_00_06.bmp and A0201_03_14.bmp: 
+ MOS: 1.46e+03 v.s. 1.42e+03 
+ PieAPP: 0.702 v.s. 0.701 
+ DeepKLD: 0.59 v.s. 0.596
+ 
+A0201_01_07.bmp and A0201_04_02.bmp: 
+ MOS: 1.51e+03 v.s. 1.61e+03 
+ PieAPP: 0.518 v.s. 0.518 
+ DeepKLD: 0.511 v.s. 0.509
+ 
+A0201_01_09.bmp and A0201_01_12.bmp: 
+ MOS: 1.52e+03 v.s. 1.58e+03 
+ PieAPP: 0.164 v.s. 0.164 
+ DeepKLD: 0.275 v.s. 0.272
+ 
+A0201_02_00.bmp and A0201_02_08.bmp: 
+ MOS: 1.45e+03 v.s. 1.53e+03 
+ PieAPP: 0.84 v.s. 0.84 
+ DeepKLD: 0.481 v.s. 0.626
+ 
+A0201_02_01.bmp and A0201_02_08.bmp: 
+ MOS: 1.47e+03 v.s. 1.53e+03 
+ PieAPP: 0.84 v.s. 0.84 
+ DeepKLD: 0.481 v.s. 0.626
+ 
+A0201_03_23.bmp and A0201_04_07.bmp: 
+ MOS: 1.08e+03 v.s. 1.35e+03 
+ PieAPP: 2 v.s. 2.01 
+ DeepKLD: 0.814 v.s. 0.722
+ 
+A0201_05_05.bmp and A0201_06_22.bmp: 
+ MOS: 1.41e+03 v.s. 1.48e+03 
+ PieAPP: 0.745 v.s. 0.745 
+ DeepKLD: 0.726 v.s. 0.517
+ 
+A0203_01_05.bmp and A0203_03_10.bmp: 
+ MOS: 1.43e+03 v.s. 1.37e+03 
+ PieAPP: 1.58 v.s. 1.58 
+ DeepKLD: 0.733 v.s. 0.695
+ 
+A0203_01_06.bmp and A0203_06_16.bmp: 
+ MOS: 1.69e+03 v.s. 1.52e+03 
+ PieAPP: 0.808 v.s. 0.807 
+ DeepKLD: 0.482 v.s. 0.578
+ 
+A0203_02_00.bmp and A0203_06_10.bmp: 
+ MOS: 1.48e+03 v.s. 1.57e+03 
+ PieAPP: 1.52 v.s. 1.52 
+ DeepKLD: 0.611 v.s. 0.656
+ 
+A0203_02_01.bmp and A0203_06_10.bmp: 
+ MOS: 1.6e+03 v.s. 1.57e+03 
+ PieAPP: 1.52 v.s. 1.52 
+ DeepKLD: 0.611 v.s. 0.656
+ 
+A0203_02_08.bmp and A0203_03_16.bmp: 
+ MOS: 1.37e+03 v.s. 1.33e+03 
+ PieAPP: 1.55 v.s. 1.55 
+ DeepKLD: 0.715 v.s. 0.701
+ 
+A0205_01_01.bmp and A0205_03_09.bmp: 
+ MOS: 1.52e+03 v.s. 1.53e+03 
+ PieAPP: 0.862 v.s. 0.862 
+ DeepKLD: 0.565 v.s. 0.658
+ 
+A0205_03_10.bmp and A0205_05_10.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 1.2 v.s. 1.2 
+ DeepKLD: 0.591 v.s. 0.649
+ 
+A0205_03_11.bmp and A0205_06_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.42e+03 
+ PieAPP: 1.11 v.s. 1.11 
+ DeepKLD: 0.6 v.s. 0.499
+ 
+A0205_04_01.bmp and A0205_04_05.bmp: 
+ MOS: 1.51e+03 v.s. 1.56e+03 
+ PieAPP: 0.963 v.s. 0.963 
+ DeepKLD: 0.653 v.s. 0.555
+ 
+A0206_02_02.bmp and A0206_06_08.bmp: 
+ MOS: 1.65e+03 v.s. 1.54e+03 
+ PieAPP: 0.46 v.s. 0.46 
+ DeepKLD: 0.516 v.s. 0.44
+ 
+A0206_03_02.bmp and A0206_03_08.bmp: 
+ MOS: 1.38e+03 v.s. 1.41e+03 
+ PieAPP: 2.13 v.s. 2.13 
+ DeepKLD: 0.786 v.s. 0.785
+ 
+A0206_04_01.bmp and A0206_06_20.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ PieAPP: 0.79 v.s. 0.789 
+ DeepKLD: 0.658 v.s. 0.603
+ 
+A0207_02_00.bmp and A0207_03_00.bmp: 
+ MOS: 1.53e+03 v.s. 1.41e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.634 v.s. 0.737
+ 
+A0207_02_01.bmp and A0207_03_00.bmp: 
+ MOS: 1.55e+03 v.s. 1.41e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.634 v.s. 0.737
+ 
+A0207_03_17.bmp and A0207_06_24.bmp: 
+ MOS: 1.41e+03 v.s. 1.71e+03 
+ PieAPP: 0.952 v.s. 0.952 
+ DeepKLD: 0.731 v.s. 0.577
+ 
+A0207_04_11.bmp and A0207_05_00.bmp: 
+ MOS: 1.54e+03 v.s. 1.5e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.739 v.s. 0.741
+ 
+A0208_02_08.bmp and A0208_04_08.bmp: 
+ MOS: 1.54e+03 v.s. 1.54e+03 
+ PieAPP: 0.448 v.s. 0.449 
+ DeepKLD: 0.424 v.s. 0.503
+ 
+A0208_03_11.bmp and A0208_03_19.bmp: 
+ MOS: 1.59e+03 v.s. 1.56e+03 
+ PieAPP: 0.382 v.s. 0.381 
+ DeepKLD: 0.395 v.s. 0.423
+ 
+A0208_03_22.bmp and A0208_04_04.bmp: 
+ MOS: 1.57e+03 v.s. 1.36e+03 
+ PieAPP: 0.609 v.s. 0.609 
+ DeepKLD: 0.586 v.s. 0.682
+ 
+A0209_00_05.bmp and A0209_01_00.bmp: 
+ MOS: 1.63e+03 v.s. 1.54e+03 
+ PieAPP: 0.458 v.s. 0.458 
+ DeepKLD: 0.482 v.s. 0.457
+ 
+A0209_00_05.bmp and A0209_06_23.bmp: 
+ MOS: 1.63e+03 v.s. 1.52e+03 
+ PieAPP: 0.458 v.s. 0.458 
+ DeepKLD: 0.482 v.s. 0.377
+ 
+A0209_01_00.bmp and A0209_06_23.bmp: 
+ MOS: 1.54e+03 v.s. 1.52e+03 
+ PieAPP: 0.458 v.s. 0.458 
+ DeepKLD: 0.457 v.s. 0.377
+ 
+A0209_03_01.bmp and A0209_04_01.bmp: 
+ MOS: 1.52e+03 v.s. 1.53e+03 
+ PieAPP: 1.19 v.s. 1.19 
+ DeepKLD: 0.706 v.s. 0.682
+ 
+A0209_03_06.bmp and A0209_03_09.bmp: 
+ MOS: 1.56e+03 v.s. 1.48e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.69 v.s. 0.717
+ 
+A0209_03_09.bmp and A0209_05_13.bmp: 
+ MOS: 1.48e+03 v.s. 1.25e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.717 v.s. 0.69
+ 
+A0209_03_11.bmp and A0209_04_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.48e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.677 v.s. 0.7
+ 
+A0209_04_02.bmp and A0209_06_08.bmp: 
+ MOS: 1.69e+03 v.s. 1.53e+03 
+ PieAPP: 0.694 v.s. 0.695 
+ DeepKLD: 0.559 v.s. 0.455
+ 
+A0209_04_05.bmp and A0209_06_24.bmp: 
+ MOS: 1.62e+03 v.s. 1.54e+03 
+ PieAPP: 1.03 v.s. 1.03 
+ DeepKLD: 0.602 v.s. 0.527
+ 
+A0210_00_08.bmp and A0210_04_12.bmp: 
+ MOS: 1.63e+03 v.s. 1.61e+03 
+ PieAPP: 0.467 v.s. 0.466 
+ DeepKLD: 0.475 v.s. 0.527
+ 
+A0210_02_08.bmp and A0210_03_11.bmp: 
+ MOS: 1.46e+03 v.s. 1.34e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.719 v.s. 0.707
+ 
+A0210_03_19.bmp and A0210_05_12.bmp: 
+ MOS: 1.35e+03 v.s. 1.54e+03 
+ PieAPP: 0.856 v.s. 0.855 
+ DeepKLD: 0.739 v.s. 0.617
+ 
+A0210_03_22.bmp and A0210_05_10.bmp: 
+ MOS: 1.27e+03 v.s. 1.53e+03 
+ PieAPP: 0.939 v.s. 0.94 
+ DeepKLD: 0.838 v.s. 0.687
+ 
+A0210_04_03.bmp and A0210_05_05.bmp: 
+ MOS: 1.59e+03 v.s. 1.33e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.651 v.s. 0.761
+ 
+A0212_01_01.bmp and A0212_06_05.bmp: 
+ MOS: 1.48e+03 v.s. 1.47e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.515 v.s. 0.573
+ 
+A0212_02_00.bmp and A0212_06_20.bmp: 
+ MOS: 1.58e+03 v.s. 1.35e+03 
+ PieAPP: 0.91 v.s. 0.911 
+ DeepKLD: 0.476 v.s. 0.529
+ 
+A0212_02_01.bmp and A0212_06_20.bmp: 
+ MOS: 1.51e+03 v.s. 1.35e+03 
+ PieAPP: 0.91 v.s. 0.911 
+ DeepKLD: 0.476 v.s. 0.529
+ 
+A0212_05_06.bmp and A0212_06_03.bmp: 
+ MOS: 1.4e+03 v.s. 1.46e+03 
+ PieAPP: 1.36 v.s. 1.36 
+ DeepKLD: 0.712 v.s. 0.541
+ 
+A0213_00_06.bmp and A0213_05_06.bmp: 
+ MOS: 1.36e+03 v.s. 1.26e+03 
+ PieAPP: 2.23 v.s. 2.23 
+ DeepKLD: 0.72 v.s. 0.823
+ 
+A0213_00_09.bmp and A0213_03_20.bmp: 
+ MOS: 1.42e+03 v.s. 1.37e+03 
+ PieAPP: 2.47 v.s. 2.47 
+ DeepKLD: 0.728 v.s. 0.783
+ 
+A0213_01_00.bmp and A0213_06_19.bmp: 
+ MOS: 1.59e+03 v.s. 1.52e+03 
+ PieAPP: 0.655 v.s. 0.656 
+ DeepKLD: 0.548 v.s. 0.56
+ 
+A0213_01_03.bmp and A0213_04_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.64e+03 
+ PieAPP: 0.603 v.s. 0.603 
+ DeepKLD: 0.542 v.s. 0.521
+ 
+A0213_02_09.bmp and A0213_06_18.bmp: 
+ MOS: 1.34e+03 v.s. 1.56e+03 
+ PieAPP: 1.77 v.s. 1.77 
+ DeepKLD: 0.743 v.s. 0.707
+ 
+A0213_03_08.bmp and A0213_06_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ PieAPP: 1.65 v.s. 1.65 
+ DeepKLD: 0.719 v.s. 0.621
+ 
+A0214_01_11.bmp and A0214_03_11.bmp: 
+ MOS: 1.43e+03 v.s. 1.53e+03 
+ PieAPP: 1.33 v.s. 1.33 
+ DeepKLD: 0.64 v.s. 0.658
+ 
+A0214_02_00.bmp and A0214_05_00.bmp: 
+ MOS: 1.49e+03 v.s. 1.47e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.531 v.s. 0.652
+ 
+A0214_02_01.bmp and A0214_05_00.bmp: 
+ MOS: 1.46e+03 v.s. 1.47e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.531 v.s. 0.652
+ 
+A0214_03_09.bmp and A0214_03_10.bmp: 
+ MOS: 1.54e+03 v.s. 1.45e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.707 v.s. 0.644
+ 
+A0214_05_05.bmp and A0214_06_20.bmp: 
+ MOS: 1.46e+03 v.s. 1.27e+03 
+ PieAPP: 1.02 v.s. 1.03 
+ DeepKLD: 0.727 v.s. 0.603
+ 
+A0216_03_19.bmp and A0216_04_11.bmp: 
+ MOS: 1.62e+03 v.s. 1.45e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.719 v.s. 0.717
+ 
+A0218_01_14.bmp and A0218_04_06.bmp: 
+ MOS: 1.68e+03 v.s. 1.4e+03 
+ PieAPP: 1.13 v.s. 1.13 
+ DeepKLD: 0.726 v.s. 0.608
+ 
+A0218_03_09.bmp and A0218_05_07.bmp: 
+ MOS: 1.44e+03 v.s. 1.23e+03 
+ PieAPP: 2.26 v.s. 2.26 
+ DeepKLD: 0.737 v.s. 0.846
+ 
+A0218_03_10.bmp and A0218_05_01.bmp: 
+ MOS: 1.51e+03 v.s. 1.35e+03 
+ PieAPP: 1.86 v.s. 1.86 
+ DeepKLD: 0.694 v.s. 0.755
+ 
+A0218_03_11.bmp and A0218_04_07.bmp: 
+ MOS: 1.46e+03 v.s. 1.29e+03 
+ PieAPP: 1.8 v.s. 1.8 
+ DeepKLD: 0.708 v.s. 0.702
+ 
+A0220_00_01.bmp and A0220_06_03.bmp: 
+ MOS: 1.45e+03 v.s. 1.51e+03 
+ PieAPP: 0.842 v.s. 0.842 
+ DeepKLD: 0.33 v.s. 0.328
+ 
+A0220_01_05.bmp and A0220_02_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ PieAPP: 0.399 v.s. 0.4 
+ DeepKLD: 0.301 v.s. 0.32
+ 
+A0220_01_07.bmp and A0220_03_07.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ PieAPP: 0.239 v.s. 0.239 
+ DeepKLD: 0.266 v.s. 0.289
+ 
+A0220_03_02.bmp and A0220_03_18.bmp: 
+ MOS: 1.51e+03 v.s. 1.5e+03 
+ PieAPP: 0.302 v.s. 0.302 
+ DeepKLD: 0.309 v.s. 0.293
+ 
+A0220_03_12.bmp and A0220_04_08.bmp: 
+ MOS: 1.45e+03 v.s. 1.54e+03 
+ PieAPP: 0.677 v.s. 0.677 
+ DeepKLD: 0.371 v.s. 0.466
+ 
+A0221_00_08.bmp and A0221_01_10.bmp: 
+ MOS: 1.57e+03 v.s. 1.64e+03 
+ PieAPP: 0.758 v.s. 0.758 
+ DeepKLD: 0.547 v.s. 0.6
+ 
+A0221_03_16.bmp and A0221_04_04.bmp: 
+ MOS: 1.5e+03 v.s. 1.46e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.725 v.s. 0.757
+ 
+A0222_00_08.bmp and A0222_04_03.bmp: 
+ MOS: 1.56e+03 v.s. 1.59e+03 
+ PieAPP: 0.735 v.s. 0.734 
+ DeepKLD: 0.567 v.s. 0.618
+ 
+A0222_01_01.bmp and A0222_05_11.bmp: 
+ MOS: 1.34e+03 v.s. 1.22e+03 
+ PieAPP: 1.77 v.s. 1.77 
+ DeepKLD: 0.725 v.s. 0.699
+ 
+A0222_03_01.bmp and A0222_03_19.bmp: 
+ MOS: 1.36e+03 v.s. 1.5e+03 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepKLD: 0.766 v.s. 0.764
+ 
+A0222_04_10.bmp and A0222_06_26.bmp: 
+ MOS: 1.39e+03 v.s. 1.38e+03 
+ PieAPP: 1.52 v.s. 1.52 
+ DeepKLD: 0.707 v.s. 0.765
+ 
+A0222_06_09.bmp and A0222_06_22.bmp: 
+ MOS: 1.62e+03 v.s. 1.59e+03 
+ PieAPP: 0.414 v.s. 0.415 
+ DeepKLD: 0.527 v.s. 0.505
+ 
+A0223_01_01.bmp and A0223_03_13.bmp: 
+ MOS: 1.43e+03 v.s. 1.61e+03 
+ PieAPP: 0.623 v.s. 0.624 
+ DeepKLD: 0.469 v.s. 0.549
+ 
+A0223_03_03.bmp and A0223_04_05.bmp: 
+ MOS: 1.53e+03 v.s. 1.49e+03 
+ PieAPP: 0.708 v.s. 0.709 
+ DeepKLD: 0.479 v.s. 0.473
+ 
+A0223_03_04.bmp and A0223_04_05.bmp: 
+ MOS: 1.58e+03 v.s. 1.49e+03 
+ PieAPP: 0.708 v.s. 0.709 
+ DeepKLD: 0.479 v.s. 0.473
+ 
+A0223_03_05.bmp and A0223_04_05.bmp: 
+ MOS: 1.44e+03 v.s. 1.49e+03 
+ PieAPP: 0.708 v.s. 0.709 
+ DeepKLD: 0.479 v.s. 0.473
+ 
+A0223_03_10.bmp and A0223_04_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.5e+03 
+ PieAPP: 0.635 v.s. 0.634 
+ DeepKLD: 0.485 v.s. 0.468
+ 
+A0224_00_00.bmp and A0224_06_09.bmp: 
+ MOS: 1.41e+03 v.s. 1.52e+03 
+ PieAPP: 1.39 v.s. 1.39 
+ DeepKLD: 0.675 v.s. 0.568
+ 
+A0224_00_06.bmp and A0224_01_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.41e+03 
+ PieAPP: 1.25 v.s. 1.26 
+ DeepKLD: 0.739 v.s. 0.727
+ 
+A0224_00_10.bmp and A0224_01_15.bmp: 
+ MOS: 1.4e+03 v.s. 1.09e+03 
+ PieAPP: 2.91 v.s. 2.92 
+ DeepKLD: 0.822 v.s. 0.862
+ 
+A0224_04_03.bmp and A0224_05_11.bmp: 
+ MOS: 1.52e+03 v.s. 1.42e+03 
+ PieAPP: 0.733 v.s. 0.732 
+ DeepKLD: 0.666 v.s. 0.645
+ 
+A0224_06_12.bmp and A0224_06_25.bmp: 
+ MOS: 1.29e+03 v.s. 1.52e+03 
+ PieAPP: 2.81 v.s. 2.81 
+ DeepKLD: 0.775 v.s. 0.716
+ 
+A0225_03_06.bmp and A0225_05_10.bmp: 
+ MOS: 1.57e+03 v.s. 1.41e+03 
+ PieAPP: 0.755 v.s. 0.754 
+ DeepKLD: 0.738 v.s. 0.739
+ 
+A0225_04_06.bmp and A0225_06_04.bmp: 
+ MOS: 1.43e+03 v.s. 1.43e+03 
+ PieAPP: 1.26 v.s. 1.27 
+ DeepKLD: 0.69 v.s. 0.701
+ 
+A0225_05_07.bmp and A0225_06_01.bmp: 
+ MOS: 1.29e+03 v.s. 1.34e+03 
+ PieAPP: 1.79 v.s. 1.79 
+ DeepKLD: 0.853 v.s. 0.678
+ 
+A0225_05_10.bmp and A0225_05_13.bmp: 
+ MOS: 1.41e+03 v.s. 1.39e+03 
+ PieAPP: 0.754 v.s. 0.755 
+ DeepKLD: 0.739 v.s. 0.738
+ 
+A0227_00_02.bmp and A0227_02_03.bmp: 
+ MOS: 1.52e+03 v.s. 1.62e+03 
+ PieAPP: 0.146 v.s. 0.145 
+ DeepKLD: 0.275 v.s. 0.287
+ 
+A0227_01_01.bmp and A0227_04_02.bmp: 
+ MOS: 1.45e+03 v.s. 1.51e+03 
+ PieAPP: 0.427 v.s. 0.427 
+ DeepKLD: 0.484 v.s. 0.48
+ 
+A0227_01_09.bmp and A0227_03_17.bmp: 
+ MOS: 1.58e+03 v.s. 1.36e+03 
+ PieAPP: 0.0852 v.s. 0.0855 
+ DeepKLD: 0.21 v.s. 0.632
+ 
+A0227_01_11.bmp and A0227_03_06.bmp: 
+ MOS: 1.46e+03 v.s. 1.46e+03 
+ PieAPP: 0.597 v.s. 0.597 
+ DeepKLD: 0.535 v.s. 0.548
+ 
+A0227_01_11.bmp and A0227_05_13.bmp: 
+ MOS: 1.46e+03 v.s. 1.39e+03 
+ PieAPP: 0.597 v.s. 0.597 
+ DeepKLD: 0.535 v.s. 0.548
+ 
+A0227_01_14.bmp and A0227_04_11.bmp: 
+ MOS: 1.48e+03 v.s. 1.54e+03 
+ PieAPP: 0.473 v.s. 0.472 
+ DeepKLD: 0.527 v.s. 0.6
+ 
+A0227_02_06.bmp and A0227_05_08.bmp: 
+ MOS: 1.41e+03 v.s. 1.28e+03 
+ PieAPP: 1.12 v.s. 1.12 
+ DeepKLD: 0.574 v.s. 0.757
+ 
+A0227_03_14.bmp and A0227_05_10.bmp: 
+ MOS: 1.55e+03 v.s. 1.41e+03 
+ PieAPP: 0.448 v.s. 0.447 
+ DeepKLD: 0.54 v.s. 0.629
+ 
+A0227_04_05.bmp and A0227_06_23.bmp: 
+ MOS: 1.55e+03 v.s. 1.62e+03 
+ PieAPP: 0.49 v.s. 0.489 
+ DeepKLD: 0.444 v.s. 0.275
+ 
+A0227_06_19.bmp and A0227_06_22.bmp: 
+ MOS: 1.57e+03 v.s. 1.63e+03 
+ PieAPP: 0.616 v.s. 0.616 
+ DeepKLD: 0.637 v.s. 0.5
+ 
+A0228_01_05.bmp and A0228_03_11.bmp: 
+ MOS: 1.45e+03 v.s. 1.38e+03 
+ PieAPP: 1.82 v.s. 1.82 
+ DeepKLD: 0.676 v.s. 0.645
+ 
+A0228_01_06.bmp and A0228_02_04.bmp: 
+ MOS: 1.59e+03 v.s. 1.68e+03 
+ PieAPP: 0.446 v.s. 0.446 
+ DeepKLD: 0.422 v.s. 0.607
+ 
+A0228_02_05.bmp and A0228_06_12.bmp: 
+ MOS: 1.37e+03 v.s. 1.32e+03 
+ PieAPP: 2.54 v.s. 2.54 
+ DeepKLD: 0.689 v.s. 0.657
+ 
+A0228_03_07.bmp and A0228_06_11.bmp: 
+ MOS: 1.35e+03 v.s. 1.48e+03 
+ PieAPP: 1.7 v.s. 1.7 
+ DeepKLD: 0.67 v.s. 0.574
+ 
+A0228_06_01.bmp and A0228_06_04.bmp: 
+ MOS: 1.5e+03 v.s. 1.43e+03 
+ PieAPP: 1.38 v.s. 1.38 
+ DeepKLD: 0.525 v.s. 0.648
+ 
+A0229_01_09.bmp and A0229_04_00.bmp: 
+ MOS: 1.61e+03 v.s. 1.59e+03 
+ PieAPP: 0.306 v.s. 0.305 
+ DeepKLD: 0.61 v.s. 0.554
+ 
+A0229_05_10.bmp and A0229_06_16.bmp: 
+ MOS: 1.47e+03 v.s. 1.52e+03 
+ PieAPP: 0.879 v.s. 0.879 
+ DeepKLD: 0.821 v.s. 0.663
+ 
+A0230_01_11.bmp and A0230_04_09.bmp: 
+ MOS: 1.47e+03 v.s. 1.48e+03 
+ PieAPP: 0.968 v.s. 0.968 
+ DeepKLD: 0.679 v.s. 0.659
+ 
+A0230_03_00.bmp and A0230_04_06.bmp: 
+ MOS: 1.44e+03 v.s. 1.48e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.696 v.s. 0.644
+ 
+A0230_03_03.bmp and A0230_06_18.bmp: 
+ MOS: 1.53e+03 v.s. 1.53e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.679 v.s. 0.639
+ 
+A0230_03_04.bmp and A0230_06_18.bmp: 
+ MOS: 1.49e+03 v.s. 1.53e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.679 v.s. 0.639
+ 
+A0230_03_05.bmp and A0230_06_18.bmp: 
+ MOS: 1.44e+03 v.s. 1.53e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.679 v.s. 0.639
+ 
+A0230_03_20.bmp and A0230_05_10.bmp: 
+ MOS: 1.37e+03 v.s. 1.43e+03 
+ PieAPP: 0.647 v.s. 0.648 
+ DeepKLD: 0.772 v.s. 0.694
+ 
+A0230_05_06.bmp and A0230_05_11.bmp: 
+ MOS: 1.41e+03 v.s. 1.61e+03 
+ PieAPP: 0.738 v.s. 0.739 
+ DeepKLD: 0.773 v.s. 0.632
+ 
+A0231_01_11.bmp and A0231_02_00.bmp: 
+ MOS: 1.32e+03 v.s. 1.47e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.783 v.s. 0.678
+ 
+A0231_01_11.bmp and A0231_02_01.bmp: 
+ MOS: 1.32e+03 v.s. 1.53e+03 
+ PieAPP: 1.35 v.s. 1.35 
+ DeepKLD: 0.783 v.s. 0.678
+ 
+A0231_03_01.bmp and A0231_05_12.bmp: 
+ MOS: 1.48e+03 v.s. 1.43e+03 
+ PieAPP: 0.861 v.s. 0.862 
+ DeepKLD: 0.783 v.s. 0.731
+ 
+A0231_03_10.bmp and A0231_06_00.bmp: 
+ MOS: 1.42e+03 v.s. 1.4e+03 
+ PieAPP: 1.43 v.s. 1.43 
+ DeepKLD: 0.772 v.s. 0.692
+ 
+A0231_04_03.bmp and A0231_06_19.bmp: 
+ MOS: 1.63e+03 v.s. 1.52e+03 
+ PieAPP: 0.429 v.s. 0.429 
+ DeepKLD: 0.657 v.s. 0.644
+ 
+A0231_05_10.bmp and A0231_06_16.bmp: 
+ MOS: 1.57e+03 v.s. 1.6e+03 
+ PieAPP: 0.547 v.s. 0.547 
+ DeepKLD: 0.774 v.s. 0.656
+ 
+A0232_00_00.bmp and A0232_06_18.bmp: 
+ MOS: 1.48e+03 v.s. 1.51e+03 
+ PieAPP: 1.31 v.s. 1.31 
+ DeepKLD: 0.55 v.s. 0.678
+ 
+A0232_01_04.bmp and A0232_06_25.bmp: 
+ MOS: 1.43e+03 v.s. 1.43e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.654 v.s. 0.64
+ 
+A0232_03_02.bmp and A0232_03_06.bmp: 
+ MOS: 1.47e+03 v.s. 1.45e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.736 v.s. 0.722
+ 
+A0232_03_02.bmp and A0232_05_13.bmp: 
+ MOS: 1.47e+03 v.s. 1.36e+03 
+ PieAPP: 1.26 v.s. 1.26 
+ DeepKLD: 0.736 v.s. 0.722
+ 
+A0232_03_15.bmp and A0232_04_04.bmp: 
+ MOS: 1.48e+03 v.s. 1.46e+03 
+ PieAPP: 1.28 v.s. 1.28 
+ DeepKLD: 0.712 v.s. 0.692
+ 
+A0232_04_02.bmp and A0232_06_08.bmp: 
+ MOS: 1.52e+03 v.s. 1.5e+03 
+ PieAPP: 0.389 v.s. 0.389 
+ DeepKLD: 0.491 v.s. 0.375
+ 
+A0232_04_08.bmp and A0232_05_04.bmp: 
+ MOS: 1.56e+03 v.s. 1.59e+03 
+ PieAPP: 0.474 v.s. 0.474 
+ DeepKLD: 0.5 v.s. 0.653
+ 
+A0233_00_03.bmp and A0233_06_26.bmp: 
+ MOS: 1.42e+03 v.s. 1.21e+03 
+ PieAPP: 1.65 v.s. 1.65 
+ DeepKLD: 0.729 v.s. 0.783
+ 
+A0233_01_07.bmp and A0233_04_06.bmp: 
+ MOS: 1.39e+03 v.s. 1.36e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.71 v.s. 0.716
+ 
+A0233_01_10.bmp and A0233_04_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.47e+03 
+ PieAPP: 0.865 v.s. 0.864 
+ DeepKLD: 0.675 v.s. 0.602
+ 
+A0233_03_16.bmp and A0233_03_20.bmp: 
+ MOS: 1.49e+03 v.s. 1.46e+03 
+ PieAPP: 1.6 v.s. 1.6 
+ DeepKLD: 0.788 v.s. 0.873
+ 
+A0233_03_22.bmp and A0233_06_25.bmp: 
+ MOS: 1.35e+03 v.s. 1.44e+03 
+ PieAPP: 1.41 v.s. 1.41 
+ DeepKLD: 0.899 v.s. 0.759
+ 
+A0234_00_00.bmp and A0234_06_04.bmp: 
+ MOS: 1.45e+03 v.s. 1.54e+03 
+ PieAPP: 1.46 v.s. 1.46 
+ DeepKLD: 0.632 v.s. 0.694
+ 
+A0234_02_00.bmp and A0234_04_11.bmp: 
+ MOS: 1.46e+03 v.s. 1.51e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.586 v.s. 0.695
+ 
+A0234_02_01.bmp and A0234_04_11.bmp: 
+ MOS: 1.58e+03 v.s. 1.51e+03 
+ PieAPP: 1.16 v.s. 1.16 
+ DeepKLD: 0.586 v.s. 0.695
+ 
+A0234_03_02.bmp and A0234_03_15.bmp: 
+ MOS: 1.47e+03 v.s. 1.41e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.734 v.s. 0.72
+ 
+A0234_03_09.bmp and A0234_06_24.bmp: 
+ MOS: 1.42e+03 v.s. 1.62e+03 
+ PieAPP: 0.983 v.s. 0.984 
+ DeepKLD: 0.71 v.s. 0.558
+ 
+A0234_03_14.bmp and A0234_03_19.bmp: 
+ MOS: 1.51e+03 v.s. 1.46e+03 
+ PieAPP: 1.14 v.s. 1.14 
+ DeepKLD: 0.697 v.s. 0.725
+ 
+A0237_00_06.bmp and A0237_05_07.bmp: 
+ MOS: 1.4e+03 v.s. 1.37e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.68 v.s. 0.832
+ 
+A0237_00_09.bmp and A0237_01_05.bmp: 
+ MOS: 1.46e+03 v.s. 1.4e+03 
+ PieAPP: 1.78 v.s. 1.78 
+ DeepKLD: 0.694 v.s. 0.733
+ 
+A0237_01_01.bmp and A0237_06_01.bmp: 
+ MOS: 1.46e+03 v.s. 1.39e+03 
+ PieAPP: 1.06 v.s. 1.06 
+ DeepKLD: 0.653 v.s. 0.66
+ 
+A0237_01_04.bmp and A0237_05_09.bmp: 
+ MOS: 1.49e+03 v.s. 1.39e+03 
+ PieAPP: 0.946 v.s. 0.945 
+ DeepKLD: 0.665 v.s. 0.77
+ 
+A0237_02_07.bmp and A0237_05_00.bmp: 
+ MOS: 1.42e+03 v.s. 1.34e+03 
+ PieAPP: 1.21 v.s. 1.21 
+ DeepKLD: 0.697 v.s. 0.728
+ 
+A0237_03_08.bmp and A0237_06_00.bmp: 
+ MOS: 1.46e+03 v.s. 1.33e+03 
+ PieAPP: 1.05 v.s. 1.05 
+ DeepKLD: 0.702 v.s. 0.629
+ 
+A0237_04_01.bmp and A0237_05_06.bmp: 
+ MOS: 1.63e+03 v.s. 1.45e+03 
+ PieAPP: 0.664 v.s. 0.664 
+ DeepKLD: 0.672 v.s. 0.802
+ 
+A0237_04_01.bmp and A0237_05_11.bmp: 
+ MOS: 1.63e+03 v.s. 1.47e+03 
+ PieAPP: 0.664 v.s. 0.664 
+ DeepKLD: 0.672 v.s. 0.601
+ 
+A0237_04_02.bmp and A0237_06_08.bmp: 
+ MOS: 1.63e+03 v.s. 1.57e+03 
+ PieAPP: 0.307 v.s. 0.307 
+ DeepKLD: 0.532 v.s. 0.418
+ 
+A0237_05_06.bmp and A0237_05_11.bmp: 
+ MOS: 1.45e+03 v.s. 1.47e+03 
+ PieAPP: 0.664 v.s. 0.664 
+ DeepKLD: 0.802 v.s. 0.601
+ 
+A0239_00_03.bmp and A0239_03_00.bmp: 
+ MOS: 1.51e+03 v.s. 1.44e+03 
+ PieAPP: 1.07 v.s. 1.07 
+ DeepKLD: 0.59 v.s. 0.676
+ 
+A0239_00_06.bmp and A0239_06_09.bmp: 
+ MOS: 1.5e+03 v.s. 1.47e+03 
+ PieAPP: 1.37 v.s. 1.37 
+ DeepKLD: 0.606 v.s. 0.581
+ 
+A0239_03_07.bmp and A0239_04_01.bmp: 
+ MOS: 1.4e+03 v.s. 1.41e+03 
+ PieAPP: 1.1 v.s. 1.1 
+ DeepKLD: 0.655 v.s. 0.687
+ 
+A0239_03_15.bmp and A0239_04_00.bmp: 
+ MOS: 1.52e+03 v.s. 1.45e+03 
+ PieAPP: 0.786 v.s. 0.787 
+ DeepKLD: 0.625 v.s. 0.584
+ 
+A0241_01_14.bmp and A0241_02_00.bmp: 
+ MOS: 1.47e+03 v.s. 1.6e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.739 v.s. 0.69
+ 
+A0241_01_14.bmp and A0241_02_01.bmp: 
+ MOS: 1.47e+03 v.s. 1.49e+03 
+ PieAPP: 1.74 v.s. 1.74 
+ DeepKLD: 0.739 v.s. 0.69
+ 
+A0241_02_05.bmp and A0241_05_01.bmp: 
+ MOS: 1.37e+03 v.s. 1.4e+03 
+ PieAPP: 2.79 v.s. 2.79 
+ DeepKLD: 0.806 v.s. 0.835
+ 
+A0241_05_10.bmp and A0241_06_20.bmp: 
+ MOS: 1.41e+03 v.s. 1.58e+03 
+ PieAPP: 2.38 v.s. 2.38 
+ DeepKLD: 0.798 v.s. 0.699
+ 
+A0242_01_14.bmp and A0242_03_07.bmp: 
+ MOS: 1.4e+03 v.s. 1.47e+03 
+ PieAPP: 1.32 v.s. 1.32 
+ DeepKLD: 0.728 v.s. 0.72
+ 
+A0243_00_11.bmp and A0243_04_04.bmp: 
+ MOS: 1.48e+03 v.s. 1.45e+03 
+ PieAPP: 0.814 v.s. 0.813 
+ DeepKLD: 0.59 v.s. 0.687
+ 
+A0243_02_08.bmp and A0243_03_06.bmp: 
+ MOS: 1.55e+03 v.s. 1.45e+03 
+ PieAPP: 1.02 v.s. 1.01 
+ DeepKLD: 0.693 v.s. 0.714
+ 
+A0243_02_08.bmp and A0243_05_13.bmp: 
+ MOS: 1.55e+03 v.s. 1.3e+03 
+ PieAPP: 1.02 v.s. 1.01 
+ DeepKLD: 0.693 v.s. 0.714
+ 
+A0243_03_13.bmp and A0243_06_24.bmp: 
+ MOS: 1.46e+03 v.s. 1.47e+03 
+ PieAPP: 0.818 v.s. 0.818 
+ DeepKLD: 0.701 v.s. 0.534
+ 
+A0243_03_16.bmp and A0243_05_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.41e+03 
+ PieAPP: 1.03 v.s. 1.03 
+ DeepKLD: 0.682 v.s. 0.762
+ 
+A0243_04_05.bmp and A0243_06_23.bmp: 
+ MOS: 1.68e+03 v.s. 1.68e+03 
+ PieAPP: 0.345 v.s. 0.345 
+ DeepKLD: 0.517 v.s. 0.37
+ 
+A0243_04_06.bmp and A0243_05_11.bmp: 
+ MOS: 1.56e+03 v.s. 1.4e+03 
+ PieAPP: 0.89 v.s. 0.889 
+ DeepKLD: 0.632 v.s. 0.637
+ 
+A0243_06_19.bmp and A0243_06_22.bmp: 
+ MOS: 1.32e+03 v.s. 1.4e+03 
+ PieAPP: 0.732 v.s. 0.731 
+ DeepKLD: 0.62 v.s. 0.494
+ 
+A0244_00_08.bmp and A0244_06_22.bmp: 
+ MOS: 1.59e+03 v.s. 1.58e+03 
+ PieAPP: 0.569 v.s. 0.569 
+ DeepKLD: 0.504 v.s. 0.475
+ 
+A0244_01_02.bmp and A0244_06_10.bmp: 
+ MOS: 1.38e+03 v.s. 1.39e+03 
+ PieAPP: 1.81 v.s. 1.81 
+ DeepKLD: 0.726 v.s. 0.634
+ 
+A0244_01_08.bmp and A0244_06_06.bmp: 
+ MOS: 1.37e+03 v.s. 1.33e+03 
+ PieAPP: 1.8 v.s. 1.8 
+ DeepKLD: 0.728 v.s. 0.684
+ 
+A0244_02_04.bmp and A0244_04_12.bmp: 
+ MOS: 1.76e+03 v.s. 1.56e+03 
+ PieAPP: 0.523 v.s. 0.522 
+ DeepKLD: 0.62 v.s. 0.537
+ 
+A0244_02_09.bmp and A0244_04_09.bmp: 
+ MOS: 1.62e+03 v.s. 1.44e+03 
+ PieAPP: 1.4 v.s. 1.4 
+ DeepKLD: 0.721 v.s. 0.695
+ 
+A0244_03_08.bmp and A0244_04_04.bmp: 
+ MOS: 1.49e+03 v.s. 1.32e+03 
+ PieAPP: 1.45 v.s. 1.45 
+ DeepKLD: 0.687 v.s. 0.735
+ 
+A0244_04_01.bmp and A0244_04_05.bmp: 
+ MOS: 1.44e+03 v.s. 1.6e+03 
+ PieAPP: 1.12 v.s. 1.12 
+ DeepKLD: 0.669 v.s. 0.565
+ 
+A0244_05_07.bmp and A0244_06_13.bmp: 
+ MOS: 1.25e+03 v.s. 1.24e+03 
+ PieAPP: 2.13 v.s. 2.13 
+ DeepKLD: 0.787 v.s. 0.701
+ 
+A0244_05_12.bmp and A0244_06_17.bmp: 
+ MOS: 1.55e+03 v.s. 1.59e+03 
+ PieAPP: 1.15 v.s. 1.15 
+ DeepKLD: 0.631 v.s. 0.609
+ 
+A0245_03_19.bmp and A0245_04_09.bmp: 
+ MOS: 1.44e+03 v.s. 1.46e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.733 v.s. 0.643
+ 
+A0245_03_19.bmp and A0245_06_18.bmp: 
+ MOS: 1.44e+03 v.s. 1.59e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.733 v.s. 0.681
+ 
+A0245_04_06.bmp and A0245_06_09.bmp: 
+ MOS: 1.53e+03 v.s. 1.65e+03 
+ PieAPP: 1.49 v.s. 1.5 
+ DeepKLD: 0.638 v.s. 0.578
+ 
+A0245_04_09.bmp and A0245_06_18.bmp: 
+ MOS: 1.46e+03 v.s. 1.59e+03 
+ PieAPP: 1.34 v.s. 1.34 
+ DeepKLD: 0.643 v.s. 0.681
+ 
+A0245_05_09.bmp and A0245_06_19.bmp: 
+ MOS: 1.45e+03 v.s. 1.34e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.743 v.s. 0.62
+ 
+A0245_05_10.bmp and A0245_06_05.bmp: 
+ MOS: 1.58e+03 v.s. 1.58e+03 
+ PieAPP: 0.871 v.s. 0.872 
+ DeepKLD: 0.69 v.s. 0.584
+ 
+A0246_00_02.bmp and A0246_02_02.bmp: 
+ MOS: 1.49e+03 v.s. 1.5e+03 
+ PieAPP: 0.235 v.s. 0.236 
+ DeepKLD: 0.314 v.s. 0.295
+ 
+A0246_01_05.bmp and A0246_04_08.bmp: 
+ MOS: 1.53e+03 v.s. 1.48e+03 
+ PieAPP: 0.849 v.s. 0.849 
+ DeepKLD: 0.564 v.s. 0.513
+ 
+A0246_01_05.bmp and A0246_06_01.bmp: 
+ MOS: 1.53e+03 v.s. 1.51e+03 
+ PieAPP: 0.849 v.s. 0.849 
+ DeepKLD: 0.564 v.s. 0.457
+ 
+A0246_02_00.bmp and A0246_02_09.bmp: 
+ MOS: 1.43e+03 v.s. 1.55e+03 
+ PieAPP: 0.962 v.s. 0.962 
+ DeepKLD: 0.416 v.s. 0.695
+ 
+A0246_02_01.bmp and A0246_02_09.bmp: 
+ MOS: 1.46e+03 v.s. 1.55e+03 
+ PieAPP: 0.962 v.s. 0.962 
+ DeepKLD: 0.416 v.s. 0.695
+ 
+A0246_04_08.bmp and A0246_06_01.bmp: 
+ MOS: 1.48e+03 v.s. 1.51e+03 
+ PieAPP: 0.849 v.s. 0.849 
+ DeepKLD: 0.513 v.s. 0.457
+ 
+A0246_05_08.bmp and A0246_06_05.bmp: 
+ MOS: 1.45e+03 v.s. 1.44e+03 
+ PieAPP: 1.2 v.s. 1.2 
+ DeepKLD: 0.702 v.s. 0.502
+ 
+A0247_00_01.bmp and A0247_02_05.bmp: 
+ MOS: 1.45e+03 v.s. 1.33e+03 
+ PieAPP: 2.41 v.s. 2.41 
+ DeepKLD: 0.706 v.s. 0.715
+ 
+A0247_00_06.bmp and A0247_06_25.bmp: 
+ MOS: 1.52e+03 v.s. 1.41e+03 
+ PieAPP: 1.27 v.s. 1.27 
+ DeepKLD: 0.662 v.s. 0.611
+ 
+A0247_01_04.bmp and A0247_06_09.bmp: 
+ MOS: 1.48e+03 v.s. 1.47e+03 
+ PieAPP: 1.18 v.s. 1.18 
+ DeepKLD: 0.638 v.s. 0.555
+ 
+A0247_01_14.bmp and A0247_04_04.bmp: 
+ MOS: 1.47e+03 v.s. 1.27e+03 
+ PieAPP: 1.56 v.s. 1.56 
+ DeepKLD: 0.688 v.s. 0.732
+ 
+A0247_03_03.bmp and A0247_03_16.bmp: 
+ MOS: 1.45e+03 v.s. 1.39e+03 
+ PieAPP: 1.59 v.s. 1.59 
+ DeepKLD: 0.689 v.s. 0.683
+ 
+A0247_03_04.bmp and A0247_03_16.bmp: 
+ MOS: 1.42e+03 v.s. 1.39e+03 
+ PieAPP: 1.59 v.s. 1.59 
+ DeepKLD: 0.689 v.s. 0.683
+ 
+A0247_03_05.bmp and A0247_03_16.bmp: 
+ MOS: 1.41e+03 v.s. 1.39e+03 
+ PieAPP: 1.59 v.s. 1.59 
+ DeepKLD: 0.689 v.s. 0.683
+ 
+A0247_03_13.bmp and A0247_06_22.bmp: 
+ MOS: 1.4e+03 v.s. 1.74e+03 
+ PieAPP: 0.64 v.s. 0.639 
+ DeepKLD: 0.692 v.s. 0.512
+ 
+A0247_05_04.bmp and A0247_06_16.bmp: 
+ MOS: 1.37e+03 v.s. 1.57e+03 
+ PieAPP: 0.438 v.s. 0.439 
+ DeepKLD: 0.68 v.s. 0.5
+ 
+A0248_00_05.bmp and A0248_06_22.bmp: 
+ MOS: 1.61e+03 v.s. 1.5e+03 
+ PieAPP: 0.655 v.s. 0.655 
+ DeepKLD: 0.655 v.s. 0.582
+ 
+A0248_02_09.bmp and A0248_03_12.bmp: 
+ MOS: 1.4e+03 v.s. 1.51e+03 
+ PieAPP: 0.634 v.s. 0.635 
+ DeepKLD: 0.811 v.s. 0.8
+ 
+A0248_03_18.bmp and A0248_04_05.bmp: 
+ MOS: 1.5e+03 v.s. 1.64e+03 
+ PieAPP: 0.664 v.s. 0.664 
+ DeepKLD: 0.785 v.s. 0.561
+ 
+Total num: 1079
