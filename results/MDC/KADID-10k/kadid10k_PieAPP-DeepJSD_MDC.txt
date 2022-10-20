@@ -1,0 +1,36 @@
+I69_01_02.png and I69_23_01.png: 
+ MOS: 4.63 v.s. 2.2 
+ PieAPP: 0.363 v.s. 0.363 
+ DeepJSD: 0.227 v.s. 0.363
+ 
+I33_04_03.png and I33_19_02.png: 
+ MOS: 1.8 v.s. 3.9 
+ PieAPP: 0.757 v.s. 0.756 
+ DeepJSD: 0.627 v.s. 0.276
+ 
+I38_04_04.png and I38_05_01.png: 
+ MOS: 1.87 v.s. 4 
+ PieAPP: 0.727 v.s. 0.726 
+ DeepJSD: 0.581 v.s. 0.289
+ 
+I80_04_05.png and I80_21_03.png: 
+ MOS: 1.37 v.s. 3.47 
+ PieAPP: 1.19 v.s. 1.2 
+ DeepJSD: 0.737 v.s. 0.462
+ 
+I25_09_02.png and I25_23_01.png: 
+ MOS: 4.6 v.s. 2.43 
+ PieAPP: 0.557 v.s. 0.558 
+ DeepJSD: 0.329 v.s. 0.372
+ 
+I25_10_01.png and I25_23_01.png: 
+ MOS: 4.53 v.s. 2.43 
+ PieAPP: 0.559 v.s. 0.558 
+ DeepJSD: 0.323 v.s. 0.372
+ 
+I58_22_04.png and I58_25_03.png: 
+ MOS: 2.03 v.s. 4.45 
+ PieAPP: 1.04 v.s. 1.04 
+ DeepJSD: 0.491 v.s. 0.29
+ 
+Total num: 7

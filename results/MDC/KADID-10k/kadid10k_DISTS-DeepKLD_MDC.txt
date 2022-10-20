@@ -1,0 +1,206 @@
+I52_01_02.png and I52_23_01.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0122 v.s. 0.0118 
+ DeepKLD: 0.302 v.s. 0.47
+ 
+I78_03_02.png and I78_23_01.png: 
+ MOS: 4.48 v.s. 2.13 
+ DISTS: 0.0337 v.s. 0.0344 
+ DeepKLD: 0.33 v.s. 0.476
+ 
+I12_04_01.png and I12_23_01.png: 
+ MOS: 4.5 v.s. 2.26 
+ DISTS: 0.0481 v.s. 0.0487 
+ DeepKLD: 0.399 v.s. 0.468
+ 
+I23_04_01.png and I23_23_02.png: 
+ MOS: 4.8 v.s. 2.07 
+ DISTS: 0.0573 v.s. 0.0569 
+ DeepKLD: 0.492 v.s. 0.577
+ 
+I39_04_01.png and I39_23_03.png: 
+ MOS: 4.63 v.s. 2.33 
+ DISTS: 0.0557 v.s. 0.0558 
+ DeepKLD: 0.47 v.s. 0.635
+ 
+I42_04_01.png and I42_23_02.png: 
+ MOS: 4.73 v.s. 2.37 
+ DISTS: 0.0748 v.s. 0.0749 
+ DeepKLD: 0.439 v.s. 0.557
+ 
+I71_04_01.png and I71_05_03.png: 
+ MOS: 4.1 v.s. 1.87 
+ DISTS: 0.0724 v.s. 0.0723 
+ DeepKLD: 0.559 v.s. 0.558
+ 
+I77_04_01.png and I77_05_05.png: 
+ MOS: 4.47 v.s. 2.33 
+ DISTS: 0.0627 v.s. 0.0626 
+ DeepKLD: 0.466 v.s. 0.579
+ 
+I16_05_02.png and I16_09_02.png: 
+ MOS: 1.58 v.s. 4.23 
+ DISTS: 0.101 v.s. 0.101 
+ DeepKLD: 0.531 v.s. 0.468
+ 
+I43_05_05.png and I43_12_03.png: 
+ MOS: 1.84 v.s. 3.87 
+ DISTS: 0.159 v.s. 0.159 
+ DeepKLD: 0.62 v.s. 0.568
+ 
+I44_05_01.png and I44_23_01.png: 
+ MOS: 4.73 v.s. 2.73 
+ DISTS: 0.0264 v.s. 0.0256 
+ DeepKLD: 0.278 v.s. 0.406
+ 
+I77_05_02.png and I77_22_02.png: 
+ MOS: 2.57 v.s. 4.57 
+ DISTS: 0.0401 v.s. 0.0392 
+ DeepKLD: 0.475 v.s. 0.43
+ 
+I77_05_05.png and I77_11_01.png: 
+ MOS: 2.33 v.s. 4.42 
+ DISTS: 0.0626 v.s. 0.0629 
+ DeepKLD: 0.579 v.s. 0.363
+ 
+I81_05_03.png and I81_12_02.png: 
+ MOS: 1.37 v.s. 3.39 
+ DISTS: 0.0996 v.s. 0.1 
+ DeepKLD: 0.603 v.s. 0.499
+ 
+I11_06_01.png and I11_23_01.png: 
+ MOS: 4.17 v.s. 1.93 
+ DISTS: 0.0469 v.s. 0.0465 
+ DeepKLD: 0.433 v.s. 0.471
+ 
+I11_06_03.png and I11_23_02.png: 
+ MOS: 4.03 v.s. 1.63 
+ DISTS: 0.0877 v.s. 0.0878 
+ DeepKLD: 0.527 v.s. 0.547
+ 
+I70_06_02.png and I70_20_05.png: 
+ MOS: 3.9 v.s. 1.74 
+ DISTS: 0.0848 v.s. 0.0843 
+ DeepKLD: 0.432 v.s. 0.653
+ 
+I52_08_03.png and I52_10_04.png: 
+ MOS: 3.73 v.s. 1.7 
+ DISTS: 0.142 v.s. 0.141 
+ DeepKLD: 0.709 v.s. 0.717
+ 
+I07_09_04.png and I07_21_05.png: 
+ MOS: 3.6 v.s. 1.53 
+ DISTS: 0.112 v.s. 0.112 
+ DeepKLD: 0.503 v.s. 0.549
+ 
+I18_09_03.png and I18_23_02.png: 
+ MOS: 4.27 v.s. 2 
+ DISTS: 0.0653 v.s. 0.0662 
+ DeepKLD: 0.364 v.s. 0.529
+ 
+I27_09_02.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0504 v.s. 0.051 
+ DeepKLD: 0.321 v.s. 0.467
+ 
+I45_09_02.png and I45_20_05.png: 
+ MOS: 4.47 v.s. 2.07 
+ DISTS: 0.0494 v.s. 0.0496 
+ DeepKLD: 0.432 v.s. 0.59
+ 
+I45_09_02.png and I45_21_02.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0494 v.s. 0.0497 
+ DeepKLD: 0.432 v.s. 0.524
+ 
+I56_09_03.png and I56_21_03.png: 
+ MOS: 4.67 v.s. 2.5 
+ DISTS: 0.0363 v.s. 0.0369 
+ DeepKLD: 0.381 v.s. 0.436
+ 
+I16_10_02.png and I16_23_01.png: 
+ MOS: 4.23 v.s. 2.13 
+ DISTS: 0.0617 v.s. 0.0611 
+ DeepKLD: 0.434 v.s. 0.491
+ 
+I29_10_02.png and I29_20_04.png: 
+ MOS: 4.33 v.s. 2.3 
+ DISTS: 0.0789 v.s. 0.0785 
+ DeepKLD: 0.336 v.s. 0.51
+ 
+I39_10_02.png and I39_23_02.png: 
+ MOS: 4.53 v.s. 2.39 
+ DISTS: 0.0358 v.s. 0.0357 
+ DeepKLD: 0.431 v.s. 0.572
+ 
+I55_10_02.png and I55_23_01.png: 
+ MOS: 4.37 v.s. 2.27 
+ DISTS: 0.049 v.s. 0.0494 
+ DeepKLD: 0.435 v.s. 0.492
+ 
+I66_10_01.png and I66_23_01.png: 
+ MOS: 4.43 v.s. 2.3 
+ DISTS: 0.0338 v.s. 0.034 
+ DeepKLD: 0.381 v.s. 0.487
+ 
+I27_12_01.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0509 v.s. 0.051 
+ DeepKLD: 0.316 v.s. 0.467
+ 
+I64_12_02.png and I64_21_04.png: 
+ MOS: 4.1 v.s. 2.07 
+ DISTS: 0.0569 v.s. 0.0565 
+ DeepKLD: 0.449 v.s. 0.579
+ 
+I80_12_02.png and I80_23_02.png: 
+ MOS: 4.43 v.s. 2.37 
+ DISTS: 0.0624 v.s. 0.0619 
+ DeepKLD: 0.438 v.s. 0.513
+ 
+I18_14_01.png and I18_23_02.png: 
+ MOS: 4.07 v.s. 2 
+ DISTS: 0.0671 v.s. 0.0662 
+ DeepKLD: 0.335 v.s. 0.529
+ 
+I25_17_03.png and I25_23_01.png: 
+ MOS: 4.5 v.s. 2.43 
+ DISTS: 0.0537 v.s. 0.0543 
+ DeepKLD: 0.373 v.s. 0.451
+ 
+I39_17_03.png and I39_23_01.png: 
+ MOS: 4.6 v.s. 2.5 
+ DISTS: 0.0345 v.s. 0.0338 
+ DeepKLD: 0.445 v.s. 0.479
+ 
+I52_17_03.png and I52_23_02.png: 
+ MOS: 4.67 v.s. 2.53 
+ DISTS: 0.0193 v.s. 0.0187 
+ DeepKLD: 0.355 v.s. 0.53
+ 
+I52_18_01.png and I52_23_02.png: 
+ MOS: 4.63 v.s. 2.53 
+ DISTS: 0.0189 v.s. 0.0187 
+ DeepKLD: 0.353 v.s. 0.53
+ 
+I69_18_04.png and I69_23_01.png: 
+ MOS: 4.43 v.s. 2.2 
+ DISTS: 0.0257 v.s. 0.0265 
+ DeepKLD: 0.287 v.s. 0.442
+ 
+I23_23_03.png and I23_25_01.png: 
+ MOS: 2 v.s. 4.23 
+ DISTS: 0.076 v.s. 0.0767 
+ DeepKLD: 0.628 v.s. 0.58
+ 
+I69_23_01.png and I69_25_03.png: 
+ MOS: 2.2 v.s. 4.5 
+ DISTS: 0.0265 v.s. 0.0269 
+ DeepKLD: 0.442 v.s. 0.361
+ 
+I77_23_03.png and I77_25_02.png: 
+ MOS: 1.73 v.s. 3.87 
+ DISTS: 0.0725 v.s. 0.073 
+ DeepKLD: 0.61 v.s. 0.523
+ 
+Total num: 41

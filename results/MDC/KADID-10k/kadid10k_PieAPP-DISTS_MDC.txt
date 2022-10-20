@@ -1,0 +1,36 @@
+I69_01_02.png and I69_23_01.png: 
+ MOS: 4.63 v.s. 2.2 
+ PieAPP: 0.363 v.s. 0.363 
+ DISTS: 0.0108 v.s. 0.0265
+ 
+I33_04_03.png and I33_19_02.png: 
+ MOS: 1.8 v.s. 3.9 
+ PieAPP: 0.757 v.s. 0.756 
+ DISTS: 0.31 v.s. 0.0242
+ 
+I38_04_04.png and I38_05_01.png: 
+ MOS: 1.87 v.s. 4 
+ PieAPP: 0.727 v.s. 0.726 
+ DISTS: 0.308 v.s. 0.0569
+ 
+I80_04_05.png and I80_21_03.png: 
+ MOS: 1.37 v.s. 3.47 
+ PieAPP: 1.19 v.s. 1.2 
+ DISTS: 0.372 v.s. 0.0569
+ 
+I25_09_02.png and I25_23_01.png: 
+ MOS: 4.6 v.s. 2.43 
+ PieAPP: 0.557 v.s. 0.558 
+ DISTS: 0.0741 v.s. 0.0543
+ 
+I25_10_01.png and I25_23_01.png: 
+ MOS: 4.53 v.s. 2.43 
+ PieAPP: 0.559 v.s. 0.558 
+ DISTS: 0.0803 v.s. 0.0543
+ 
+I58_22_04.png and I58_25_03.png: 
+ MOS: 2.03 v.s. 4.45 
+ PieAPP: 1.04 v.s. 1.04 
+ DISTS: 0.167 v.s. 0.0415
+ 
+Total num: 7

@@ -1,0 +1,206 @@
+I52_01_02.png and I52_23_01.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0122 v.s. 0.0118 
+ MAD: 33.6 v.s. 0
+ 
+I78_03_02.png and I78_23_01.png: 
+ MOS: 4.48 v.s. 2.13 
+ DISTS: 0.0337 v.s. 0.0344 
+ MAD: 72.5 v.s. 0
+ 
+I12_04_01.png and I12_23_01.png: 
+ MOS: 4.5 v.s. 2.26 
+ DISTS: 0.0481 v.s. 0.0487 
+ MAD: 18.2 v.s. 0
+ 
+I23_04_01.png and I23_23_02.png: 
+ MOS: 4.8 v.s. 2.07 
+ DISTS: 0.0573 v.s. 0.0569 
+ MAD: 89 v.s. 75.5
+ 
+I39_04_01.png and I39_23_03.png: 
+ MOS: 4.63 v.s. 2.33 
+ DISTS: 0.0557 v.s. 0.0558 
+ MAD: 46.1 v.s. 104
+ 
+I42_04_01.png and I42_23_02.png: 
+ MOS: 4.73 v.s. 2.37 
+ DISTS: 0.0748 v.s. 0.0749 
+ MAD: 48.5 v.s. 32.8
+ 
+I71_04_01.png and I71_05_03.png: 
+ MOS: 4.1 v.s. 1.87 
+ DISTS: 0.0724 v.s. 0.0723 
+ MAD: 92.4 v.s. 29.5
+ 
+I77_04_01.png and I77_05_05.png: 
+ MOS: 4.47 v.s. 2.33 
+ DISTS: 0.0627 v.s. 0.0626 
+ MAD: 74.1 v.s. 28.7
+ 
+I16_05_02.png and I16_09_02.png: 
+ MOS: 1.58 v.s. 4.23 
+ DISTS: 0.101 v.s. 0.101 
+ MAD: 24.5 v.s. 92.3
+ 
+I43_05_05.png and I43_12_03.png: 
+ MOS: 1.84 v.s. 3.87 
+ DISTS: 0.159 v.s. 0.159 
+ MAD: 36.5 v.s. 143
+ 
+I44_05_01.png and I44_23_01.png: 
+ MOS: 4.73 v.s. 2.73 
+ DISTS: 0.0264 v.s. 0.0256 
+ MAD: 10.8 v.s. 0
+ 
+I77_05_02.png and I77_22_02.png: 
+ MOS: 2.57 v.s. 4.57 
+ DISTS: 0.0401 v.s. 0.0392 
+ MAD: 22.5 v.s. 84.8
+ 
+I77_05_05.png and I77_11_01.png: 
+ MOS: 2.33 v.s. 4.42 
+ DISTS: 0.0626 v.s. 0.0629 
+ MAD: 28.7 v.s. 71.4
+ 
+I81_05_03.png and I81_12_02.png: 
+ MOS: 1.37 v.s. 3.39 
+ DISTS: 0.0996 v.s. 0.1 
+ MAD: 32.7 v.s. 106
+ 
+I11_06_01.png and I11_23_01.png: 
+ MOS: 4.17 v.s. 1.93 
+ DISTS: 0.0469 v.s. 0.0465 
+ MAD: 109 v.s. 22.9
+ 
+I11_06_03.png and I11_23_02.png: 
+ MOS: 4.03 v.s. 1.63 
+ DISTS: 0.0877 v.s. 0.0878 
+ MAD: 124 v.s. 70.6
+ 
+I70_06_02.png and I70_20_05.png: 
+ MOS: 3.9 v.s. 1.74 
+ DISTS: 0.0848 v.s. 0.0843 
+ MAD: 93.3 v.s. 146
+ 
+I52_08_03.png and I52_10_04.png: 
+ MOS: 3.73 v.s. 1.7 
+ DISTS: 0.142 v.s. 0.141 
+ MAD: 209 v.s. 215
+ 
+I07_09_04.png and I07_21_05.png: 
+ MOS: 3.6 v.s. 1.53 
+ DISTS: 0.112 v.s. 0.112 
+ MAD: 92.4 v.s. 116
+ 
+I18_09_03.png and I18_23_02.png: 
+ MOS: 4.27 v.s. 2 
+ DISTS: 0.0653 v.s. 0.0662 
+ MAD: 70.7 v.s. 107
+ 
+I27_09_02.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0504 v.s. 0.051 
+ MAD: 53.1 v.s. 98
+ 
+I45_09_02.png and I45_20_05.png: 
+ MOS: 4.47 v.s. 2.07 
+ DISTS: 0.0494 v.s. 0.0496 
+ MAD: 60 v.s. 104
+ 
+I45_09_02.png and I45_21_02.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0494 v.s. 0.0497 
+ MAD: 60 v.s. 89
+ 
+I56_09_03.png and I56_21_03.png: 
+ MOS: 4.67 v.s. 2.5 
+ DISTS: 0.0363 v.s. 0.0369 
+ MAD: 56.5 v.s. 89.2
+ 
+I16_10_02.png and I16_23_01.png: 
+ MOS: 4.23 v.s. 2.13 
+ DISTS: 0.0617 v.s. 0.0611 
+ MAD: 101 v.s. 0
+ 
+I29_10_02.png and I29_20_04.png: 
+ MOS: 4.33 v.s. 2.3 
+ DISTS: 0.0789 v.s. 0.0785 
+ MAD: 128 v.s. 86.5
+ 
+I39_10_02.png and I39_23_02.png: 
+ MOS: 4.53 v.s. 2.39 
+ DISTS: 0.0358 v.s. 0.0357 
+ MAD: 72.7 v.s. 58.3
+ 
+I55_10_02.png and I55_23_01.png: 
+ MOS: 4.37 v.s. 2.27 
+ DISTS: 0.049 v.s. 0.0494 
+ MAD: 67 v.s. 32.2
+ 
+I66_10_01.png and I66_23_01.png: 
+ MOS: 4.43 v.s. 2.3 
+ DISTS: 0.0338 v.s. 0.034 
+ MAD: 86 v.s. 0
+ 
+I27_12_01.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0509 v.s. 0.051 
+ MAD: 64.3 v.s. 98
+ 
+I64_12_02.png and I64_21_04.png: 
+ MOS: 4.1 v.s. 2.07 
+ DISTS: 0.0569 v.s. 0.0565 
+ MAD: 93.8 v.s. 124
+ 
+I80_12_02.png and I80_23_02.png: 
+ MOS: 4.43 v.s. 2.37 
+ DISTS: 0.0624 v.s. 0.0619 
+ MAD: 99 v.s. 70.4
+ 
+I18_14_01.png and I18_23_02.png: 
+ MOS: 4.07 v.s. 2 
+ DISTS: 0.0671 v.s. 0.0662 
+ MAD: 61.7 v.s. 107
+ 
+I25_17_03.png and I25_23_01.png: 
+ MOS: 4.5 v.s. 2.43 
+ DISTS: 0.0537 v.s. 0.0543 
+ MAD: 49.2 v.s. 37.3
+ 
+I39_17_03.png and I39_23_01.png: 
+ MOS: 4.6 v.s. 2.5 
+ DISTS: 0.0345 v.s. 0.0338 
+ MAD: 57.1 v.s. 0
+ 
+I52_17_03.png and I52_23_02.png: 
+ MOS: 4.67 v.s. 2.53 
+ DISTS: 0.0193 v.s. 0.0187 
+ MAD: 63.7 v.s. 100
+ 
+I52_18_01.png and I52_23_02.png: 
+ MOS: 4.63 v.s. 2.53 
+ DISTS: 0.0189 v.s. 0.0187 
+ MAD: 61.6 v.s. 100
+ 
+I69_18_04.png and I69_23_01.png: 
+ MOS: 4.43 v.s. 2.2 
+ DISTS: 0.0257 v.s. 0.0265 
+ MAD: 47.3 v.s. 0
+ 
+I23_23_03.png and I23_25_01.png: 
+ MOS: 2 v.s. 4.23 
+ DISTS: 0.076 v.s. 0.0767 
+ MAD: 62.1 v.s. 140
+ 
+I69_23_01.png and I69_25_03.png: 
+ MOS: 2.2 v.s. 4.5 
+ DISTS: 0.0265 v.s. 0.0269 
+ MAD: 0 v.s. 53.3
+ 
+I77_23_03.png and I77_25_02.png: 
+ MOS: 1.73 v.s. 3.87 
+ DISTS: 0.0725 v.s. 0.073 
+ MAD: 96.7 v.s. 116
+ 
+Total num: 41

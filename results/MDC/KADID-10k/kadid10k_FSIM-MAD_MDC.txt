@@ -1,0 +1,671 @@
+I18_01_04.png and I18_24_01.png: 
+ MOS: 1.77 v.s. 4.1 
+ FSIM: 0.95 v.s. 0.951 
+ MAD: 107 v.s. 77.4
+ 
+I28_01_04.png and I28_24_01.png: 
+ MOS: 2.19 v.s. 4.2 
+ FSIM: 0.963 v.s. 0.962 
+ MAD: 113 v.s. 87.1
+ 
+I75_01_03.png and I75_09_03.png: 
+ MOS: 2.5 v.s. 4.6 
+ FSIM: 0.99 v.s. 0.991 
+ MAD: 77.7 v.s. 50.2
+ 
+I16_02_02.png and I16_09_03.png: 
+ MOS: 1.93 v.s. 4 
+ FSIM: 0.961 v.s. 0.961 
+ MAD: 118 v.s. 110
+ 
+I48_02_03.png and I48_25_05.png: 
+ MOS: 1.87 v.s. 3.9 
+ FSIM: 0.956 v.s. 0.956 
+ MAD: 120 v.s. 99.2
+ 
+I70_02_02.png and I70_18_04.png: 
+ MOS: 2.7 v.s. 4.8 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 108 v.s. 51.1
+ 
+I04_03_04.png and I04_21_01.png: 
+ MOS: 1.93 v.s. 4.4 
+ FSIM: 0.928 v.s. 0.928 
+ MAD: 112 v.s. 98
+ 
+I07_03_05.png and I07_24_01.png: 
+ MOS: 1.53 v.s. 3.8 
+ FSIM: 0.955 v.s. 0.955 
+ MAD: 96 v.s. 64.8
+ 
+I07_03_05.png and I07_25_05.png: 
+ MOS: 1.53 v.s. 3.57 
+ FSIM: 0.955 v.s. 0.954 
+ MAD: 96 v.s. 90.3
+ 
+I16_03_03.png and I16_20_03.png: 
+ MOS: 2.03 v.s. 4.43 
+ FSIM: 0.974 v.s. 0.974 
+ MAD: 105 v.s. 82.7
+ 
+I22_03_03.png and I22_09_03.png: 
+ MOS: 2.73 v.s. 4.77 
+ FSIM: 0.988 v.s. 0.989 
+ MAD: 57.6 v.s. 69.4
+ 
+I29_03_04.png and I29_18_04.png: 
+ MOS: 2.33 v.s. 4.37 
+ FSIM: 0.982 v.s. 0.983 
+ MAD: 82.5 v.s. 63.6
+ 
+I56_03_03.png and I56_09_02.png: 
+ MOS: 2.43 v.s. 4.67 
+ FSIM: 0.989 v.s. 0.989 
+ MAD: 78.1 v.s. 35
+ 
+I56_03_03.png and I56_10_01.png: 
+ MOS: 2.43 v.s. 4.55 
+ FSIM: 0.989 v.s. 0.989 
+ MAD: 78.1 v.s. 84.8
+ 
+I56_03_04.png and I56_06_01.png: 
+ MOS: 1.97 v.s. 4 
+ FSIM: 0.977 v.s. 0.977 
+ MAD: 101 v.s. 119
+ 
+I56_03_04.png and I56_21_01.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.977 v.s. 0.977 
+ MAD: 101 v.s. 78.3
+ 
+I61_03_03.png and I61_20_03.png: 
+ MOS: 2.37 v.s. 4.43 
+ FSIM: 0.961 v.s. 0.961 
+ MAD: 111 v.s. 81.6
+ 
+I81_03_04.png and I81_18_05.png: 
+ MOS: 2.17 v.s. 4.2 
+ FSIM: 0.972 v.s. 0.971 
+ MAD: 82.6 v.s. 90
+ 
+I29_04_02.png and I29_12_01.png: 
+ MOS: 1.97 v.s. 4.57 
+ FSIM: 0.974 v.s. 0.975 
+ MAD: 164 v.s. 66.2
+ 
+I32_04_03.png and I32_20_05.png: 
+ MOS: 1.57 v.s. 3.63 
+ FSIM: 0.956 v.s. 0.956 
+ MAD: 153 v.s. 89
+ 
+I65_04_03.png and I65_25_01.png: 
+ MOS: 1.83 v.s. 3.87 
+ FSIM: 0.943 v.s. 0.942 
+ MAD: 180 v.s. 116
+ 
+I80_04_02.png and I80_06_03.png: 
+ MOS: 1.93 v.s. 4.03 
+ FSIM: 0.971 v.s. 0.971 
+ MAD: 132 v.s. 111
+ 
+I04_05_04.png and I04_24_01.png: 
+ MOS: 1.43 v.s. 3.77 
+ FSIM: 0.902 v.s. 0.902 
+ MAD: 31.2 v.s. 111
+ 
+I07_05_03.png and I07_09_04.png: 
+ MOS: 1.5 v.s. 3.6 
+ FSIM: 0.968 v.s. 0.969 
+ MAD: 18.4 v.s. 92.4
+ 
+I11_05_01.png and I11_23_01.png: 
+ MOS: 4.5 v.s. 1.93 
+ FSIM: 0.987 v.s. 0.988 
+ MAD: 10.2 v.s. 22.9
+ 
+I16_05_02.png and I16_25_05.png: 
+ MOS: 1.58 v.s. 3.7 
+ FSIM: 0.951 v.s. 0.952 
+ MAD: 24.5 v.s. 110
+ 
+I16_05_03.png and I16_25_01.png: 
+ MOS: 1.23 v.s. 3.43 
+ FSIM: 0.922 v.s. 0.922 
+ MAD: 30.9 v.s. 150
+ 
+I26_05_03.png and I26_24_01.png: 
+ MOS: 1.57 v.s. 3.6 
+ FSIM: 0.941 v.s. 0.941 
+ MAD: 32.5 v.s. 98.7
+ 
+I29_05_03.png and I29_24_01.png: 
+ MOS: 1.73 v.s. 4 
+ FSIM: 0.962 v.s. 0.962 
+ MAD: 25.6 v.s. 74.2
+ 
+I29_05_04.png and I29_10_03.png: 
+ MOS: 1.57 v.s. 3.63 
+ FSIM: 0.968 v.s. 0.968 
+ MAD: 26.2 v.s. 172
+ 
+I31_05_05.png and I31_24_01.png: 
+ MOS: 1.7 v.s. 3.77 
+ FSIM: 0.917 v.s. 0.916 
+ MAD: 38.8 v.s. 119
+ 
+I32_05_01.png and I32_07_01.png: 
+ MOS: 4.3 v.s. 2.2 
+ FSIM: 0.982 v.s. 0.981 
+ MAD: 8.01 v.s. 59.6
+ 
+I52_05_01.png and I52_23_01.png: 
+ MOS: 4.63 v.s. 2.43 
+ FSIM: 0.986 v.s. 0.985 
+ MAD: 16.6 v.s. 0
+ 
+I53_05_03.png and I53_24_01.png: 
+ MOS: 1.57 v.s. 3.93 
+ FSIM: 0.967 v.s. 0.967 
+ MAD: 29.8 v.s. 82.8
+ 
+I55_05_01.png and I55_08_03.png: 
+ MOS: 4.5 v.s. 2.37 
+ FSIM: 0.981 v.s. 0.981 
+ MAD: 13.1 v.s. 114
+ 
+I59_05_01.png and I59_23_02.png: 
+ MOS: 4.67 v.s. 2.47 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 9.92 v.s. 53.3
+ 
+I70_05_04.png and I70_15_01.png: 
+ MOS: 1.9 v.s. 4.13 
+ FSIM: 0.962 v.s. 0.962 
+ MAD: 33.2 v.s. 99
+ 
+I77_05_01.png and I77_23_01.png: 
+ MOS: 4.5 v.s. 2.47 
+ FSIM: 0.989 v.s. 0.989 
+ MAD: 11.9 v.s. 21.8
+ 
+I81_05_03.png and I81_17_04.png: 
+ MOS: 1.37 v.s. 3.73 
+ FSIM: 0.955 v.s. 0.955 
+ MAD: 32.7 v.s. 95.5
+ 
+I12_06_03.png and I12_07_02.png: 
+ MOS: 4 v.s. 1.87 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 47.3 v.s. 53.6
+ 
+I02_07_04.png and I02_18_05.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.956 v.s. 0.957 
+ MAD: 84.7 v.s. 90.2
+ 
+I12_07_01.png and I12_10_01.png: 
+ MOS: 2.4 v.s. 4.5 
+ FSIM: 0.991 v.s. 0.99 
+ MAD: 38.7 v.s. 45.1
+ 
+I12_07_01.png and I12_12_02.png: 
+ MOS: 2.4 v.s. 4.4 
+ FSIM: 0.991 v.s. 0.991 
+ MAD: 38.7 v.s. 32.6
+ 
+I12_07_02.png and I12_09_01.png: 
+ MOS: 1.87 v.s. 4.13 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 53.6 v.s. 41.4
+ 
+I12_07_02.png and I12_10_03.png: 
+ MOS: 1.87 v.s. 4 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 53.6 v.s. 65.1
+ 
+I12_07_02.png and I12_12_03.png: 
+ MOS: 1.87 v.s. 3.93 
+ FSIM: 0.983 v.s. 0.983 
+ MAD: 53.6 v.s. 55.5
+ 
+I17_07_01.png and I17_20_02.png: 
+ MOS: 2.5 v.s. 4.57 
+ FSIM: 0.976 v.s. 0.976 
+ MAD: 68.8 v.s. 69.7
+ 
+I29_07_02.png and I29_10_01.png: 
+ MOS: 2.2 v.s. 4.53 
+ FSIM: 0.979 v.s. 0.98 
+ MAD: 73.8 v.s. 117
+ 
+I46_07_01.png and I46_20_03.png: 
+ MOS: 2.35 v.s. 4.43 
+ FSIM: 0.966 v.s. 0.966 
+ MAD: 107 v.s. 99.9
+ 
+I55_07_03.png and I55_12_03.png: 
+ MOS: 2.27 v.s. 4.3 
+ FSIM: 0.972 v.s. 0.972 
+ MAD: 65.7 v.s. 86.4
+ 
+I65_07_02.png and I65_20_02.png: 
+ MOS: 2.13 v.s. 4.3 
+ FSIM: 0.974 v.s. 0.974 
+ MAD: 77.9 v.s. 99.2
+ 
+I70_07_01.png and I70_22_03.png: 
+ MOS: 2.3 v.s. 4.37 
+ FSIM: 0.978 v.s. 0.979 
+ MAD: 80.1 v.s. 77.9
+ 
+I70_07_02.png and I70_15_01.png: 
+ MOS: 1.97 v.s. 4.13 
+ FSIM: 0.963 v.s. 0.962 
+ MAD: 97 v.s. 99
+ 
+I70_07_03.png and I70_18_05.png: 
+ MOS: 2.17 v.s. 4.43 
+ FSIM: 0.953 v.s. 0.954 
+ MAD: 104 v.s. 97
+ 
+I72_07_01.png and I72_17_03.png: 
+ MOS: 2.4 v.s. 4.6 
+ FSIM: 0.987 v.s. 0.987 
+ MAD: 62.4 v.s. 56.4
+ 
+I72_07_01.png and I72_20_01.png: 
+ MOS: 2.4 v.s. 4.43 
+ FSIM: 0.987 v.s. 0.987 
+ MAD: 62.4 v.s. 53
+ 
+I80_07_04.png and I80_21_01.png: 
+ MOS: 2 v.s. 4.13 
+ FSIM: 0.931 v.s. 0.93 
+ MAD: 99.4 v.s. 88.8
+ 
+I02_08_05.png and I02_21_01.png: 
+ MOS: 1.37 v.s. 4.2 
+ FSIM: 0.914 v.s. 0.914 
+ MAD: 308 v.s. 90.4
+ 
+I05_08_05.png and I05_21_01.png: 
+ MOS: 1.7 v.s. 4.17 
+ FSIM: 0.912 v.s. 0.911 
+ MAD: 313 v.s. 88.6
+ 
+I29_08_03.png and I29_09_04.png: 
+ MOS: 1.93 v.s. 4.23 
+ FSIM: 0.975 v.s. 0.976 
+ MAD: 175 v.s. 91.2
+ 
+I29_08_03.png and I29_12_01.png: 
+ MOS: 1.93 v.s. 4.57 
+ FSIM: 0.975 v.s. 0.975 
+ MAD: 175 v.s. 66.2
+ 
+I02_09_01.png and I02_23_01.png: 
+ MOS: 4.57 v.s. 2.1 
+ FSIM: 0.981 v.s. 0.98 
+ MAD: 52 v.s. 0
+ 
+I14_09_02.png and I14_23_02.png: 
+ MOS: 4.1 v.s. 2.07 
+ FSIM: 0.976 v.s. 0.976 
+ MAD: 97.2 v.s. 53.7
+ 
+I29_09_04.png and I29_19_04.png: 
+ MOS: 4.23 v.s. 2.1 
+ FSIM: 0.976 v.s. 0.976 
+ MAD: 91.2 v.s. 105
+ 
+I43_09_05.png and I43_24_02.png: 
+ MOS: 1.53 v.s. 3.73 
+ FSIM: 0.856 v.s. 0.855 
+ MAD: 175 v.s. 147
+ 
+I51_09_02.png and I51_23_02.png: 
+ MOS: 4.47 v.s. 2.43 
+ FSIM: 0.98 v.s. 0.98 
+ MAD: 85.3 v.s. 43.4
+ 
+I55_09_01.png and I55_23_01.png: 
+ MOS: 4.43 v.s. 2.27 
+ FSIM: 0.985 v.s. 0.984 
+ MAD: 42.6 v.s. 32.2
+ 
+I79_09_05.png and I79_24_02.png: 
+ MOS: 1.23 v.s. 3.33 
+ FSIM: 0.819 v.s. 0.819 
+ MAD: 181 v.s. 138
+ 
+I11_10_01.png and I11_23_01.png: 
+ MOS: 4.43 v.s. 1.93 
+ FSIM: 0.988 v.s. 0.988 
+ MAD: 78.7 v.s. 22.9
+ 
+I11_10_03.png and I11_23_02.png: 
+ MOS: 4.03 v.s. 1.63 
+ FSIM: 0.975 v.s. 0.974 
+ MAD: 101 v.s. 70.6
+ 
+I61_10_04.png and I61_21_01.png: 
+ MOS: 1.93 v.s. 4 
+ FSIM: 0.917 v.s. 0.917 
+ MAD: 147 v.s. 105
+ 
+I74_10_01.png and I74_23_01.png: 
+ MOS: 4.37 v.s. 2.27 
+ FSIM: 0.991 v.s. 0.991 
+ MAD: 42.8 v.s. 0
+ 
+I39_11_01.png and I39_23_01.png: 
+ MOS: 4.53 v.s. 2.5 
+ FSIM: 0.991 v.s. 0.99 
+ MAD: 51.7 v.s. 0
+ 
+I70_11_05.png and I70_16_03.png: 
+ MOS: 2.03 v.s. 4.03 
+ FSIM: 0.93 v.s. 0.931 
+ MAD: 164 v.s. 118
+ 
+I74_11_01.png and I74_23_01.png: 
+ MOS: 4.4 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ MAD: 25.3 v.s. 0
+ 
+I22_12_01.png and I22_23_01.png: 
+ MOS: 4.73 v.s. 1.97 
+ FSIM: 0.99 v.s. 0.99 
+ MAD: 65.8 v.s. 53.5
+ 
+I55_12_02.png and I55_23_01.png: 
+ MOS: 4.53 v.s. 2.27 
+ FSIM: 0.985 v.s. 0.984 
+ MAD: 60.4 v.s. 32.2
+ 
+I05_13_04.png and I05_20_03.png: 
+ MOS: 2.07 v.s. 4.4 
+ FSIM: 0.968 v.s. 0.968 
+ MAD: 163 v.s. 67.3
+ 
+I05_13_05.png and I05_20_04.png: 
+ MOS: 2.07 v.s. 4.43 
+ FSIM: 0.953 v.s. 0.954 
+ MAD: 166 v.s. 73.6
+ 
+I17_13_05.png and I17_20_03.png: 
+ MOS: 2.4 v.s. 4.4 
+ FSIM: 0.961 v.s. 0.96 
+ MAD: 131 v.s. 75.5
+ 
+I34_13_04.png and I34_21_01.png: 
+ MOS: 2.07 v.s. 4.17 
+ FSIM: 0.944 v.s. 0.943 
+ MAD: 228 v.s. 85
+ 
+I81_13_03.png and I81_18_05.png: 
+ MOS: 2.17 v.s. 4.2 
+ FSIM: 0.971 v.s. 0.971 
+ MAD: 286 v.s. 90
+ 
+I16_14_05.png and I16_21_01.png: 
+ MOS: 1.9 v.s. 4.1 
+ FSIM: 0.946 v.s. 0.946 
+ MAD: 138 v.s. 92.5
+ 
+I36_14_05.png and I36_21_01.png: 
+ MOS: 2.2 v.s. 4.27 
+ FSIM: 0.952 v.s. 0.951 
+ MAD: 128 v.s. 103
+ 
+I74_14_02.png and I74_23_01.png: 
+ MOS: 4.3 v.s. 2.27 
+ FSIM: 0.99 v.s. 0.991 
+ MAD: 29.1 v.s. 0
+ 
+I46_15_01.png and I46_23_04.png: 
+ MOS: 4.23 v.s. 2.17 
+ FSIM: 0.955 v.s. 0.955 
+ MAD: 106 v.s. 109
+ 
+I46_15_01.png and I46_23_05.png: 
+ MOS: 4.23 v.s. 1.87 
+ FSIM: 0.955 v.s. 0.956 
+ MAD: 106 v.s. 114
+ 
+I70_15_01.png and I70_20_05.png: 
+ MOS: 4.13 v.s. 1.74 
+ FSIM: 0.962 v.s. 0.961 
+ MAD: 99 v.s. 146
+ 
+I71_15_03.png and I71_24_01.png: 
+ MOS: 1.67 v.s. 3.77 
+ FSIM: 0.907 v.s. 0.907 
+ MAD: 162 v.s. 99.5
+ 
+I39_16_03.png and I39_23_04.png: 
+ MOS: 4.3 v.s. 2.1 
+ FSIM: 0.954 v.s. 0.954 
+ MAD: 106 v.s. 99.1
+ 
+I47_16_02.png and I47_23_01.png: 
+ MOS: 4.53 v.s. 2.47 
+ FSIM: 0.991 v.s. 0.991 
+ MAD: 56.4 v.s. 19.2
+ 
+I74_16_02.png and I74_23_01.png: 
+ MOS: 4.42 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ MAD: 28.3 v.s. 0
+ 
+I11_17_03.png and I11_23_01.png: 
+ MOS: 4.6 v.s. 1.93 
+ FSIM: 0.987 v.s. 0.988 
+ MAD: 45.5 v.s. 22.9
+ 
+I12_17_03.png and I12_23_01.png: 
+ MOS: 4.33 v.s. 2.26 
+ FSIM: 0.988 v.s. 0.987 
+ MAD: 23.7 v.s. 0
+ 
+I69_17_03.png and I69_23_01.png: 
+ MOS: 4.27 v.s. 2.2 
+ FSIM: 0.989 v.s. 0.989 
+ MAD: 52.4 v.s. 0
+ 
+I08_18_05.png and I08_19_04.png: 
+ MOS: 4.13 v.s. 1.87 
+ FSIM: 0.978 v.s. 0.978 
+ MAD: 113 v.s. 118
+ 
+I22_18_01.png and I22_23_01.png: 
+ MOS: 4.07 v.s. 1.97 
+ FSIM: 0.99 v.s. 0.99 
+ MAD: 94.4 v.s. 53.5
+ 
+I52_18_01.png and I52_23_01.png: 
+ MOS: 4.63 v.s. 2.43 
+ FSIM: 0.986 v.s. 0.985 
+ MAD: 61.6 v.s. 0
+ 
+I55_18_01.png and I55_23_01.png: 
+ MOS: 4.43 v.s. 2.27 
+ FSIM: 0.984 v.s. 0.984 
+ MAD: 49.1 v.s. 32.2
+ 
+I62_18_01.png and I62_23_03.png: 
+ MOS: 4.38 v.s. 1.9 
+ FSIM: 0.973 v.s. 0.972 
+ MAD: 88.1 v.s. 46
+ 
+I69_18_04.png and I69_23_01.png: 
+ MOS: 4.43 v.s. 2.2 
+ FSIM: 0.988 v.s. 0.989 
+ MAD: 47.3 v.s. 0
+ 
+I70_18_01.png and I70_19_04.png: 
+ MOS: 4.37 v.s. 1.57 
+ FSIM: 0.949 v.s. 0.949 
+ MAD: 78.3 v.s. 150
+ 
+I08_19_04.png and I08_20_04.png: 
+ MOS: 1.87 v.s. 3.97 
+ FSIM: 0.978 v.s. 0.978 
+ MAD: 118 v.s. 106
+ 
+I23_19_01.png and I23_23_01.png: 
+ MOS: 4.6 v.s. 2.57 
+ FSIM: 0.997 v.s. 0.996 
+ MAD: 32.8 v.s. 53
+ 
+I49_19_04.png and I49_25_05.png: 
+ MOS: 1.87 v.s. 3.97 
+ FSIM: 0.956 v.s. 0.955 
+ MAD: 120 v.s. 91.4
+ 
+I02_20_05.png and I02_23_04.png: 
+ MOS: 4.4 v.s. 2.2 
+ FSIM: 0.94 v.s. 0.94 
+ MAD: 95.2 v.s. 97.4
+ 
+I03_20_02.png and I03_23_02.png: 
+ MOS: 4.67 v.s. 2.3 
+ FSIM: 0.975 v.s. 0.975 
+ MAD: 83.9 v.s. 0
+ 
+I03_20_04.png and I03_23_04.png: 
+ MOS: 4.17 v.s. 2.1 
+ FSIM: 0.954 v.s. 0.954 
+ MAD: 102 v.s. 110
+ 
+I04_20_02.png and I04_23_03.png: 
+ MOS: 4.1 v.s. 1.87 
+ FSIM: 0.968 v.s. 0.968 
+ MAD: 81.2 v.s. 93.2
+ 
+I05_20_02.png and I05_23_01.png: 
+ MOS: 4.53 v.s. 2.33 
+ FSIM: 0.979 v.s. 0.979 
+ MAD: 53 v.s. 0
+ 
+I05_20_05.png and I05_23_04.png: 
+ MOS: 3.97 v.s. 1.8 
+ FSIM: 0.942 v.s. 0.942 
+ MAD: 84.5 v.s. 80.9
+ 
+I11_20_03.png and I11_23_02.png: 
+ MOS: 4.17 v.s. 1.63 
+ FSIM: 0.975 v.s. 0.974 
+ MAD: 77.2 v.s. 70.6
+ 
+I12_20_01.png and I12_23_01.png: 
+ MOS: 4.37 v.s. 2.26 
+ FSIM: 0.987 v.s. 0.987 
+ MAD: 51.3 v.s. 0
+ 
+I31_20_05.png and I31_23_04.png: 
+ MOS: 4.27 v.s. 2.23 
+ FSIM: 0.957 v.s. 0.957 
+ MAD: 118 v.s. 118
+ 
+I43_20_02.png and I43_23_01.png: 
+ MOS: 4.53 v.s. 2.43 
+ FSIM: 0.983 v.s. 0.984 
+ MAD: 62.8 v.s. 52.9
+ 
+I46_20_05.png and I46_23_05.png: 
+ MOS: 4.37 v.s. 1.87 
+ FSIM: 0.957 v.s. 0.956 
+ MAD: 112 v.s. 114
+ 
+I81_20_05.png and I81_25_02.png: 
+ MOS: 1.33 v.s. 3.73 
+ FSIM: 0.965 v.s. 0.965 
+ MAD: 123 v.s. 88.5
+ 
+I08_21_05.png and I08_25_05.png: 
+ MOS: 1.63 v.s. 3.7 
+ FSIM: 0.96 v.s. 0.96 
+ MAD: 131 v.s. 104
+ 
+I50_21_01.png and I50_23_03.png: 
+ MOS: 4.37 v.s. 2.2 
+ FSIM: 0.955 v.s. 0.955 
+ MAD: 80.1 v.s. 104
+ 
+I11_22_01.png and I11_23_01.png: 
+ MOS: 4.1 v.s. 1.93 
+ FSIM: 0.989 v.s. 0.988 
+ MAD: 79 v.s. 22.9
+ 
+I12_22_04.png and I12_23_01.png: 
+ MOS: 4.43 v.s. 2.26 
+ FSIM: 0.986 v.s. 0.987 
+ MAD: 48.7 v.s. 0
+ 
+I23_22_04.png and I23_23_03.png: 
+ MOS: 4.43 v.s. 2 
+ FSIM: 0.971 v.s. 0.97 
+ MAD: 87.7 v.s. 62.1
+ 
+I46_22_05.png and I46_23_05.png: 
+ MOS: 3.93 v.s. 1.87 
+ FSIM: 0.956 v.s. 0.956 
+ MAD: 137 v.s. 114
+ 
+I56_22_01.png and I56_23_02.png: 
+ MOS: 4.2 v.s. 2.07 
+ FSIM: 0.985 v.s. 0.985 
+ MAD: 65.7 v.s. 68.6
+ 
+I74_22_02.png and I74_23_01.png: 
+ MOS: 4.5 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ MAD: 32.1 v.s. 0
+ 
+I74_22_04.png and I74_23_02.png: 
+ MOS: 4.4 v.s. 2.3 
+ FSIM: 0.967 v.s. 0.966 
+ MAD: 77 v.s. 14.5
+ 
+I77_22_01.png and I77_23_01.png: 
+ MOS: 4.6 v.s. 2.47 
+ FSIM: 0.99 v.s. 0.989 
+ MAD: 59.6 v.s. 21.8
+ 
+I08_23_04.png and I08_24_01.png: 
+ MOS: 2.03 v.s. 4.1 
+ FSIM: 0.968 v.s. 0.968 
+ MAD: 119 v.s. 84.8
+ 
+I12_23_01.png and I12_25_04.png: 
+ MOS: 2.26 v.s. 4.33 
+ FSIM: 0.987 v.s. 0.987 
+ MAD: 0 v.s. 37.7
+ 
+I22_23_01.png and I22_25_04.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.99 v.s. 0.991 
+ MAD: 53.5 v.s. 67.5
+ 
+I25_23_01.png and I25_25_03.png: 
+ MOS: 2.43 v.s. 4.5 
+ FSIM: 0.979 v.s. 0.979 
+ MAD: 37.3 v.s. 55.2
+ 
+I25_23_01.png and I25_25_04.png: 
+ MOS: 2.43 v.s. 4.67 
+ FSIM: 0.979 v.s. 0.979 
+ MAD: 37.3 v.s. 50.7
+ 
+I55_23_01.png and I55_25_04.png: 
+ MOS: 2.27 v.s. 4.3 
+ FSIM: 0.984 v.s. 0.985 
+ MAD: 32.2 v.s. 50.1
+ 
+I81_23_04.png and I81_25_02.png: 
+ MOS: 1.67 v.s. 3.73 
+ FSIM: 0.965 v.s. 0.965 
+ MAD: 118 v.s. 88.5
+ 
+Total num: 134

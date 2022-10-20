@@ -1,0 +1,671 @@
+I18_01_04.png and I18_24_01.png: 
+ MOS: 1.77 v.s. 4.1 
+ FSIM: 0.95 v.s. 0.951 
+ DeepWSD: 0.555 v.s. 0.453
+ 
+I28_01_04.png and I28_24_01.png: 
+ MOS: 2.19 v.s. 4.2 
+ FSIM: 0.963 v.s. 0.962 
+ DeepWSD: 0.579 v.s. 0.483
+ 
+I75_01_03.png and I75_09_03.png: 
+ MOS: 2.5 v.s. 4.6 
+ FSIM: 0.99 v.s. 0.991 
+ DeepWSD: 0.458 v.s. 0.365
+ 
+I16_02_02.png and I16_09_03.png: 
+ MOS: 1.93 v.s. 4 
+ FSIM: 0.961 v.s. 0.961 
+ DeepWSD: 0.549 v.s. 0.507
+ 
+I48_02_03.png and I48_25_05.png: 
+ MOS: 1.87 v.s. 3.9 
+ FSIM: 0.956 v.s. 0.956 
+ DeepWSD: 0.583 v.s. 0.543
+ 
+I70_02_02.png and I70_18_04.png: 
+ MOS: 2.7 v.s. 4.8 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.533 v.s. 0.382
+ 
+I04_03_04.png and I04_21_01.png: 
+ MOS: 1.93 v.s. 4.4 
+ FSIM: 0.928 v.s. 0.928 
+ DeepWSD: 0.623 v.s. 0.503
+ 
+I07_03_05.png and I07_24_01.png: 
+ MOS: 1.53 v.s. 3.8 
+ FSIM: 0.955 v.s. 0.955 
+ DeepWSD: 0.595 v.s. 0.492
+ 
+I07_03_05.png and I07_25_05.png: 
+ MOS: 1.53 v.s. 3.57 
+ FSIM: 0.955 v.s. 0.954 
+ DeepWSD: 0.595 v.s. 0.512
+ 
+I16_03_03.png and I16_20_03.png: 
+ MOS: 2.03 v.s. 4.43 
+ FSIM: 0.974 v.s. 0.974 
+ DeepWSD: 0.511 v.s. 0.433
+ 
+I22_03_03.png and I22_09_03.png: 
+ MOS: 2.73 v.s. 4.77 
+ FSIM: 0.988 v.s. 0.989 
+ DeepWSD: 0.455 v.s. 0.364
+ 
+I29_03_04.png and I29_18_04.png: 
+ MOS: 2.33 v.s. 4.37 
+ FSIM: 0.982 v.s. 0.983 
+ DeepWSD: 0.478 v.s. 0.369
+ 
+I56_03_03.png and I56_09_02.png: 
+ MOS: 2.43 v.s. 4.67 
+ FSIM: 0.989 v.s. 0.989 
+ DeepWSD: 0.493 v.s. 0.357
+ 
+I56_03_03.png and I56_10_01.png: 
+ MOS: 2.43 v.s. 4.55 
+ FSIM: 0.989 v.s. 0.989 
+ DeepWSD: 0.493 v.s. 0.372
+ 
+I56_03_04.png and I56_06_01.png: 
+ MOS: 1.97 v.s. 4 
+ FSIM: 0.977 v.s. 0.977 
+ DeepWSD: 0.558 v.s. 0.462
+ 
+I56_03_04.png and I56_21_01.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.977 v.s. 0.977 
+ DeepWSD: 0.558 v.s. 0.405
+ 
+I61_03_03.png and I61_20_03.png: 
+ MOS: 2.37 v.s. 4.43 
+ FSIM: 0.961 v.s. 0.961 
+ DeepWSD: 0.584 v.s. 0.505
+ 
+I81_03_04.png and I81_18_05.png: 
+ MOS: 2.17 v.s. 4.2 
+ FSIM: 0.972 v.s. 0.971 
+ DeepWSD: 0.559 v.s. 0.435
+ 
+I29_04_02.png and I29_12_01.png: 
+ MOS: 1.97 v.s. 4.57 
+ FSIM: 0.974 v.s. 0.975 
+ DeepWSD: 0.597 v.s. 0.311
+ 
+I32_04_03.png and I32_20_05.png: 
+ MOS: 1.57 v.s. 3.63 
+ FSIM: 0.956 v.s. 0.956 
+ DeepWSD: 0.589 v.s. 0.483
+ 
+I65_04_03.png and I65_25_01.png: 
+ MOS: 1.83 v.s. 3.87 
+ FSIM: 0.943 v.s. 0.942 
+ DeepWSD: 0.638 v.s. 0.553
+ 
+I80_04_02.png and I80_06_03.png: 
+ MOS: 1.93 v.s. 4.03 
+ FSIM: 0.971 v.s. 0.971 
+ DeepWSD: 0.594 v.s. 0.454
+ 
+I04_05_04.png and I04_24_01.png: 
+ MOS: 1.43 v.s. 3.77 
+ FSIM: 0.902 v.s. 0.902 
+ DeepWSD: 0.648 v.s. 0.542
+ 
+I07_05_03.png and I07_09_04.png: 
+ MOS: 1.5 v.s. 3.6 
+ FSIM: 0.968 v.s. 0.969 
+ DeepWSD: 0.546 v.s. 0.516
+ 
+I11_05_01.png and I11_23_01.png: 
+ MOS: 4.5 v.s. 1.93 
+ FSIM: 0.987 v.s. 0.988 
+ DeepWSD: 0.306 v.s. 0.447
+ 
+I16_05_02.png and I16_25_05.png: 
+ MOS: 1.58 v.s. 3.7 
+ FSIM: 0.951 v.s. 0.952 
+ DeepWSD: 0.501 v.s. 0.534
+ 
+I16_05_03.png and I16_25_01.png: 
+ MOS: 1.23 v.s. 3.43 
+ FSIM: 0.922 v.s. 0.922 
+ DeepWSD: 0.584 v.s. 0.56
+ 
+I26_05_03.png and I26_24_01.png: 
+ MOS: 1.57 v.s. 3.6 
+ FSIM: 0.941 v.s. 0.941 
+ DeepWSD: 0.594 v.s. 0.518
+ 
+I29_05_03.png and I29_24_01.png: 
+ MOS: 1.73 v.s. 4 
+ FSIM: 0.962 v.s. 0.962 
+ DeepWSD: 0.551 v.s. 0.489
+ 
+I29_05_04.png and I29_10_03.png: 
+ MOS: 1.57 v.s. 3.63 
+ FSIM: 0.968 v.s. 0.968 
+ DeepWSD: 0.537 v.s. 0.408
+ 
+I31_05_05.png and I31_24_01.png: 
+ MOS: 1.7 v.s. 3.77 
+ FSIM: 0.917 v.s. 0.916 
+ DeepWSD: 0.614 v.s. 0.526
+ 
+I32_05_01.png and I32_07_01.png: 
+ MOS: 4.3 v.s. 2.2 
+ FSIM: 0.982 v.s. 0.981 
+ DeepWSD: 0.33 v.s. 0.422
+ 
+I52_05_01.png and I52_23_01.png: 
+ MOS: 4.63 v.s. 2.43 
+ FSIM: 0.986 v.s. 0.985 
+ DeepWSD: 0.319 v.s. 0.42
+ 
+I53_05_03.png and I53_24_01.png: 
+ MOS: 1.57 v.s. 3.93 
+ FSIM: 0.967 v.s. 0.967 
+ DeepWSD: 0.514 v.s. 0.468
+ 
+I55_05_01.png and I55_08_03.png: 
+ MOS: 4.5 v.s. 2.37 
+ FSIM: 0.981 v.s. 0.981 
+ DeepWSD: 0.365 v.s. 0.567
+ 
+I59_05_01.png and I59_23_02.png: 
+ MOS: 4.67 v.s. 2.47 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.368 v.s. 0.501
+ 
+I70_05_04.png and I70_15_01.png: 
+ MOS: 1.9 v.s. 4.13 
+ FSIM: 0.962 v.s. 0.962 
+ DeepWSD: 0.561 v.s. 0.487
+ 
+I77_05_01.png and I77_23_01.png: 
+ MOS: 4.5 v.s. 2.47 
+ FSIM: 0.989 v.s. 0.989 
+ DeepWSD: 0.305 v.s. 0.456
+ 
+I81_05_03.png and I81_17_04.png: 
+ MOS: 1.37 v.s. 3.73 
+ FSIM: 0.955 v.s. 0.955 
+ DeepWSD: 0.564 v.s. 0.518
+ 
+I12_06_03.png and I12_07_02.png: 
+ MOS: 4 v.s. 1.87 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.431 v.s. 0.564
+ 
+I02_07_04.png and I02_18_05.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.956 v.s. 0.957 
+ DeepWSD: 0.572 v.s. 0.476
+ 
+I12_07_01.png and I12_10_01.png: 
+ MOS: 2.4 v.s. 4.5 
+ FSIM: 0.991 v.s. 0.99 
+ DeepWSD: 0.511 v.s. 0.376
+ 
+I12_07_01.png and I12_12_02.png: 
+ MOS: 2.4 v.s. 4.4 
+ FSIM: 0.991 v.s. 0.991 
+ DeepWSD: 0.511 v.s. 0.334
+ 
+I12_07_02.png and I12_09_01.png: 
+ MOS: 1.87 v.s. 4.13 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.564 v.s. 0.402
+ 
+I12_07_02.png and I12_10_03.png: 
+ MOS: 1.87 v.s. 4 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.564 v.s. 0.429
+ 
+I12_07_02.png and I12_12_03.png: 
+ MOS: 1.87 v.s. 3.93 
+ FSIM: 0.983 v.s. 0.983 
+ DeepWSD: 0.564 v.s. 0.387
+ 
+I17_07_01.png and I17_20_02.png: 
+ MOS: 2.5 v.s. 4.57 
+ FSIM: 0.976 v.s. 0.976 
+ DeepWSD: 0.547 v.s. 0.475
+ 
+I29_07_02.png and I29_10_01.png: 
+ MOS: 2.2 v.s. 4.53 
+ FSIM: 0.979 v.s. 0.98 
+ DeepWSD: 0.496 v.s. 0.343
+ 
+I46_07_01.png and I46_20_03.png: 
+ MOS: 2.35 v.s. 4.43 
+ FSIM: 0.966 v.s. 0.966 
+ DeepWSD: 0.582 v.s. 0.496
+ 
+I55_07_03.png and I55_12_03.png: 
+ MOS: 2.27 v.s. 4.3 
+ FSIM: 0.972 v.s. 0.972 
+ DeepWSD: 0.565 v.s. 0.443
+ 
+I65_07_02.png and I65_20_02.png: 
+ MOS: 2.13 v.s. 4.3 
+ FSIM: 0.974 v.s. 0.974 
+ DeepWSD: 0.501 v.s. 0.498
+ 
+I70_07_01.png and I70_22_03.png: 
+ MOS: 2.3 v.s. 4.37 
+ FSIM: 0.978 v.s. 0.979 
+ DeepWSD: 0.511 v.s. 0.398
+ 
+I70_07_02.png and I70_15_01.png: 
+ MOS: 1.97 v.s. 4.13 
+ FSIM: 0.963 v.s. 0.962 
+ DeepWSD: 0.578 v.s. 0.487
+ 
+I70_07_03.png and I70_18_05.png: 
+ MOS: 2.17 v.s. 4.43 
+ FSIM: 0.953 v.s. 0.954 
+ DeepWSD: 0.607 v.s. 0.48
+ 
+I72_07_01.png and I72_17_03.png: 
+ MOS: 2.4 v.s. 4.6 
+ FSIM: 0.987 v.s. 0.987 
+ DeepWSD: 0.448 v.s. 0.41
+ 
+I72_07_01.png and I72_20_01.png: 
+ MOS: 2.4 v.s. 4.43 
+ FSIM: 0.987 v.s. 0.987 
+ DeepWSD: 0.448 v.s. 0.395
+ 
+I80_07_04.png and I80_21_01.png: 
+ MOS: 2 v.s. 4.13 
+ FSIM: 0.931 v.s. 0.93 
+ DeepWSD: 0.58 v.s. 0.471
+ 
+I02_08_05.png and I02_21_01.png: 
+ MOS: 1.37 v.s. 4.2 
+ FSIM: 0.914 v.s. 0.914 
+ DeepWSD: 0.705 v.s. 0.505
+ 
+I05_08_05.png and I05_21_01.png: 
+ MOS: 1.7 v.s. 4.17 
+ FSIM: 0.912 v.s. 0.911 
+ DeepWSD: 0.693 v.s. 0.503
+ 
+I29_08_03.png and I29_09_04.png: 
+ MOS: 1.93 v.s. 4.23 
+ FSIM: 0.975 v.s. 0.976 
+ DeepWSD: 0.584 v.s. 0.414
+ 
+I29_08_03.png and I29_12_01.png: 
+ MOS: 1.93 v.s. 4.57 
+ FSIM: 0.975 v.s. 0.975 
+ DeepWSD: 0.584 v.s. 0.311
+ 
+I02_09_01.png and I02_23_01.png: 
+ MOS: 4.57 v.s. 2.1 
+ FSIM: 0.981 v.s. 0.98 
+ DeepWSD: 0.452 v.s. 0.444
+ 
+I14_09_02.png and I14_23_02.png: 
+ MOS: 4.1 v.s. 2.07 
+ FSIM: 0.976 v.s. 0.976 
+ DeepWSD: 0.466 v.s. 0.514
+ 
+I29_09_04.png and I29_19_04.png: 
+ MOS: 4.23 v.s. 2.1 
+ FSIM: 0.976 v.s. 0.976 
+ DeepWSD: 0.414 v.s. 0.524
+ 
+I43_09_05.png and I43_24_02.png: 
+ MOS: 1.53 v.s. 3.73 
+ FSIM: 0.856 v.s. 0.855 
+ DeepWSD: 0.656 v.s. 0.557
+ 
+I51_09_02.png and I51_23_02.png: 
+ MOS: 4.47 v.s. 2.43 
+ FSIM: 0.98 v.s. 0.98 
+ DeepWSD: 0.435 v.s. 0.472
+ 
+I55_09_01.png and I55_23_01.png: 
+ MOS: 4.43 v.s. 2.27 
+ FSIM: 0.985 v.s. 0.984 
+ DeepWSD: 0.401 v.s. 0.455
+ 
+I79_09_05.png and I79_24_02.png: 
+ MOS: 1.23 v.s. 3.33 
+ FSIM: 0.819 v.s. 0.819 
+ DeepWSD: 0.78 v.s. 0.618
+ 
+I11_10_01.png and I11_23_01.png: 
+ MOS: 4.43 v.s. 1.93 
+ FSIM: 0.988 v.s. 0.988 
+ DeepWSD: 0.382 v.s. 0.447
+ 
+I11_10_03.png and I11_23_02.png: 
+ MOS: 4.03 v.s. 1.63 
+ FSIM: 0.975 v.s. 0.974 
+ DeepWSD: 0.439 v.s. 0.496
+ 
+I61_10_04.png and I61_21_01.png: 
+ MOS: 1.93 v.s. 4 
+ FSIM: 0.917 v.s. 0.917 
+ DeepWSD: 0.627 v.s. 0.529
+ 
+I74_10_01.png and I74_23_01.png: 
+ MOS: 4.37 v.s. 2.27 
+ FSIM: 0.991 v.s. 0.991 
+ DeepWSD: 0.376 v.s. 0.412
+ 
+I39_11_01.png and I39_23_01.png: 
+ MOS: 4.53 v.s. 2.5 
+ FSIM: 0.991 v.s. 0.99 
+ DeepWSD: 0.321 v.s. 0.418
+ 
+I70_11_05.png and I70_16_03.png: 
+ MOS: 2.03 v.s. 4.03 
+ FSIM: 0.93 v.s. 0.931 
+ DeepWSD: 0.607 v.s. 0.524
+ 
+I74_11_01.png and I74_23_01.png: 
+ MOS: 4.4 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ DeepWSD: 0.302 v.s. 0.412
+ 
+I22_12_01.png and I22_23_01.png: 
+ MOS: 4.73 v.s. 1.97 
+ FSIM: 0.99 v.s. 0.99 
+ DeepWSD: 0.312 v.s. 0.453
+ 
+I55_12_02.png and I55_23_01.png: 
+ MOS: 4.53 v.s. 2.27 
+ FSIM: 0.985 v.s. 0.984 
+ DeepWSD: 0.389 v.s. 0.455
+ 
+I05_13_04.png and I05_20_03.png: 
+ MOS: 2.07 v.s. 4.4 
+ FSIM: 0.968 v.s. 0.968 
+ DeepWSD: 0.477 v.s. 0.447
+ 
+I05_13_05.png and I05_20_04.png: 
+ MOS: 2.07 v.s. 4.43 
+ FSIM: 0.953 v.s. 0.954 
+ DeepWSD: 0.52 v.s. 0.475
+ 
+I17_13_05.png and I17_20_03.png: 
+ MOS: 2.4 v.s. 4.4 
+ FSIM: 0.961 v.s. 0.96 
+ DeepWSD: 0.509 v.s. 0.519
+ 
+I34_13_04.png and I34_21_01.png: 
+ MOS: 2.07 v.s. 4.17 
+ FSIM: 0.944 v.s. 0.943 
+ DeepWSD: 0.543 v.s. 0.453
+ 
+I81_13_03.png and I81_18_05.png: 
+ MOS: 2.17 v.s. 4.2 
+ FSIM: 0.971 v.s. 0.971 
+ DeepWSD: 0.511 v.s. 0.435
+ 
+I16_14_05.png and I16_21_01.png: 
+ MOS: 1.9 v.s. 4.1 
+ FSIM: 0.946 v.s. 0.946 
+ DeepWSD: 0.534 v.s. 0.457
+ 
+I36_14_05.png and I36_21_01.png: 
+ MOS: 2.2 v.s. 4.27 
+ FSIM: 0.952 v.s. 0.951 
+ DeepWSD: 0.51 v.s. 0.471
+ 
+I74_14_02.png and I74_23_01.png: 
+ MOS: 4.3 v.s. 2.27 
+ FSIM: 0.99 v.s. 0.991 
+ DeepWSD: 0.328 v.s. 0.412
+ 
+I46_15_01.png and I46_23_04.png: 
+ MOS: 4.23 v.s. 2.17 
+ FSIM: 0.955 v.s. 0.955 
+ DeepWSD: 0.484 v.s. 0.571
+ 
+I46_15_01.png and I46_23_05.png: 
+ MOS: 4.23 v.s. 1.87 
+ FSIM: 0.955 v.s. 0.956 
+ DeepWSD: 0.484 v.s. 0.582
+ 
+I70_15_01.png and I70_20_05.png: 
+ MOS: 4.13 v.s. 1.74 
+ FSIM: 0.962 v.s. 0.961 
+ DeepWSD: 0.487 v.s. 0.577
+ 
+I71_15_03.png and I71_24_01.png: 
+ MOS: 1.67 v.s. 3.77 
+ FSIM: 0.907 v.s. 0.907 
+ DeepWSD: 0.621 v.s. 0.56
+ 
+I39_16_03.png and I39_23_04.png: 
+ MOS: 4.3 v.s. 2.1 
+ FSIM: 0.954 v.s. 0.954 
+ DeepWSD: 0.515 v.s. 0.569
+ 
+I47_16_02.png and I47_23_01.png: 
+ MOS: 4.53 v.s. 2.47 
+ FSIM: 0.991 v.s. 0.991 
+ DeepWSD: 0.384 v.s. 0.43
+ 
+I74_16_02.png and I74_23_01.png: 
+ MOS: 4.42 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ DeepWSD: 0.364 v.s. 0.412
+ 
+I11_17_03.png and I11_23_01.png: 
+ MOS: 4.6 v.s. 1.93 
+ FSIM: 0.987 v.s. 0.988 
+ DeepWSD: 0.395 v.s. 0.447
+ 
+I12_17_03.png and I12_23_01.png: 
+ MOS: 4.33 v.s. 2.26 
+ FSIM: 0.988 v.s. 0.987 
+ DeepWSD: 0.395 v.s. 0.452
+ 
+I69_17_03.png and I69_23_01.png: 
+ MOS: 4.27 v.s. 2.2 
+ FSIM: 0.989 v.s. 0.989 
+ DeepWSD: 0.388 v.s. 0.405
+ 
+I08_18_05.png and I08_19_04.png: 
+ MOS: 4.13 v.s. 1.87 
+ FSIM: 0.978 v.s. 0.978 
+ DeepWSD: 0.435 v.s. 0.538
+ 
+I22_18_01.png and I22_23_01.png: 
+ MOS: 4.07 v.s. 1.97 
+ FSIM: 0.99 v.s. 0.99 
+ DeepWSD: 0.412 v.s. 0.453
+ 
+I52_18_01.png and I52_23_01.png: 
+ MOS: 4.63 v.s. 2.43 
+ FSIM: 0.986 v.s. 0.985 
+ DeepWSD: 0.369 v.s. 0.42
+ 
+I55_18_01.png and I55_23_01.png: 
+ MOS: 4.43 v.s. 2.27 
+ FSIM: 0.984 v.s. 0.984 
+ DeepWSD: 0.389 v.s. 0.455
+ 
+I62_18_01.png and I62_23_03.png: 
+ MOS: 4.38 v.s. 1.9 
+ FSIM: 0.973 v.s. 0.972 
+ DeepWSD: 0.436 v.s. 0.541
+ 
+I69_18_04.png and I69_23_01.png: 
+ MOS: 4.43 v.s. 2.2 
+ FSIM: 0.988 v.s. 0.989 
+ DeepWSD: 0.327 v.s. 0.405
+ 
+I70_18_01.png and I70_19_04.png: 
+ MOS: 4.37 v.s. 1.57 
+ FSIM: 0.949 v.s. 0.949 
+ DeepWSD: 0.448 v.s. 0.614
+ 
+I08_19_04.png and I08_20_04.png: 
+ MOS: 1.87 v.s. 3.97 
+ FSIM: 0.978 v.s. 0.978 
+ DeepWSD: 0.538 v.s. 0.499
+ 
+I23_19_01.png and I23_23_01.png: 
+ MOS: 4.6 v.s. 2.57 
+ FSIM: 0.997 v.s. 0.996 
+ DeepWSD: 0.3 v.s. 0.429
+ 
+I49_19_04.png and I49_25_05.png: 
+ MOS: 1.87 v.s. 3.97 
+ FSIM: 0.956 v.s. 0.955 
+ DeepWSD: 0.582 v.s. 0.528
+ 
+I02_20_05.png and I02_23_04.png: 
+ MOS: 4.4 v.s. 2.2 
+ FSIM: 0.94 v.s. 0.94 
+ DeepWSD: 0.523 v.s. 0.578
+ 
+I03_20_02.png and I03_23_02.png: 
+ MOS: 4.67 v.s. 2.3 
+ FSIM: 0.975 v.s. 0.975 
+ DeepWSD: 0.464 v.s. 0.48
+ 
+I03_20_04.png and I03_23_04.png: 
+ MOS: 4.17 v.s. 2.1 
+ FSIM: 0.954 v.s. 0.954 
+ DeepWSD: 0.534 v.s. 0.557
+ 
+I04_20_02.png and I04_23_03.png: 
+ MOS: 4.1 v.s. 1.87 
+ FSIM: 0.968 v.s. 0.968 
+ DeepWSD: 0.502 v.s. 0.528
+ 
+I05_20_02.png and I05_23_01.png: 
+ MOS: 4.53 v.s. 2.33 
+ FSIM: 0.979 v.s. 0.979 
+ DeepWSD: 0.399 v.s. 0.427
+ 
+I05_20_05.png and I05_23_04.png: 
+ MOS: 3.97 v.s. 1.8 
+ FSIM: 0.942 v.s. 0.942 
+ DeepWSD: 0.518 v.s. 0.566
+ 
+I11_20_03.png and I11_23_02.png: 
+ MOS: 4.17 v.s. 1.63 
+ FSIM: 0.975 v.s. 0.974 
+ DeepWSD: 0.437 v.s. 0.496
+ 
+I12_20_01.png and I12_23_01.png: 
+ MOS: 4.37 v.s. 2.26 
+ FSIM: 0.987 v.s. 0.987 
+ DeepWSD: 0.403 v.s. 0.452
+ 
+I31_20_05.png and I31_23_04.png: 
+ MOS: 4.27 v.s. 2.23 
+ FSIM: 0.957 v.s. 0.957 
+ DeepWSD: 0.523 v.s. 0.572
+ 
+I43_20_02.png and I43_23_01.png: 
+ MOS: 4.53 v.s. 2.43 
+ FSIM: 0.983 v.s. 0.984 
+ DeepWSD: 0.394 v.s. 0.443
+ 
+I46_20_05.png and I46_23_05.png: 
+ MOS: 4.37 v.s. 1.87 
+ FSIM: 0.957 v.s. 0.956 
+ DeepWSD: 0.543 v.s. 0.582
+ 
+I81_20_05.png and I81_25_02.png: 
+ MOS: 1.33 v.s. 3.73 
+ FSIM: 0.965 v.s. 0.965 
+ DeepWSD: 0.53 v.s. 0.5
+ 
+I08_21_05.png and I08_25_05.png: 
+ MOS: 1.63 v.s. 3.7 
+ FSIM: 0.96 v.s. 0.96 
+ DeepWSD: 0.544 v.s. 0.552
+ 
+I50_21_01.png and I50_23_03.png: 
+ MOS: 4.37 v.s. 2.2 
+ FSIM: 0.955 v.s. 0.955 
+ DeepWSD: 0.449 v.s. 0.543
+ 
+I11_22_01.png and I11_23_01.png: 
+ MOS: 4.1 v.s. 1.93 
+ FSIM: 0.989 v.s. 0.988 
+ DeepWSD: 0.371 v.s. 0.447
+ 
+I12_22_04.png and I12_23_01.png: 
+ MOS: 4.43 v.s. 2.26 
+ FSIM: 0.986 v.s. 0.987 
+ DeepWSD: 0.373 v.s. 0.452
+ 
+I23_22_04.png and I23_23_03.png: 
+ MOS: 4.43 v.s. 2 
+ FSIM: 0.971 v.s. 0.97 
+ DeepWSD: 0.399 v.s. 0.567
+ 
+I46_22_05.png and I46_23_05.png: 
+ MOS: 3.93 v.s. 1.87 
+ FSIM: 0.956 v.s. 0.956 
+ DeepWSD: 0.479 v.s. 0.582
+ 
+I56_22_01.png and I56_23_02.png: 
+ MOS: 4.2 v.s. 2.07 
+ FSIM: 0.985 v.s. 0.985 
+ DeepWSD: 0.368 v.s. 0.473
+ 
+I74_22_02.png and I74_23_01.png: 
+ MOS: 4.5 v.s. 2.27 
+ FSIM: 0.992 v.s. 0.991 
+ DeepWSD: 0.317 v.s. 0.412
+ 
+I74_22_04.png and I74_23_02.png: 
+ MOS: 4.4 v.s. 2.3 
+ FSIM: 0.967 v.s. 0.966 
+ DeepWSD: 0.417 v.s. 0.524
+ 
+I77_22_01.png and I77_23_01.png: 
+ MOS: 4.6 v.s. 2.47 
+ FSIM: 0.99 v.s. 0.989 
+ DeepWSD: 0.356 v.s. 0.456
+ 
+I08_23_04.png and I08_24_01.png: 
+ MOS: 2.03 v.s. 4.1 
+ FSIM: 0.968 v.s. 0.968 
+ DeepWSD: 0.565 v.s. 0.48
+ 
+I12_23_01.png and I12_25_04.png: 
+ MOS: 2.26 v.s. 4.33 
+ FSIM: 0.987 v.s. 0.987 
+ DeepWSD: 0.452 v.s. 0.421
+ 
+I22_23_01.png and I22_25_04.png: 
+ MOS: 1.97 v.s. 4.03 
+ FSIM: 0.99 v.s. 0.991 
+ DeepWSD: 0.453 v.s. 0.44
+ 
+I25_23_01.png and I25_25_03.png: 
+ MOS: 2.43 v.s. 4.5 
+ FSIM: 0.979 v.s. 0.979 
+ DeepWSD: 0.445 v.s. 0.412
+ 
+I25_23_01.png and I25_25_04.png: 
+ MOS: 2.43 v.s. 4.67 
+ FSIM: 0.979 v.s. 0.979 
+ DeepWSD: 0.445 v.s. 0.414
+ 
+I55_23_01.png and I55_25_04.png: 
+ MOS: 2.27 v.s. 4.3 
+ FSIM: 0.984 v.s. 0.985 
+ DeepWSD: 0.455 v.s. 0.404
+ 
+I81_23_04.png and I81_25_02.png: 
+ MOS: 1.67 v.s. 3.73 
+ FSIM: 0.965 v.s. 0.965 
+ DeepWSD: 0.572 v.s. 0.5
+ 
+Total num: 134

@@ -1,0 +1,206 @@
+I52_01_02.png and I52_23_01.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0122 v.s. 0.0118 
+ DeepJSD: 0.26 v.s. 0.39
+ 
+I78_03_02.png and I78_23_01.png: 
+ MOS: 4.48 v.s. 2.13 
+ DISTS: 0.0337 v.s. 0.0344 
+ DeepJSD: 0.284 v.s. 0.397
+ 
+I12_04_01.png and I12_23_01.png: 
+ MOS: 4.5 v.s. 2.26 
+ DISTS: 0.0481 v.s. 0.0487 
+ DeepJSD: 0.338 v.s. 0.39
+ 
+I23_04_01.png and I23_23_02.png: 
+ MOS: 4.8 v.s. 2.07 
+ DISTS: 0.0573 v.s. 0.0569 
+ DeepJSD: 0.421 v.s. 0.485
+ 
+I39_04_01.png and I39_23_03.png: 
+ MOS: 4.63 v.s. 2.33 
+ DISTS: 0.0557 v.s. 0.0558 
+ DeepJSD: 0.404 v.s. 0.535
+ 
+I42_04_01.png and I42_23_02.png: 
+ MOS: 4.73 v.s. 2.37 
+ DISTS: 0.0748 v.s. 0.0749 
+ DeepJSD: 0.375 v.s. 0.462
+ 
+I71_04_01.png and I71_05_03.png: 
+ MOS: 4.1 v.s. 1.87 
+ DISTS: 0.0724 v.s. 0.0723 
+ DeepJSD: 0.469 v.s. 0.473
+ 
+I77_04_01.png and I77_05_05.png: 
+ MOS: 4.47 v.s. 2.33 
+ DISTS: 0.0627 v.s. 0.0626 
+ DeepJSD: 0.399 v.s. 0.488
+ 
+I16_05_02.png and I16_09_02.png: 
+ MOS: 1.58 v.s. 4.23 
+ DISTS: 0.101 v.s. 0.101 
+ DeepJSD: 0.448 v.s. 0.394
+ 
+I43_05_05.png and I43_12_03.png: 
+ MOS: 1.84 v.s. 3.87 
+ DISTS: 0.159 v.s. 0.159 
+ DeepJSD: 0.519 v.s. 0.475
+ 
+I44_05_01.png and I44_23_01.png: 
+ MOS: 4.73 v.s. 2.73 
+ DISTS: 0.0264 v.s. 0.0256 
+ DeepJSD: 0.238 v.s. 0.333
+ 
+I77_05_02.png and I77_22_02.png: 
+ MOS: 2.57 v.s. 4.57 
+ DISTS: 0.0401 v.s. 0.0392 
+ DeepJSD: 0.405 v.s. 0.365
+ 
+I77_05_05.png and I77_11_01.png: 
+ MOS: 2.33 v.s. 4.42 
+ DISTS: 0.0626 v.s. 0.0629 
+ DeepJSD: 0.488 v.s. 0.31
+ 
+I81_05_03.png and I81_12_02.png: 
+ MOS: 1.37 v.s. 3.39 
+ DISTS: 0.0996 v.s. 0.1 
+ DeepJSD: 0.507 v.s. 0.422
+ 
+I11_06_01.png and I11_23_01.png: 
+ MOS: 4.17 v.s. 1.93 
+ DISTS: 0.0469 v.s. 0.0465 
+ DeepJSD: 0.364 v.s. 0.388
+ 
+I11_06_03.png and I11_23_02.png: 
+ MOS: 4.03 v.s. 1.63 
+ DISTS: 0.0877 v.s. 0.0878 
+ DeepJSD: 0.441 v.s. 0.451
+ 
+I70_06_02.png and I70_20_05.png: 
+ MOS: 3.9 v.s. 1.74 
+ DISTS: 0.0848 v.s. 0.0843 
+ DeepJSD: 0.367 v.s. 0.55
+ 
+I52_08_03.png and I52_10_04.png: 
+ MOS: 3.73 v.s. 1.7 
+ DISTS: 0.142 v.s. 0.141 
+ DeepJSD: 0.617 v.s. 0.615
+ 
+I07_09_04.png and I07_21_05.png: 
+ MOS: 3.6 v.s. 1.53 
+ DISTS: 0.112 v.s. 0.112 
+ DeepJSD: 0.421 v.s. 0.46
+ 
+I18_09_03.png and I18_23_02.png: 
+ MOS: 4.27 v.s. 2 
+ DISTS: 0.0653 v.s. 0.0662 
+ DeepJSD: 0.305 v.s. 0.44
+ 
+I27_09_02.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0504 v.s. 0.051 
+ DeepJSD: 0.272 v.s. 0.398
+ 
+I45_09_02.png and I45_20_05.png: 
+ MOS: 4.47 v.s. 2.07 
+ DISTS: 0.0494 v.s. 0.0496 
+ DeepJSD: 0.367 v.s. 0.493
+ 
+I45_09_02.png and I45_21_02.png: 
+ MOS: 4.47 v.s. 2.43 
+ DISTS: 0.0494 v.s. 0.0497 
+ DeepJSD: 0.367 v.s. 0.442
+ 
+I56_09_03.png and I56_21_03.png: 
+ MOS: 4.67 v.s. 2.5 
+ DISTS: 0.0363 v.s. 0.0369 
+ DeepJSD: 0.323 v.s. 0.371
+ 
+I16_10_02.png and I16_23_01.png: 
+ MOS: 4.23 v.s. 2.13 
+ DISTS: 0.0617 v.s. 0.0611 
+ DeepJSD: 0.368 v.s. 0.413
+ 
+I29_10_02.png and I29_20_04.png: 
+ MOS: 4.33 v.s. 2.3 
+ DISTS: 0.0789 v.s. 0.0785 
+ DeepJSD: 0.285 v.s. 0.424
+ 
+I39_10_02.png and I39_23_02.png: 
+ MOS: 4.53 v.s. 2.39 
+ DISTS: 0.0358 v.s. 0.0357 
+ DeepJSD: 0.371 v.s. 0.482
+ 
+I55_10_02.png and I55_23_01.png: 
+ MOS: 4.37 v.s. 2.27 
+ DISTS: 0.049 v.s. 0.0494 
+ DeepJSD: 0.369 v.s. 0.409
+ 
+I66_10_01.png and I66_23_01.png: 
+ MOS: 4.43 v.s. 2.3 
+ DISTS: 0.0338 v.s. 0.034 
+ DeepJSD: 0.326 v.s. 0.406
+ 
+I27_12_01.png and I27_21_04.png: 
+ MOS: 4.23 v.s. 1.84 
+ DISTS: 0.0509 v.s. 0.051 
+ DeepJSD: 0.265 v.s. 0.398
+ 
+I64_12_02.png and I64_21_04.png: 
+ MOS: 4.1 v.s. 2.07 
+ DISTS: 0.0569 v.s. 0.0565 
+ DeepJSD: 0.38 v.s. 0.491
+ 
+I80_12_02.png and I80_23_02.png: 
+ MOS: 4.43 v.s. 2.37 
+ DISTS: 0.0624 v.s. 0.0619 
+ DeepJSD: 0.371 v.s. 0.423
+ 
+I18_14_01.png and I18_23_02.png: 
+ MOS: 4.07 v.s. 2 
+ DISTS: 0.0671 v.s. 0.0662 
+ DeepJSD: 0.278 v.s. 0.44
+ 
+I25_17_03.png and I25_23_01.png: 
+ MOS: 4.5 v.s. 2.43 
+ DISTS: 0.0537 v.s. 0.0543 
+ DeepJSD: 0.315 v.s. 0.372
+ 
+I39_17_03.png and I39_23_01.png: 
+ MOS: 4.6 v.s. 2.5 
+ DISTS: 0.0345 v.s. 0.0338 
+ DeepJSD: 0.381 v.s. 0.398
+ 
+I52_17_03.png and I52_23_02.png: 
+ MOS: 4.67 v.s. 2.53 
+ DISTS: 0.0193 v.s. 0.0187 
+ DeepJSD: 0.31 v.s. 0.441
+ 
+I52_18_01.png and I52_23_02.png: 
+ MOS: 4.63 v.s. 2.53 
+ DISTS: 0.0189 v.s. 0.0187 
+ DeepJSD: 0.31 v.s. 0.441
+ 
+I69_18_04.png and I69_23_01.png: 
+ MOS: 4.43 v.s. 2.2 
+ DISTS: 0.0257 v.s. 0.0265 
+ DeepJSD: 0.248 v.s. 0.363
+ 
+I23_23_03.png and I23_25_01.png: 
+ MOS: 2 v.s. 4.23 
+ DISTS: 0.076 v.s. 0.0767 
+ DeepJSD: 0.537 v.s. 0.498
+ 
+I69_23_01.png and I69_25_03.png: 
+ MOS: 2.2 v.s. 4.5 
+ DISTS: 0.0265 v.s. 0.0269 
+ DeepJSD: 0.363 v.s. 0.308
+ 
+I77_23_03.png and I77_25_02.png: 
+ MOS: 1.73 v.s. 3.87 
+ DISTS: 0.0725 v.s. 0.073 
+ DeepJSD: 0.514 v.s. 0.444
+ 
+Total num: 41

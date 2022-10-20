@@ -1,0 +1,46 @@
+I30_02_03.png and I30_08_02.png: 
+ MOS: 2.2 v.s. 4.3 
+ DeepWSD: 0.561 v.s. 0.562 
+ FSIM: 0.94 v.s. 0.971
+ 
+I36_04_01.png and I36_13_03.png: 
+ MOS: 4.53 v.s. 2.47 
+ DeepWSD: 0.49 v.s. 0.491 
+ FSIM: 0.978 v.s. 0.969
+ 
+I71_04_01.png and I71_23_03.png: 
+ MOS: 4.1 v.s. 1.8 
+ DeepWSD: 0.53 v.s. 0.53 
+ FSIM: 0.972 v.s. 0.964
+ 
+I16_05_02.png and I16_20_05.png: 
+ MOS: 1.58 v.s. 3.7 
+ DeepWSD: 0.501 v.s. 0.5 
+ FSIM: 0.951 v.s. 0.957
+ 
+I70_05_05.png and I70_25_01.png: 
+ MOS: 1.7 v.s. 3.8 
+ DeepWSD: 0.586 v.s. 0.587 
+ FSIM: 0.96 v.s. 0.888
+ 
+I30_07_02.png and I30_08_02.png: 
+ MOS: 2.07 v.s. 4.3 
+ DeepWSD: 0.562 v.s. 0.562 
+ FSIM: 0.92 v.s. 0.971
+ 
+I11_09_03.png and I11_23_01.png: 
+ MOS: 4.1 v.s. 1.93 
+ DeepWSD: 0.447 v.s. 0.447 
+ FSIM: 0.973 v.s. 0.988
+ 
+I72_09_03.png and I72_21_03.png: 
+ MOS: 4.06 v.s. 1.97 
+ DeepWSD: 0.506 v.s. 0.505 
+ FSIM: 0.969 v.s. 0.952
+ 
+I49_21_05.png and I49_24_02.png: 
+ MOS: 1.43 v.s. 3.5 
+ DeepWSD: 0.611 v.s. 0.611 
+ FSIM: 0.932 v.s. 0.871
+ 
+Total num: 9

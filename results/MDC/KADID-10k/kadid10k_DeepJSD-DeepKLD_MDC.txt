@@ -1,0 +1,51 @@
+I13_03_05.png and I13_08_02.png: 
+ MOS: 1.47 v.s. 3.73 
+ DeepJSD: 0.554 v.s. 0.554 
+ DeepKLD: 0.66 v.s. 0.663
+ 
+I02_05_02.png and I02_21_01.png: 
+ MOS: 1.8 v.s. 4.2 
+ DeepJSD: 0.483 v.s. 0.484 
+ DeepKLD: 0.575 v.s. 0.574
+ 
+I07_05_03.png and I07_09_04.png: 
+ MOS: 1.5 v.s. 3.6 
+ DeepJSD: 0.421 v.s. 0.421 
+ DeepKLD: 0.504 v.s. 0.503
+ 
+I37_05_03.png and I37_24_01.png: 
+ MOS: 1.63 v.s. 3.77 
+ DeepJSD: 0.46 v.s. 0.459 
+ DeepKLD: 0.548 v.s. 0.544
+ 
+I61_05_02.png and I61_20_05.png: 
+ MOS: 2.17 v.s. 4.33 
+ DeepJSD: 0.512 v.s. 0.512 
+ DeepKLD: 0.606 v.s. 0.613
+ 
+I70_05_05.png and I70_25_01.png: 
+ MOS: 1.7 v.s. 3.8 
+ DeepJSD: 0.551 v.s. 0.551 
+ DeepKLD: 0.652 v.s. 0.646
+ 
+I11_09_03.png and I11_23_01.png: 
+ MOS: 4.1 v.s. 1.93 
+ DeepJSD: 0.389 v.s. 0.388 
+ DeepKLD: 0.463 v.s. 0.471
+ 
+I05_10_02.png and I05_23_01.png: 
+ MOS: 4.4 v.s. 2.33 
+ DeepJSD: 0.377 v.s. 0.378 
+ DeepKLD: 0.444 v.s. 0.451
+ 
+I77_17_04.png and I77_23_03.png: 
+ MOS: 3.77 v.s. 1.73 
+ DeepJSD: 0.515 v.s. 0.514 
+ DeepKLD: 0.606 v.s. 0.61
+ 
+I70_20_05.png and I70_25_01.png: 
+ MOS: 1.74 v.s. 3.8 
+ DeepJSD: 0.55 v.s. 0.551 
+ DeepKLD: 0.653 v.s. 0.646
+ 
+Total num: 10
