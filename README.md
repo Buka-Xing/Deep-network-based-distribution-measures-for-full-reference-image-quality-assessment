@@ -22,10 +22,11 @@ are uploaded in 'results' folder.
 ------------------------------
 
 ## Acknowledgement:
-We thanks a lot for work of 'dingkeyan93' and work of DISTS. DeepWSD is mostly inspired by the insightful idea from him.  
+We thanks a lot for work of 'dingkeyan93' and work of [DISTS](https://github.com/dingkeyan93/DISTS). DeepWSD is mostly inspired by the insightful idea from him. 
 
 We also thank a lot for the [RCAN](https://github.com/yjn870/RCAN-pytorch) repository proposed by 'yjn870', which is the super-resolution backbone network we used.
 Meanwhile, the [FFDNet](https://github.com/Aoi-hosizora/FFDNet_pytorch) used for denoising is proposed by 'Aoi-hosizora', we also appreciate he/her work.
+
 ------------------------------
 
 ## Citations:
