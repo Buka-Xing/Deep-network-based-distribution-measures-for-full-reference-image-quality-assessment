@@ -1,0 +1,66 @@
+i05_06_4.bmp and i05_09_3.bmp: 
+ MOS: 3.32 v.s. 5.33 
+ DeepJSD: 0.465 v.s. 0.464 
+ FSIM: 0.964 v.s. 0.967
+ 
+i19_06_5.bmp and i19_23_5.bmp: 
+ MOS: 3.19 v.s. 5.22 
+ DeepJSD: 0.525 v.s. 0.525 
+ FSIM: 0.929 v.s. 0.955
+ 
+i17_09_2.bmp and i17_18_2.bmp: 
+ MOS: 6.11 v.s. 4.08 
+ DeepJSD: 0.372 v.s. 0.372 
+ FSIM: 0.982 v.s. 0.992
+ 
+i24_10_3.bmp and i24_17_4.bmp: 
+ MOS: 4.66 v.s. 6.72 
+ DeepJSD: 0.408 v.s. 0.407 
+ FSIM: 0.975 v.s. 0.957
+ 
+i13_12_3.bmp and i13_18_4.bmp: 
+ MOS: 5.12 v.s. 2.85 
+ DeepJSD: 0.412 v.s. 0.413 
+ FSIM: 0.942 v.s. 0.982
+ 
+i19_12_4.bmp and i19_15_1.bmp: 
+ MOS: 5.08 v.s. 2.89 
+ DeepJSD: 0.515 v.s. 0.514 
+ FSIM: 0.922 v.s. 0.924
+ 
+i11_13_2.bmp and i11_17_4.bmp: 
+ MOS: 4.54 v.s. 6.84 
+ DeepJSD: 0.418 v.s. 0.418 
+ FSIM: 0.975 v.s. 0.956
+ 
+i13_14_4.bmp and i13_17_5.bmp: 
+ MOS: 5.02 v.s. 2.59 
+ DeepJSD: 0.446 v.s. 0.446 
+ FSIM: 0.937 v.s. 0.853
+ 
+i07_15_5.bmp and i07_17_4.bmp: 
+ MOS: 3.65 v.s. 6.73 
+ DeepJSD: 0.421 v.s. 0.422 
+ FSIM: 0.98 v.s. 0.958
+ 
+i13_15_2.bmp and i13_23_5.bmp: 
+ MOS: 2.88 v.s. 5.21 
+ DeepJSD: 0.479 v.s. 0.479 
+ FSIM: 0.941 v.s. 0.971
+ 
+i13_15_3.bmp and i13_23_5.bmp: 
+ MOS: 3.05 v.s. 5.21 
+ DeepJSD: 0.479 v.s. 0.479 
+ FSIM: 0.95 v.s. 0.971
+ 
+i13_16_5.bmp and i13_17_2.bmp: 
+ MOS: 4.44 v.s. 6.63 
+ DeepJSD: 0.289 v.s. 0.289 
+ FSIM: 0.99 v.s. 0.982
+ 
+i23_17_4.bmp and i23_19_3.bmp: 
+ MOS: 6.69 v.s. 4.62 
+ DeepJSD: 0.457 v.s. 0.456 
+ FSIM: 0.949 v.s. 0.958
+ 
+Total num: 13

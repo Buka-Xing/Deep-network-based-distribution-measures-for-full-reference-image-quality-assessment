@@ -1,0 +1,11 @@
+i01_15_5.bmp and i01_16_2.bmp: 
+ MOS: 3.89 v.s. 6.05 
+ MAD: 0 v.s. 0 
+ DISTS: 0.0394 v.s. 0.00833
+ 
+i24_15_5.bmp and i24_16_1.bmp: 
+ MOS: 3.39 v.s. 5.97 
+ MAD: 0 v.s. 0 
+ DISTS: 0.0776 v.s. 0.00253
+ 
+Total num: 2

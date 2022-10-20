@@ -1,0 +1,141 @@
+i04_02_2.bmp and i04_15_5.bmp: 
+ MOS: 6.15 v.s. 4.05 
+ DISTS: 0.0408 v.s. 0.041 
+ FSIM: 0.994 v.s. 0.975
+ 
+i20_02_4.bmp and i20_15_1.bmp: 
+ MOS: 5.28 v.s. 3.23 
+ DISTS: 0.0914 v.s. 0.091 
+ FSIM: 0.976 v.s. 0.927
+ 
+i22_02_3.bmp and i22_15_4.bmp: 
+ MOS: 5.47 v.s. 3.39 
+ DISTS: 0.0484 v.s. 0.0476 
+ FSIM: 0.99 v.s. 0.966
+ 
+i03_04_4.bmp and i03_09_1.bmp: 
+ MOS: 4.6 v.s. 6.65 
+ DISTS: 0.0608 v.s. 0.061 
+ FSIM: 0.982 v.s. 0.989
+ 
+i09_04_5.bmp and i09_17_4.bmp: 
+ MOS: 4.27 v.s. 6.36 
+ DISTS: 0.0574 v.s. 0.0566 
+ FSIM: 0.979 v.s. 0.963
+ 
+i09_05_3.bmp and i09_15_1.bmp: 
+ MOS: 4.97 v.s. 2.91 
+ DISTS: 0.0825 v.s. 0.0826 
+ FSIM: 0.979 v.s. 0.922
+ 
+i11_06_1.bmp and i11_17_2.bmp: 
+ MOS: 4.69 v.s. 6.75 
+ DISTS: 0.0282 v.s. 0.0274 
+ FSIM: 0.993 v.s. 0.988
+ 
+i21_06_3.bmp and i21_17_4.bmp: 
+ MOS: 4.02 v.s. 6.3 
+ DISTS: 0.0607 v.s. 0.0614 
+ FSIM: 0.975 v.s. 0.946
+ 
+i11_07_2.bmp and i11_17_4.bmp: 
+ MOS: 4.8 v.s. 6.84 
+ DISTS: 0.0715 v.s. 0.0724 
+ FSIM: 0.974 v.s. 0.956
+ 
+i14_09_1.bmp and i14_15_4.bmp: 
+ MOS: 6.05 v.s. 3.62 
+ DISTS: 0.0471 v.s. 0.0478 
+ FSIM: 0.99 v.s. 0.968
+ 
+i17_09_2.bmp and i17_14_5.bmp: 
+ MOS: 6.11 v.s. 3.52 
+ DISTS: 0.0931 v.s. 0.0927 
+ FSIM: 0.982 v.s. 0.935
+ 
+i20_09_2.bmp and i20_15_4.bmp: 
+ MOS: 6.13 v.s. 3.9 
+ DISTS: 0.0444 v.s. 0.045 
+ FSIM: 0.989 v.s. 0.967
+ 
+i23_09_3.bmp and i23_15_1.bmp: 
+ MOS: 5.71 v.s. 2.94 
+ DISTS: 0.104 v.s. 0.104 
+ FSIM: 0.971 v.s. 0.939
+ 
+i01_10_3.bmp and i01_15_1.bmp: 
+ MOS: 4.92 v.s. 2.83 
+ DISTS: 0.0695 v.s. 0.0697 
+ FSIM: 0.976 v.s. 0.926
+ 
+i21_10_2.bmp and i21_15_5.bmp: 
+ MOS: 5.88 v.s. 3.71 
+ DISTS: 0.042 v.s. 0.0426 
+ FSIM: 0.993 v.s. 0.976
+ 
+i21_10_3.bmp and i21_15_1.bmp: 
+ MOS: 5.14 v.s. 2.85 
+ DISTS: 0.0869 v.s. 0.0875 
+ FSIM: 0.978 v.s. 0.907
+ 
+i04_14_4.bmp and i04_23_1.bmp: 
+ MOS: 4.4 v.s. 6.42 
+ DISTS: 0.0432 v.s. 0.0436 
+ FSIM: 0.974 v.s. 0.994
+ 
+i25_14_4.bmp and i25_17_4.bmp: 
+ MOS: 3.83 v.s. 6.39 
+ DISTS: 0.0505 v.s. 0.0513 
+ FSIM: 0.971 v.s. 0.968
+ 
+i01_15_1.bmp and i01_22_2.bmp: 
+ MOS: 2.83 v.s. 5.19 
+ DISTS: 0.0697 v.s. 0.0696 
+ FSIM: 0.926 v.s. 0.981
+ 
+i05_15_2.bmp and i05_23_4.bmp: 
+ MOS: 3.1 v.s. 5.76 
+ DISTS: 0.0547 v.s. 0.0554 
+ FSIM: 0.939 v.s. 0.979
+ 
+i06_15_3.bmp and i06_16_4.bmp: 
+ MOS: 3.75 v.s. 5.84 
+ DISTS: 0.0369 v.s. 0.0378 
+ FSIM: 0.93 v.s. 0.992
+ 
+i07_15_3.bmp and i07_24_1.bmp: 
+ MOS: 3.05 v.s. 5.72 
+ DISTS: 0.0691 v.s. 0.0691 
+ FSIM: 0.959 v.s. 0.989
+ 
+i08_15_2.bmp and i08_23_4.bmp: 
+ MOS: 2.94 v.s. 5.5 
+ DISTS: 0.0528 v.s. 0.0527 
+ FSIM: 0.947 v.s. 0.98
+ 
+i08_15_5.bmp and i08_24_2.bmp: 
+ MOS: 3.52 v.s. 5.78 
+ DISTS: 0.032 v.s. 0.032 
+ FSIM: 0.983 v.s. 0.986
+ 
+i10_15_4.bmp and i10_23_2.bmp: 
+ MOS: 3.37 v.s. 5.95 
+ DISTS: 0.07 v.s. 0.0706 
+ FSIM: 0.961 v.s. 0.986
+ 
+i18_15_3.bmp and i18_23_4.bmp: 
+ MOS: 3.2 v.s. 5.93 
+ DISTS: 0.103 v.s. 0.104 
+ FSIM: 0.939 v.s. 0.97
+ 
+i20_15_5.bmp and i20_24_1.bmp: 
+ MOS: 4.05 v.s. 6.18 
+ DISTS: 0.0365 v.s. 0.0374 
+ FSIM: 0.984 v.s. 0.991
+ 
+i24_15_5.bmp and i24_23_3.bmp: 
+ MOS: 3.39 v.s. 5.69 
+ DISTS: 0.0776 v.s. 0.0766 
+ FSIM: 0.979 v.s. 0.978
+ 
+Total num: 28

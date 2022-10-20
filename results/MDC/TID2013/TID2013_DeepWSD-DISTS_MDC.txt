@@ -1,0 +1,31 @@
+i19_07_4.bmp and i19_23_5.bmp: 
+ MOS: 3.19 v.s. 5.22 
+ DeepWSD: 0.492 v.s. 0.491 
+ DISTS: 0.134 v.s. 0.112
+ 
+i03_14_4.bmp and i03_17_4.bmp: 
+ MOS: 4.46 v.s. 6.58 
+ DeepWSD: 0.397 v.s. 0.397 
+ DISTS: 0.0532 v.s. 0.0632
+ 
+i09_14_3.bmp and i09_18_3.bmp: 
+ MOS: 6.28 v.s. 4.06 
+ DeepWSD: 0.378 v.s. 0.377 
+ DISTS: 0.0282 v.s. 0.0862
+ 
+i13_14_4.bmp and i13_17_5.bmp: 
+ MOS: 5.02 v.s. 2.59 
+ DeepWSD: 0.413 v.s. 0.413 
+ DISTS: 0.0652 v.s. 0.157
+ 
+i11_17_5.bmp and i11_23_4.bmp: 
+ MOS: 3.22 v.s. 5.27 
+ DeepWSD: 0.474 v.s. 0.474 
+ DISTS: 0.16 v.s. 0.142
+ 
+i01_18_4.bmp and i01_23_3.bmp: 
+ MOS: 3.47 v.s. 5.78 
+ DeepWSD: 0.396 v.s. 0.395 
+ DISTS: 0.185 v.s. 0.112
+ 
+Total num: 6
