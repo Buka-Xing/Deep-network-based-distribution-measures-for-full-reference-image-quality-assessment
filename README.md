@@ -1,15 +1,19 @@
-# Deep network based distribution measures for full-reference image quality assessment
+# Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces
 ----------------------------
-This is the repository of paper [Image Quality Assessment: Gauging Perceptual Degradation by Distribution Measures in the Deep Feature Space](xxx). 
+This is the repository of the paper [Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces](xxx). 
 
-Three deep network based distribution measures are proposed, **the DeepWSD**, **the DeepJSD** and **the DeepSKLD**.
+Three deep distribution measures are proposed, **the DeepWSD**, **the DeepJSD** and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants with the SqueezeNet, the MobileNet, and the ResNet are also proposed. 
 
-## Advantages of deep network based distribution measures
+## Advantages of deep network based distribution measures:
+1.  Superior performance on synthetic distortion-based datasets without further fine-tuning.
+
+2.  Differentiability in guiding perceptual image enhancement.
+
+3.  Adaptivity to diverse network architectures.
 
 -----------------------------
 ## Updating log:
-2022/10/20: the repository is created and the quality assessment result, the maximum difference competition results, image super-resolution and denoising results 
-are uploaded in 'results' folder. 
+2024/1/24: the repository is created, and the quality assessment result and the image-to-image enhancement results are uploaded in 'results' folder. 
 
 -----------------------------
 ## Requirements:
@@ -18,15 +22,9 @@ are uploaded in 'results' folder.
 ------------------------------
 
 ## Useage:
+Please compare reference and distorted images one by one. The batch-based computation **is not supported**.  
 
 ------------------------------
 
 ## Acknowledgement:
 We thanks a lot for work of 'dingkeyan93' and work of [DISTS](https://github.com/dingkeyan93/DISTS). DeepWSD is mostly inspired by the insightful idea from him. 
-
-We also thank a lot for the [RCAN](https://github.com/yjn870/RCAN-pytorch) repository proposed by 'yjn870', which is the super-resolution backbone network we used.
-Meanwhile, the [FFDNet](https://github.com/Aoi-hosizora/FFDNet_pytorch) used for denoising is proposed by 'Aoi-hosizora', we also appreciate he/her work.
-
-------------------------------
-
-## Citations:
