@@ -2,9 +2,9 @@
 ----------------------------
 This is the repository of the paper [Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces](xxx). 
 
-Three deep distribution measures are proposed, **the DeepWSD**, **the DeepJSD** and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants with the SqueezeNet, the MobileNet, and the ResNet are also proposed. 
+Three deep distribution measures are proposed: **the DeepWSD**, **the DeepJSD**, and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants with the SqueezeNet, the MobileNet, and the ResNet are also proposed. 
 
-## Advantages of deep network based distribution measures:
+## Advantages of deep network-based distribution measures:
 1.  Superior performance on synthetic distortion-based datasets without further fine-tuning.
 
 2.  Differentiability in guiding perceptual image enhancement.
@@ -21,10 +21,10 @@ Three deep distribution measures are proposed, **the DeepWSD**, **the DeepJSD** 
 
 ------------------------------
 
-## Useage:
+## Usage:
 Please compare reference and distorted images one by one. The batch-based computation **is not supported**.  
 
 ------------------------------
 
 ## Acknowledgement:
-We thanks a lot for work of 'dingkeyan93' and work of [DISTS](https://github.com/dingkeyan93/DISTS). DeepWSD is mostly inspired by the insightful idea from him. 
+We thank 'dingkeyan93' a lot for the work [DISTS](https://github.com/dingkeyan93/DISTS). His insightful idea mostly inspires the deep distribution measures. 
