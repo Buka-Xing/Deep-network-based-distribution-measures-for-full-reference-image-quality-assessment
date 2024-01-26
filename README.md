@@ -18,9 +18,13 @@ Three deep distribution measures are proposed: **the DeepWSD**, **the DeepJSD**,
 -----------------------------
 ## Requirements:
 imageio==2.31.1
+
 matplotlib==3.7.2
+
 numpy==1.25.2
+
 Pillow==10.0.0
+
 POT==0.9.0
 
 ------------------------------
