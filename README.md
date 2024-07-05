@@ -30,7 +30,7 @@ POT==0.9.0
 ------------------------------
 
 ## Usage:
-Please compare reference and distorted images one by one. The batch-based computation **is not supported**.  
+Please compare reference and distorted images one by one.
 
     if __name__ == '__main__':
         from PIL import Image
