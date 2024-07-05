@@ -2,7 +2,7 @@
 ----------------------------
 This is the repository of the paper [Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces](xxx). 
 
-Three deep distribution measures are proposed: **the DeepWSD**, **the DeepJSD**, and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants with the SqueezeNet, the MobileNet, and the ResNet are also proposed. 
+Three deep distribution measures are proposed: **the DeepWSD**, **the DeepJSD**, and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants of SqueezeNet, MobileNet, and ResNet are also proposed. 
 
 ## Advantages of deep network-based distribution measures:
 1.  Superior performance on synthetic distortion-based datasets without further fine-tuning.
@@ -30,6 +30,7 @@ POT==0.9.0
 ------------------------------
 
 ## Usage:
+### For Quality Assessment:
 Please compare reference and distorted images one by one.
 
     if __name__ == '__main__':
@@ -50,6 +51,8 @@ Please compare reference and distorted images one by one.
         model = DeepWSD().to(device)
         score = model(ref, dist, as_loss=False)
         print('score: %.4f' % score.item())
+
+### For Perceptual image enhancement: Please Refer to 'recover.py'
 ------------------------------
 
 ## Acknowledgement:
