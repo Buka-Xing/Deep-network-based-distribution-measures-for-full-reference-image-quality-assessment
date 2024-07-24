@@ -1,6 +1,6 @@
 # Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces
 ----------------------------
-This is the repository of the paper [Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces](xxx). 
+This is the repository of the paper [Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces](https://ieeexplore.ieee.org/document/10577432). 
 
 Three deep distribution measures are proposed: **the DeepWSD**, **the DeepJSD**, and **the DeepSKLD**. The default form is based on the VGG architecture. Other variants of SqueezeNet, MobileNet, and ResNet are also proposed. 
 
