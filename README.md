@@ -56,4 +56,16 @@ Please compare reference and distorted images one by one.
 ------------------------------
 
 ## Acknowledgement:
-We thank 'dingkeyan93' a lot for the work [DISTS](https://github.com/dingkeyan93/DISTS). His insightful idea mostly inspires the deep distribution measures. 
+We thank 'dingkeyan93' a lot for the work [DISTS](https://github.com/dingkeyan93/DISTS). His insightful ideas inspire deep distribution measures. 
+
+------------------------------
+## Citation
+        @ARTICLE{10577432,
+          author={Liao, Xingran and Wei, Xuekai and Zhou, Mingliang and Li, Zhengguo, and Kwong, Sam},
+          journal={IEEE Transactions on Image Processing}, 
+          title={Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces}, 
+          year={2024},
+          volume={33},
+          number={},
+          pages={4044-4059},
+          doi={10.1109/TIP.2024.3409176}}
